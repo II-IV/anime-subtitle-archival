@@ -1,0 +1,544 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:11.05,Default,,0000,0000,0000,,
+Dialogue: 0,0:00:11.05,0:00:13.18,Default,,0000,0000,0000,,FREE STUDY
+Dialogue: 0,0:00:15.85,0:00:17.64,Default,,0000,0000,0000,,Are you really going to go help her?
+Dialogue: 0,0:00:17.81,0:00:18.73,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:00:19.23,0:00:20.56,Default,,0000,0000,0000,,It's not right.
+Dialogue: 0,0:00:21.10,0:00:24.07,Default,,0000,0000,0000,,She didn't do anything.\NWhy are they doing this to her?
+Dialogue: 0,0:00:24.23,0:00:26.61,Default,,0000,0000,0000,,Bullies don't need a good reason to bully.
+Dialogue: 0,0:00:26.78,0:00:29.07,Default,,0000,0000,0000,,If they don't like your attitude,\Nthat's all it takes.
+Dialogue: 0,0:00:30.11,0:00:32.82,Default,,0000,0000,0000,,But she looked at me.
+Dialogue: 0,0:00:32.99,0:00:34.20,Default,,0000,0000,0000,,She wanted my help.
+Dialogue: 0,0:00:34.37,0:00:37.25,Default,,0000,0000,0000,,That's because\Nwe were the only ones there.
+Dialogue: 0,0:00:37.87,0:00:40.62,Default,,0000,0000,0000,,If you go, I won't be able to help you.
+Dialogue: 0,0:00:41.46,0:00:44.88,Default,,0000,0000,0000,,You stop them and they'll target you next.
+Dialogue: 0,0:00:45.05,0:00:47.21,Default,,0000,0000,0000,,Then what about her?
+Dialogue: 0,0:00:47.38,0:00:48.22,Default,,0000,0000,0000,,I don't know.
+Dialogue: 0,0:00:48.38,0:00:51.43,Default,,0000,0000,0000,,Either she makes it through somehow\Nor stops coming to school.
+Dialogue: 0,0:00:51.59,0:00:53.64,Default,,0000,0000,0000,,Or a teacher notices and stops it.
+Dialogue: 0,0:00:53.80,0:00:55.64,Default,,0000,0000,0000,,You're saying to ignore it until then?
+Dialogue: 0,0:00:55.81,0:00:57.72,Default,,0000,0000,0000,,Why are you always like this?
+Dialogue: 0,0:00:57.89,0:01:01.23,Default,,0000,0000,0000,,You're so irritating.\NI've had enough of this.
+Dialogue: 0,0:01:01.40,0:01:02.85,Default,,0000,0000,0000,,I've also had enough!
+Dialogue: 0,0:01:03.61,0:01:05.11,Default,,0000,0000,0000,,I get what you're saying, Hina.
+Dialogue: 0,0:01:05.82,0:01:07.57,Default,,0000,0000,0000,,But it's not right.
+Dialogue: 0,0:01:08.19,0:01:11.36,Default,,0000,0000,0000,,The people who are in the wrong\Ncan't just get away with it.
+Dialogue: 0,0:01:13.70,0:01:15.12,Default,,0000,0000,0000,,I can't ignore it.
+Dialogue: 0,0:01:24.75,0:01:25.84,Default,,0000,0000,0000,,A dream...
+Dialogue: 0,0:01:27.84,0:01:30.63,Default,,0000,0000,0000,,Was I supposed to go to the agency today?
+Dialogue: 0,0:01:32.01,0:01:33.89,Default,,0000,0000,0000,,Crap, I overslept.
+Dialogue: 0,0:01:34.05,0:01:37.01,On Top,,0000,0000,0000,,{\i1}yari nokoshita kodou ga kono yo wo ootte{\i0}
+Dialogue: 0,0:01:34.05,0:01:37.01,Default,,0000,0000,0000,,{\i1}This unfinished beat covers the night{\i0}
+Dialogue: 0,0:01:37.18,0:01:39.89,On Top,,0000,0000,0000,,{\i1}bokura wo tsutsunde\Nkonagona ni naru mae ni{\i0}
+Dialogue: 0,0:01:37.18,0:01:39.89,Default,,0000,0000,0000,,{\i1}Embracing us before we're crushed{\i0}
+Dialogue: 0,0:01:40.06,0:01:44.61,On Top,,0000,0000,0000,,{\i1}tayori nakute mo ii sono te wo\Nkono te wa jibun jishin no mono sa{\i0}
+Dialogue: 0,0:01:40.06,0:01:44.61,Default,,0000,0000,0000,,{\i1}Even if your hand is unreliable\NThat is your own hand{\i0}
+Dialogue: 0,0:01:44.77,0:01:47.44,On Top,,0000,0000,0000,,{\i1}kawaranai hazu wa nai yo te wo nobashite{\i0}
+Dialogue: 0,0:01:44.77,0:01:47.44,Default,,0000,0000,0000,,{\i1}There will be change\NIf you just reach out{\i0}
+Dialogue: 0,0:01:53.24,0:01:57.20,On Top,,0000,0000,0000,,{\i1}zattou no naka de\Nkoe naki koe de naite iru{\i0}
+Dialogue: 0,0:01:53.24,0:01:57.20,Default,,0000,0000,0000,,{\i1}Crying in a crowd with a voiceless voice{\i0}
+Dialogue: 0,0:01:57.37,0:02:01.46,On Top,,0000,0000,0000,,{\i1}ashiato ga ima dareka no koe o keshita asa{\i0}
+Dialogue: 0,0:01:57.37,0:02:01.46,Default,,0000,0000,0000,,{\i1}Come morning\NThe footsteps drown out the voice{\i0}
+Dialogue: 0,0:02:01.62,0:02:05.58,On Top,,0000,0000,0000,,{\i1}itsu ni natte mo kareru koto no nai{\i0}
+Dialogue: 0,0:02:01.62,0:02:05.58,Default,,0000,0000,0000,,{\i1}No matter how much time passes\NIt never dries{\i0}
+Dialogue: 0,0:02:05.75,0:02:10.17,On Top,,0000,0000,0000,,{\i1}fuhaishita machi no doro mizu ga tsumetai{\i0}
+Dialogue: 0,0:02:05.75,0:02:10.17,Default,,0000,0000,0000,,{\i1}The cold, muddy waters of a decaying city{\i0}
+Dialogue: 0,0:02:10.34,0:02:11.67,On Top,,0000,0000,0000,,{\i1}nani mo kawaranai sekai de{\i0}
+Dialogue: 0,0:02:10.34,0:02:11.67,Default,,0000,0000,0000,,{\i1}In a world where nothing changes{\i0}
+Dialogue: 0,0:02:13.18,0:02:14.51,On Top,,0000,0000,0000,,{\i1}kyou datte ikite yukunda{\i0}
+Dialogue: 0,0:02:13.18,0:02:14.51,Default,,0000,0000,0000,,{\i1}We have to live through it{\i0}
+Dialogue: 0,0:02:15.68,0:02:17.80,On Top,,0000,0000,0000,,{\i1}kudaranai kedo shikatanai desho{\i0}
+Dialogue: 0,0:02:15.68,0:02:17.80,Default,,0000,0000,0000,,{\i1}It may be dumb, but we have no choice{\i0}
+Dialogue: 0,0:02:17.97,0:02:20.56,On Top,,0000,0000,0000,,{\i1}bokura wa mou aruki hajimetanda{\i0}
+Dialogue: 0,0:02:17.97,0:02:20.56,Default,,0000,0000,0000,,{\i1}We've already started walking{\i0}
+Dialogue: 0,0:02:20.72,0:02:23.73,On Top,,0000,0000,0000,,{\i1}uso mitaina baka mitaina{\i0}
+Dialogue: 0,0:02:20.72,0:02:23.73,Default,,0000,0000,0000,,{\i1}It may seem unreal\NIt may seem stupid{\i0}
+Dialogue: 0,0:02:23.89,0:02:26.52,On Top,,0000,0000,0000,,{\i1}doushiyo mo nai bokura no machi{\i0}
+Dialogue: 0,0:02:23.89,0:02:26.52,Default,,0000,0000,0000,,{\i1}This hopeless city of ours{\i0}
+Dialogue: 0,0:02:26.69,0:02:28.82,On Top,,0000,0000,0000,,{\i1}soredemo kono me de tashika ni mietanda{\i0}
+Dialogue: 0,0:02:26.69,0:02:28.82,Default,,0000,0000,0000,,{\i1}But I still saw it with my own eyes{\i0}
+Dialogue: 0,0:02:28.98,0:02:31.69,On Top,,0000,0000,0000,,{\i1}kono te de tashika ni furetanda\Nnee hora hora{\i0}
+Dialogue: 0,0:02:28.98,0:02:31.69,Default,,0000,0000,0000,,{\i1}I touched it with these hands\NSee? See?{\i0}
+Dialogue: 0,0:02:31.86,0:02:34.99,On Top,,0000,0000,0000,,{\i1}hora mata fuita baka mitaida{\i0}
+Dialogue: 0,0:02:31.86,0:02:34.99,Default,,0000,0000,0000,,{\i1}See? There it goes again\NIt's so stupid{\i0}
+Dialogue: 0,0:02:35.16,0:02:37.82,On Top,,0000,0000,0000,,{\i1}doushiyo mo nai yami wo terase{\i0}
+Dialogue: 0,0:02:35.16,0:02:37.82,Default,,0000,0000,0000,,{\i1}Shine a light through\NThe hopeless darkness{\i0}
+Dialogue: 0,0:02:37.99,0:02:39.99,On Top,,0000,0000,0000,,{\i1}yume janai douse owatteru machi datte{\i0}
+Dialogue: 0,0:02:37.99,0:02:39.99,Default,,0000,0000,0000,,{\i1}This isn't a dream\NEven in a dead city{\i0}
+Dialogue: 0,0:02:40.16,0:02:43.04,On Top,,0000,0000,0000,,{\i1}akirametatte kawannai ze aa mada mada{\i0}
+Dialogue: 0,0:02:40.16,0:02:43.04,Default,,0000,0000,0000,,{\i1}Giving up won't change anything\NEven now, now{\i0}
+Dialogue: 0,0:02:43.21,0:02:46.54,On Top,,0000,0000,0000,,{\i1}mada yari nokoshita kodou ga\Nkono yo wo ootte{\i0}
+Dialogue: 0,0:02:43.21,0:02:46.54,Default,,0000,0000,0000,,{\i1}Now, this unfinished beat covers the night{\i0}
+Dialogue: 0,0:02:46.71,0:02:49.38,On Top,,0000,0000,0000,,{\i1}bokura wo tsutsunde\Nkonagona ni naru mae ni{\i0}
+Dialogue: 0,0:02:46.71,0:02:49.38,Default,,0000,0000,0000,,{\i1}Embracing us before we're crushed{\i0}
+Dialogue: 0,0:02:49.54,0:02:54.13,On Top,,0000,0000,0000,,{\i1}tayori nakute mo ii sono te wo\Nkono te wa jibun jishin no mono sa{\i0}
+Dialogue: 0,0:02:49.54,0:02:54.13,Default,,0000,0000,0000,,{\i1}Even if your hand is unreliable\NThat is your own hand{\i0}
+Dialogue: 0,0:02:54.30,0:02:56.80,On Top,,0000,0000,0000,,{\i1}kawaranai hazu wa nai yo te wo nobashite{\i0}
+Dialogue: 0,0:02:54.30,0:02:56.80,Default,,0000,0000,0000,,{\i1}There will be change\NIf you just reach out{\i0}
+Dialogue: 0,0:03:06.69,0:03:09.52,On Top,,0000,0000,0000,,ROCK 'N' ROLL WILL NEVER STOP
+Dialogue: 0,0:03:06.69,0:03:09.52,Default,,0000,0000,0000,,I'll be blunt. We haven't\Neven reached half our projection.
+Dialogue: 0,0:03:09.69,0:03:10.90,Default,,0000,0000,0000,,That makes sense.
+Dialogue: 0,0:03:11.07,0:03:12.90,Default,,0000,0000,0000,,The video barely has any views.
+Dialogue: 0,0:03:13.07,0:03:15.28,Default,,0000,0000,0000,,Of course our subscriber count\Nhasn't grown.
+Dialogue: 0,0:03:15.45,0:03:17.74,Default,,0000,0000,0000,,What do you think about this, Ms. Miura?
+Dialogue: 0,0:03:18.62,0:03:23.91,Default,,0000,0000,0000,,The biggest issue is that you have more\Nexposure and recognition than before.
+Dialogue: 0,0:03:24.08,0:03:27.29,Default,,0000,0000,0000,,You also have a respectable number\Nof searches.
+Dialogue: 0,0:03:27.46,0:03:31.25,Default,,0000,0000,0000,,If you're being searched this much,\Nthe song should have more traction.
+Dialogue: 0,0:03:31.42,0:03:33.00,Default,,0000,0000,0000,,But it doesn't.
+Dialogue: 0,0:03:33.17,0:03:34.26,Default,,0000,0000,0000,,It's the agency's responsibility.
+Dialogue: 0,0:03:34.84,0:03:37.43,Default,,0000,0000,0000,,Our promotion must be failing.
+Dialogue: 0,0:03:37.59,0:03:38.76,Default,,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:03:40.18,0:03:42.01,Default,,0000,0000,0000,,Please, that's not what I'm say--
+Dialogue: 0,0:03:42.18,0:03:44.22,Default,,0000,0000,0000,,In an age of self-publication,
+Dialogue: 0,0:03:44.81,0:03:47.44,Default,,0000,0000,0000,,talent agencies can't fall behind.
+Dialogue: 0,0:03:47.60,0:03:51.48,Default,,0000,0000,0000,,If we offer no benefits to artists,\Nthey would leave us, right?
+Dialogue: 0,0:03:52.19,0:03:52.98,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:03:53.15,0:03:55.07,Default,,0000,0000,0000,,Please give me more time.
+Dialogue: 0,0:03:55.24,0:03:56.49,Default,,0000,0000,0000,,I'll think of a plan.
+Dialogue: 0,0:03:58.03,0:04:00.12,Default,,0000,0000,0000,,I've never seen Ms. Miura like that.
+Dialogue: 0,0:04:00.28,0:04:01.62,Default,,0000,0000,0000,,She did seem different.
+Dialogue: 0,0:04:01.78,0:04:03.49,Default,,0000,0000,0000,,Where's Momoka?
+Dialogue: 0,0:04:03.66,0:04:05.58,Default,,0000,0000,0000,,She said, "Sorry, gotta go."
+Dialogue: 0,0:04:06.08,0:04:07.29,Default,,0000,0000,0000,,What? She left?
+Dialogue: 0,0:04:07.46,0:04:09.37,Default,,0000,0000,0000,,I thought we were practicing later today.
+Dialogue: 0,0:04:09.54,0:04:11.63,Default,,0000,0000,0000,,Let's not today.
+Dialogue: 0,0:04:11.79,0:04:12.63,Default,,0000,0000,0000,,I agree.
+Dialogue: 0,0:04:12.79,0:04:13.38,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:13.55,0:04:15.71,Default,,0000,0000,0000,,Momoka must have realized it.
+Dialogue: 0,0:04:16.30,0:04:17.38,Default,,0000,0000,0000,,I mean, obviously.
+Dialogue: 0,0:04:17.55,0:04:19.63,Default,,0000,0000,0000,,-Realized what?\N-You're so slow.
+Dialogue: 0,0:04:19.80,0:04:22.05,Default,,0000,0000,0000,,-What?\N-You heard what Ms. Miura said.
+Dialogue: 0,0:04:22.22,0:04:24.76,Default,,0000,0000,0000,,Our name's getting out there,\Nbut not our song.
+Dialogue: 0,0:04:24.93,0:04:26.02,Default,,0000,0000,0000,,That means...
+Dialogue: 0,0:04:26.18,0:04:27.77,Default,,0000,0000,0000,,The song is the problem.
+Dialogue: 0,0:04:27.93,0:04:28.60,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:04:28.77,0:04:31.94,Default,,0000,0000,0000,,Ms. Miura realized\NMomoka was going to say that,
+Dialogue: 0,0:04:32.11,0:04:33.73,Default,,0000,0000,0000,,so she was stopping her from saying it.
+Dialogue: 0,0:04:33.90,0:04:34.65,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:04:34.82,0:04:37.07,Default,,0000,0000,0000,,Because it would hurt Momoka's feelings.
+Dialogue: 0,0:04:37.24,0:04:39.40,Default,,0000,0000,0000,,No! Just give it time!
+Dialogue: 0,0:04:39.57,0:04:40.78,Default,,0000,0000,0000,,It's such a great song!
+Dialogue: 0,0:04:40.95,0:04:42.87,Default,,0000,0000,0000,,Everyone said so!
+Dialogue: 0,0:04:43.03,0:04:44.53,Default,,0000,0000,0000,,Ms. Miura and Mr. Nakata too!
+Dialogue: 0,0:04:44.70,0:04:47.75,Default,,0000,0000,0000,,Nobody would struggle\Nif that was enough to make a hit.
+Dialogue: 0,0:04:47.91,0:04:48.54,Default,,0000,0000,0000,,Still!
+Dialogue: 0,0:04:48.71,0:04:52.92,Default,,0000,0000,0000,,Like they say, Van Gogh only sold\None painting while he was alive.
+Dialogue: 0,0:04:53.08,0:04:53.88,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:04:54.04,0:04:56.71,Default,,0000,0000,0000,,Ultimately,\Npeople are influenced by trends.
+Dialogue: 0,0:04:56.88,0:05:00.01,Default,,0000,0000,0000,,They'll watch anything\Nif everyone says it's good.
+Dialogue: 0,0:05:00.18,0:05:02.89,Default,,0000,0000,0000,,And they won't watch something\Nnobody else is.
+Dialogue: 0,0:05:03.05,0:05:04.22,Default,,0000,0000,0000,,But that's...
+Dialogue: 0,0:05:04.39,0:05:05.72,Default,,0000,0000,0000,,It's true, right?
+Dialogue: 0,0:05:06.22,0:05:07.85,Default,,0000,0000,0000,,If there are videos about the same game,
+Dialogue: 0,0:05:08.02,0:05:11.52,Default,,0000,0000,0000,,would you watch the one\Nwith 5,000 views or a million?
+Dialogue: 0,0:05:10.89,0:05:15.61,On Top,,0000,0000,0000,,{\i1}I want to go crazy\NTo match your eerie gaze{\i0}
+Dialogue: 0,0:05:15.77,0:05:17.69,On Top,,0000,0000,0000,,{\i1}But that won't be enough{\i0}
+Dialogue: 0,0:05:17.86,0:05:22.86,On Top,,0000,0000,0000,,{\i1}Those who haven't screamed enough\NEnjoy the results of others' past efforts{\i0}
+Dialogue: 0,0:05:23.03,0:05:27.79,On Top,,0000,0000,0000,,{\i1}A single wish for those who change{\i0}
+Dialogue: 0,0:05:25.53,0:05:26.41,Default,,0000,0000,0000,,Stop that.
+Dialogue: 0,0:05:26.58,0:05:27.79,Default,,0000,0000,0000,,It's embarrassing.
+Dialogue: 0,0:05:27.95,0:05:29.62,Default,,0000,0000,0000,,I know that.
+Dialogue: 0,0:05:27.95,0:05:29.62,On Top,,0000,0000,0000,,{\i1}I will continue to scream...{\i0}
+Dialogue: 0,0:05:29.79,0:05:33.00,On Top,,0000,0000,0000,,THE NEXT DAY
+Dialogue: 0,0:05:30.46,0:05:33.00,Default,,0000,0000,0000,,{\i1}"The band that\Npicked a fight they couldn't win."{\i0}
+Dialogue: 0,0:05:33.17,0:05:36.38,Default,,0000,0000,0000,,{\i1}"I hate how they're acting like\Nthey're all that."{\i0}
+Dialogue: 0,0:05:36.55,0:05:38.38,Default,,0000,0000,0000,,{\i1}"Go away, losers!"{\i0}
+Dialogue: 0,0:05:39.42,0:05:41.22,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,0:05:42.68,0:05:45.18,Default,,0000,0000,0000,,Screw you,\NI bet you didn't even listen to us!
+Dialogue: 0,0:05:45.35,0:05:47.81,Default,,0000,0000,0000,,And we're not losing to you!
+Dialogue: 0,0:05:47.97,0:05:50.06,Default,,0000,0000,0000,,It's got nothing to do with you all!
+Dialogue: 0,0:05:51.81,0:05:54.44,Default,,0000,0000,0000,,Calm down, calm down...
+Dialogue: 0,0:05:56.86,0:05:58.36,Default,,0000,0000,0000,,For the battle of the bands,
+Dialogue: 0,0:05:58.82,0:06:01.07,Default,,0000,0000,0000,,Diamond Dust sold out their show.
+Dialogue: 0,0:06:01.53,0:06:02.90,Default,,0000,0000,0000,,I mean, of course.
+Dialogue: 0,0:06:05.32,0:06:06.91,Default,,0000,0000,0000,,A follow request?
+Dialogue: 0,0:06:07.08,0:06:07.91,Default,,0000,0000,0000,,From Hina?
+Dialogue: 0,0:06:09.12,0:06:11.91,Default,,0000,0000,0000,,What?! It's a verified account.
+Dialogue: 0,0:06:21.05,0:06:21.97,Default,,0000,0000,0000,,Yo.
+Dialogue: 0,0:06:25.34,0:06:27.14,Default,,0000,0000,0000,,Made you look, dummy.
+Dialogue: 0,0:06:29.72,0:06:31.10,Default,,0000,0000,0000,,Long time no see.
+Dialogue: 0,0:06:32.06,0:06:34.23,Default,,0000,0000,0000,,You don't need a disguise?
+Dialogue: 0,0:06:34.39,0:06:36.61,Default,,0000,0000,0000,,I'm not that famous.
+Dialogue: 0,0:06:36.77,0:06:38.40,Default,,0000,0000,0000,,You still like these?
+Dialogue: 0,0:06:38.57,0:06:41.74,Default,,0000,0000,0000,,Yeah. We used to get these often\Non our way home, didn't we?
+Dialogue: 0,0:06:41.90,0:06:42.99,Default,,0000,0000,0000,,I'll pay.
+Dialogue: 0,0:06:43.15,0:06:44.99,Default,,0000,0000,0000,,No, it's my treat.
+Dialogue: 0,0:06:46.78,0:06:48.62,Default,,0000,0000,0000,,-What do you want?\N-Nothing.
+Dialogue: 0,0:06:48.78,0:06:51.12,Default,,0000,0000,0000,,I just figured you had the wrong idea.
+Dialogue: 0,0:06:51.29,0:06:52.12,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:06:52.29,0:06:56.25,Default,,0000,0000,0000,,I didn't become Diamond Dust's\Nsinger on purpose.
+Dialogue: 0,0:06:56.42,0:06:58.75,Default,,0000,0000,0000,,I told you I was auditioning.
+Dialogue: 0,0:06:58.92,0:07:02.01,Default,,0000,0000,0000,,Oh wait, that was after stopped talking.
+Dialogue: 0,0:07:02.17,0:07:04.26,Default,,0000,0000,0000,,And you stopped coming to school.
+Dialogue: 0,0:07:04.42,0:07:06.34,Default,,0000,0000,0000,,Did you come to brag?
+Dialogue: 0,0:07:06.51,0:07:09.51,Default,,0000,0000,0000,,That this happened\Nbecause I didn't listen to you?
+Dialogue: 0,0:07:09.68,0:07:12.89,Default,,0000,0000,0000,,That it wouldn't have come to this\Nif I only listened?
+Dialogue: 0,0:07:13.06,0:07:14.06,Default,,0000,0000,0000,,Correct.
+Dialogue: 0,0:07:14.23,0:07:16.27,Default,,0000,0000,0000,,...is what I'd like to say,\Nbut that's not all.
+Dialogue: 0,0:07:17.52,0:07:20.02,Default,,0000,0000,0000,,-Your tickets aren't selling.\N-That doesn't concern you.
+Dialogue: 0,0:07:20.19,0:07:22.48,Default,,0000,0000,0000,,I think it does.
+Dialogue: 0,0:07:22.65,0:07:24.28,Default,,0000,0000,0000,,We're playing a show together.
+Dialogue: 0,0:07:24.44,0:07:25.28,Default,,0000,0000,0000,,No, we aren't!
+Dialogue: 0,0:07:26.91,0:07:30.33,Default,,0000,0000,0000,,Your agent, Ms. Miura, came to us to talk.
+Dialogue: 0,0:07:30.49,0:07:31.91,Default,,0000,0000,0000,,Asking if we could do anything.
+Dialogue: 0,0:07:32.08,0:07:32.99,Default,,0000,0000,0000,,Ms. Miura did?
+Dialogue: 0,0:07:33.16,0:07:35.79,Default,,0000,0000,0000,,She asked if we would play both days
+Dialogue: 0,0:07:35.96,0:07:39.29,Default,,0000,0000,0000,,since we'd be able to sell tickets\Nwithout a problem.
+Dialogue: 0,0:07:39.46,0:07:43.42,Default,,0000,0000,0000,,She said you haven't sold enough\Nto fill 30% of the venue.
+Dialogue: 0,0:07:43.59,0:07:48.43,Default,,0000,0000,0000,,Our schedule's free, so it basically\Ncomes down to our decision.
+Dialogue: 0,0:07:49.05,0:07:52.18,Default,,0000,0000,0000,,But I figured I'd get your opinion first.
+Dialogue: 0,0:07:53.01,0:07:53.72,Default,,0000,0000,0000,,So?
+Dialogue: 0,0:07:54.39,0:07:55.23,Default,,0000,0000,0000,,Whatever.
+Dialogue: 0,0:07:55.39,0:07:58.48,Default,,0000,0000,0000,,Does that mean not to do it?
+Dialogue: 0,0:07:58.65,0:08:00.98,Default,,0000,0000,0000,,Or are you saying you're grateful?
+Dialogue: 0,0:08:01.56,0:08:08.41,On Top,,0000,0000,0000,,{\i1}At the end of this world\NThat heralds the beginning{\i0}
+Dialogue: 0,0:08:04.73,0:08:05.90,Default,,0000,0000,0000,,Can you hear that?
+Dialogue: 0,0:08:06.07,0:08:07.78,Default,,0000,0000,0000,,This is what it means to be a hit.
+Dialogue: 0,0:08:07.95,0:08:08.95,Default,,0000,0000,0000,,It's important.
+Dialogue: 0,0:08:08.57,0:08:11.91,On Top,,0000,0000,0000,,{\i1}Only the suspicious looms{\i0}
+Dialogue: 0,0:08:09.11,0:08:10.41,Default,,0000,0000,0000,,Even crucial.
+Dialogue: 0,0:08:10.57,0:08:13.16,Default,,0000,0000,0000,,How about you acknowledge it already?
+Dialogue: 0,0:08:12.08,0:08:15.12,On Top,,0000,0000,0000,,{\i1}My boredom continues...{\i0}
+Dialogue: 0,0:08:13.33,0:08:15.12,Default,,0000,0000,0000,,{\i1}That you were wrong.{\i0}
+Dialogue: 0,0:08:15.29,0:08:17.58,Default,,0000,0000,0000,,{\i1}That I was right.{\i0}
+Dialogue: 0,0:08:17.75,0:08:20.17,Default,,0000,0000,0000,,{\i1}That you should've listened.{\i0}
+Dialogue: 0,0:08:20.33,0:08:22.25,On Top,,0000,0000,0000,,{\i1}...that cannot end{\i0}
+Dialogue: 0,0:08:22.42,0:08:24.75,On Top,,0000,0000,0000,,{\i1}We laugh, surrounded by enemies{\i0}
+Dialogue: 0,0:08:22.42,0:08:25.59,Default,,0000,0000,0000,,I thought you were going to bare it all.
+Dialogue: 0,0:08:24.92,0:08:29.84,On Top,,0000,0000,0000,,{\i1}I want to go crazy\NTo match your eerie gaze{\i0}
+Dialogue: 0,0:08:26.97,0:08:30.39,Default,,0000,0000,0000,,Just admit you were wrong,\Nand I'll help you as much as you want.
+Dialogue: 0,0:08:30.01,0:08:32.51,On Top,,0000,0000,0000,,{\i1}But that won't be enough{\i0}
+Dialogue: 0,0:08:32.68,0:08:33.68,Default,,0000,0000,0000,,I'm leaving!
+Dialogue: 0,0:08:32.68,0:08:37.68,On Top,,0000,0000,0000,,{\i1}Those who haven't screamed enough\NEnjoy the results of others' past efforts{\i0}
+Dialogue: 0,0:08:35.47,0:08:36.35,Default,,0000,0000,0000,,Money!
+Dialogue: 0,0:08:37.85,0:08:39.60,Default,,0000,0000,0000,,Thanks for the popcorn!
+Dialogue: 0,0:08:37.85,0:08:42.77,On Top,,0000,0000,0000,,{\i1}A single wish for those who change{\i0}
+Dialogue: 0,0:08:42.94,0:08:45.07,On Top,,0000,0000,0000,,{\i1}I will continue to scream over and over{\i0}
+Dialogue: 0,0:08:44.32,0:08:45.07,Default,,0000,0000,0000,,Hello!
+Dialogue: 0,0:08:45.23,0:08:46.82,Default,,0000,0000,0000,,Sorry to call you.
+Dialogue: 0,0:08:47.78,0:08:48.78,Default,,0000,0000,0000,,It's fine.
+Dialogue: 0,0:08:48.95,0:08:50.36,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:08:50.53,0:08:53.49,Default,,0000,0000,0000,,Well, like I told everyone else...
+Dialogue: 0,0:08:53.66,0:08:58.37,Default,,0000,0000,0000,,D-D asked if we could play on both days\Nfor the battle of the bands.
+Dialogue: 0,0:08:58.54,0:09:01.00,Default,,0000,0000,0000,,They want to play\Nfor the same crowd against us.
+Dialogue: 0,0:09:01.92,0:09:05.00,Default,,0000,0000,0000,,Ms. Miura contacted you about that, right?
+Dialogue: 0,0:09:05.17,0:09:07.76,Default,,0000,0000,0000,,-Yes, what about it?\N-Nothing.
+Dialogue: 0,0:09:07.92,0:09:09.13,Default,,0000,0000,0000,,What do you think, Nina?
+Dialogue: 0,0:09:09.30,0:09:10.88,Default,,0000,0000,0000,,What about all of you?
+Dialogue: 0,0:09:11.05,0:09:12.14,Default,,0000,0000,0000,,Well, I mean...
+Dialogue: 0,0:09:12.30,0:09:17.02,Default,,0000,0000,0000,,We didn't have a chance before, but\Nthis would make things a bit more even.
+Dialogue: 0,0:09:17.18,0:09:20.27,Default,,0000,0000,0000,,But then, the competition wouldn't matter.
+Dialogue: 0,0:09:20.44,0:09:24.27,Default,,0000,0000,0000,,D-D would get credit\Nfor the crowd that comes.
+Dialogue: 0,0:09:24.86,0:09:28.53,Default,,0000,0000,0000,,Isn't that the same as\Nus admitting defeat now?
+Dialogue: 0,0:09:29.11,0:09:31.03,Default,,0000,0000,0000,,So are you against it?
+Dialogue: 0,0:09:31.20,0:09:32.41,Default,,0000,0000,0000,,Yes, I am.
+Dialogue: 0,0:09:32.99,0:09:33.99,Default,,0000,0000,0000,,Here we go.
+Dialogue: 0,0:09:34.16,0:09:35.95,Default,,0000,0000,0000,,I get where you're coming from...
+Dialogue: 0,0:09:37.04,0:09:39.20,Default,,0000,0000,0000,,No! There's no way I'll agree!
+Dialogue: 0,0:09:39.37,0:09:41.96,Default,,0000,0000,0000,,Think of everything we went through!
+Dialogue: 0,0:09:42.12,0:09:43.54,Default,,0000,0000,0000,,Momoka's not wrong.
+Dialogue: 0,0:09:43.71,0:09:47.71,Default,,0000,0000,0000,,Our whole point was to prove that\Nher songs can reach people!
+Dialogue: 0,0:09:47.88,0:09:50.38,Default,,0000,0000,0000,,We came this far because we believed that.
+Dialogue: 0,0:09:50.55,0:09:53.13,Default,,0000,0000,0000,,But reality won't let us.
+Dialogue: 0,0:09:53.80,0:09:56.93,Default,,0000,0000,0000,,We haven't even sold enough tickets\Nto fill 30% of the venue.
+Dialogue: 0,0:09:57.47,0:09:59.39,Default,,0000,0000,0000,,That's worse than before the agency.
+Dialogue: 0,0:09:59.56,0:10:00.93,Default,,0000,0000,0000,,So what?
+Dialogue: 0,0:10:01.10,0:10:03.27,Default,,0000,0000,0000,,Are you gonna take responsibility then?
+Dialogue: 0,0:10:03.44,0:10:05.69,Default,,0000,0000,0000,,Do you know how much money this costs?
+Dialogue: 0,0:10:05.86,0:10:06.65,Default,,0000,0000,0000,,Money?
+Dialogue: 0,0:10:06.82,0:10:08.69,Default,,0000,0000,0000,,Not just the venue.
+Dialogue: 0,0:10:08.86,0:10:13.28,Default,,0000,0000,0000,,We also made merchandise to sell\Nand marketing isn't free either.
+Dialogue: 0,0:10:13.45,0:10:16.49,Default,,0000,0000,0000,,We need to reduce our losses\Nas much as we can.
+Dialogue: 0,0:10:16.66,0:10:18.28,Default,,0000,0000,0000,,It's all my fault.
+Dialogue: 0,0:10:18.74,0:10:19.45,Default,,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:10:22.37,0:10:25.21,Default,,0000,0000,0000,,Does this mean\Nyou'll bow your head to D-D too?
+Dialogue: 0,0:10:26.50,0:10:28.84,Default,,0000,0000,0000,,That's not what we're doing.
+Dialogue: 0,0:10:29.00,0:10:31.92,Default,,0000,0000,0000,,Yeah, we're just taking them up\Non their offer.
+Dialogue: 0,0:10:32.09,0:10:32.88,Default,,0000,0000,0000,,We are bowing to them!
+Dialogue: 0,0:10:33.05,0:10:35.89,Default,,0000,0000,0000,,Do you really think D-D\Nmade that offer to us?
+Dialogue: 0,0:10:36.05,0:10:37.26,Default,,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:10:37.43,0:10:39.26,Default,,0000,0000,0000,,It's obvious.
+Dialogue: 0,0:10:39.43,0:10:41.85,Default,,0000,0000,0000,,Ms. Miura bowed her head and begged them.
+Dialogue: 0,0:10:43.06,0:10:46.60,Default,,0000,0000,0000,,To help us by playing with us.
+Dialogue: 0,0:10:46.77,0:10:49.23,Default,,0000,0000,0000,,Really? How do you know that?
+Dialogue: 0,0:10:49.86,0:10:53.90,Default,,0000,0000,0000,,Hina came to tell me\Nand told me to admit that I was wrong.
+Dialogue: 0,0:10:54.07,0:10:56.49,Default,,0000,0000,0000,,Then they'd help us as much as we wanted.
+Dialogue: 0,0:10:57.12,0:10:59.62,Default,,0000,0000,0000,,But I don't want to!
+Dialogue: 0,0:11:00.16,0:11:01.49,Default,,0000,0000,0000,,Because...
+Dialogue: 0,0:11:01.95,0:11:03.12,Default,,0000,0000,0000,,I wasn't wrong!
+Dialogue: 0,0:11:05.29,0:11:06.12,Default,,0000,0000,0000,,Nina.
+Dialogue: 0,0:11:08.33,0:11:10.63,Default,,0000,0000,0000,,So don't bow your heads to them!
+Dialogue: 0,0:11:19.72,0:11:22.56,Default,,0000,0000,0000,,Don't reject the person I was!
+Dialogue: 0,0:11:24.35,0:11:26.85,Default,,0000,0000,0000,,Money, responsibility, popularity!
+Dialogue: 0,0:11:27.02,0:11:28.69,Default,,0000,0000,0000,,I know that already!
+Dialogue: 0,0:11:28.86,0:11:32.07,Default,,0000,0000,0000,,I'm so mad and frustrated!
+Dialogue: 0,0:11:32.53,0:11:34.07,Default,,0000,0000,0000,,Just shut up already!
+Dialogue: 0,0:11:36.65,0:11:37.91,Default,,0000,0000,0000,,-Nina!\N-Nina!
+Dialogue: 0,0:11:38.07,0:11:38.91,Default,,0000,0000,0000,,You okay?
+Dialogue: 0,0:11:39.66,0:11:42.83,Default,,0000,0000,0000,,Why am I so weak?
+Dialogue: 0,0:11:51.92,0:11:53.50,Default,,0000,0000,0000,,Did they do this to you?
+Dialogue: 0,0:11:54.42,0:11:57.55,Default,,0000,0000,0000,,I told you I can't help you.
+Dialogue: 0,0:11:58.34,0:12:00.80,Default,,0000,0000,0000,,Was what I did that upsetting for you?
+Dialogue: 0,0:12:01.26,0:12:05.27,Default,,0000,0000,0000,,You know, every time we talked,\NI got this feeling
+Dialogue: 0,0:12:05.43,0:12:09.94,Default,,0000,0000,0000,,that you have this sense of justice\Nthat you flaunt and hurt everyone with.
+Dialogue: 0,0:12:10.94,0:12:13.82,Default,,0000,0000,0000,,You make us feel like we're the bad guys.
+Dialogue: 0,0:12:15.11,0:12:16.74,Default,,0000,0000,0000,,You haven't talked since?
+Dialogue: 0,0:12:16.90,0:12:17.70,Default,,0000,0000,0000,,Right.
+Dialogue: 0,0:12:17.86,0:12:21.03,Default,,0000,0000,0000,,Well, that certainly sounds like you.
+Dialogue: 0,0:12:21.20,0:12:24.29,Default,,0000,0000,0000,,What happened to the girl\Nwho was being bullied?
+Dialogue: 0,0:12:24.87,0:12:30.58,Default,,0000,0000,0000,,Funny thing is, she started bullying me\Nwith her former bullies not long after.
+Dialogue: 0,0:12:30.75,0:12:34.67,Default,,0000,0000,0000,,Then she'd tell me privately\Nto apologize to them.
+Dialogue: 0,0:12:34.84,0:12:36.88,Default,,0000,0000,0000,,That they'd probably forgive me,
+Dialogue: 0,0:12:37.05,0:12:39.80,Default,,0000,0000,0000,,and I wouldn't have to go through this.
+Dialogue: 0,0:12:39.97,0:12:41.09,Default,,0000,0000,0000,,What the hell?
+Dialogue: 0,0:12:41.26,0:12:43.05,Default,,0000,0000,0000,,But she was shaking.
+Dialogue: 0,0:12:43.60,0:12:45.10,Default,,0000,0000,0000,,She was scared of them.
+Dialogue: 0,0:12:45.26,0:12:46.93,Default,,0000,0000,0000,,But you saved her.
+Dialogue: 0,0:12:47.10,0:12:48.77,Default,,0000,0000,0000,,She owes you, right?
+Dialogue: 0,0:12:48.94,0:12:51.10,Default,,0000,0000,0000,,So that's why you stopped going to school.
+Dialogue: 0,0:12:51.27,0:12:52.36,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:12:52.52,0:12:54.86,Default,,0000,0000,0000,,Because you weren't wrong, huh?
+Dialogue: 0,0:12:55.02,0:12:56.03,Default,,0000,0000,0000,,But you were wrong!
+Dialogue: 0,0:12:56.19,0:12:58.24,Default,,0000,0000,0000,,You were clearly wrong!
+Dialogue: 0,0:12:58.40,0:12:59.24,Default,,0000,0000,0000,,Tomo...
+Dialogue: 0,0:12:59.40,0:13:00.45,Default,,0000,0000,0000,,Look at the results!
+Dialogue: 0,0:13:00.61,0:13:03.66,Default,,0000,0000,0000,,That Hina girl was obviously right!
+Dialogue: 0,0:13:04.16,0:13:04.99,Default,,0000,0000,0000,,But!
+Dialogue: 0,0:13:05.62,0:13:06.37,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:13:07.45,0:13:10.12,Default,,0000,0000,0000,,I think that's why I was drawn to you.
+Dialogue: 0,0:13:10.29,0:13:12.04,Default,,0000,0000,0000,,I like your voice.
+Dialogue: 0,0:13:12.21,0:13:15.25,Default,,0000,0000,0000,,Rupa, Momoka, and Subaru, too, probably.
+Dialogue: 0,0:13:16.50,0:13:17.67,Default,,0000,0000,0000,,Tomo!
+Dialogue: 0,0:13:18.84,0:13:20.34,Default,,0000,0000,0000,,-Stop!\N-Aw, come on!
+Dialogue: 0,0:13:20.84,0:13:22.72,Default,,0000,0000,0000,,I don't like these things!
+Dialogue: 0,0:13:24.01,0:13:25.47,Default,,0000,0000,0000,,We have our decision.
+Dialogue: 0,0:13:25.64,0:13:28.77,Default,,0000,0000,0000,,But Ms. Miura worked hard on this deal.
+Dialogue: 0,0:13:28.93,0:13:30.64,Default,,0000,0000,0000,,We need to take responsibility.
+Dialogue: 0,0:13:31.44,0:13:32.69,Default,,0000,0000,0000,,Seriously?
+Dialogue: 0,0:13:32.85,0:13:37.48,Default,,0000,0000,0000,,But I guess I knew it would turn out\Nthis way from the beginning.
+Dialogue: 0,0:13:38.03,0:13:39.19,Default,,0000,0000,0000,,It's Nina after all.
+Dialogue: 0,0:13:39.36,0:13:40.78,Default,,0000,0000,0000,,Yeah, it is.
+Dialogue: 0,0:13:40.95,0:13:41.78,Default,,0000,0000,0000,,So mean.
+Dialogue: 0,0:13:44.57,0:13:45.37,Default,,0000,0000,0000,,You decline?
+Dialogue: 0,0:13:45.53,0:13:47.12,Default,,0000,0000,0000,,Yes, we're sorry.
+Dialogue: 0,0:13:47.29,0:13:50.87,Default,,0000,0000,0000,,They said they want to do\Na proper battle of the bands.
+Dialogue: 0,0:13:51.04,0:13:56.50,Default,,0000,0000,0000,,We know, but it would look like\Nwe're getting saved by them.
+Dialogue: 0,0:13:56.67,0:14:00.51,Default,,0000,0000,0000,,Even so, the audience would--
+Dialogue: 0,0:14:00.67,0:14:01.42,Default,,0000,0000,0000,,RESIGNATION
+Dialogue: 0,0:14:01.59,0:14:03.51,Default,,0000,0000,0000,,It's what we all decided.
+Dialogue: 0,0:14:03.68,0:14:07.26,Default,,0000,0000,0000,,We also know\Nhow selfish of a decision this is,
+Dialogue: 0,0:14:07.43,0:14:10.56,Default,,0000,0000,0000,,and the loss to the agency\Nisn't insignificant.
+Dialogue: 0,0:14:10.73,0:14:13.14,Default,,0000,0000,0000,,Please let us know the cost\Nfor this event.
+Dialogue: 0,0:14:13.31,0:14:18.15,Default,,0000,0000,0000,,I can't promise when,\Nbut we will pay it back, so please.
+Dialogue: 0,0:14:18.94,0:14:20.03,Default,,0000,0000,0000,,Please.
+Dialogue: 0,0:14:22.24,0:14:23.70,Default,,0000,0000,0000,,Please raise your heads.
+Dialogue: 0,0:14:24.61,0:14:25.91,Default,,0000,0000,0000,,Please tell me why.
+Dialogue: 0,0:14:27.74,0:14:28.83,Default,,0000,0000,0000,,I got a message.
+Dialogue: 0,0:14:29.58,0:14:31.66,Default,,0000,0000,0000,,Hina from D-D contacted me directly.
+Dialogue: 0,0:14:32.21,0:14:34.04,Default,,0000,0000,0000,,I was happy to hear about your dedication,
+Dialogue: 0,0:14:34.21,0:14:38.75,Default,,0000,0000,0000,,that you would do this much when\NI asked to take part in this competition.
+Dialogue: 0,0:14:38.92,0:14:42.63,Default,,0000,0000,0000,,And I do feel guilty about\Nturning this down despite everything.
+Dialogue: 0,0:14:42.80,0:14:46.05,Default,,0000,0000,0000,,I'm sorry for being selfish!
+Dialogue: 0,0:14:47.60,0:14:52.39,Default,,0000,0000,0000,,Honestly, I knew\Nit would go against your wishes.
+Dialogue: 0,0:14:52.56,0:14:53.64,Default,,0000,0000,0000,,Ms. Miura.
+Dialogue: 0,0:14:53.81,0:14:55.39,Default,,0000,0000,0000,,I'm a bad manager.
+Dialogue: 0,0:14:56.02,0:14:57.48,Default,,0000,0000,0000,,Don't get the wrong idea.
+Dialogue: 0,0:14:57.65,0:15:00.90,Default,,0000,0000,0000,,The agency and I will do something\Nabout the money.
+Dialogue: 0,0:15:01.82,0:15:05.15,Default,,0000,0000,0000,,This is exactly why\NI wanted to work with you.
+Dialogue: 0,0:15:05.32,0:15:08.16,On Top,,0000,0000,0000,,RESIGNATION
+Dialogue: 0,0:15:05.74,0:15:07.82,Default,,0000,0000,0000,,Please let me help you one last time.
+Dialogue: 0,0:15:08.74,0:15:09.53,Default,,0000,0000,0000,,You're quitting?
+Dialogue: 0,0:15:10.03,0:15:10.79,Default,,0000,0000,0000,,Yes.
+Dialogue: 0,0:15:10.95,0:15:14.62,Default,,0000,0000,0000,,-You're changing agencies?\N-No, we'll continue on our own.
+Dialogue: 0,0:15:14.79,0:15:16.37,Default,,0000,0000,0000,,Were you dissatisfied?
+Dialogue: 0,0:15:16.54,0:15:17.42,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:15:17.58,0:15:19.59,Default,,0000,0000,0000,,It's just what we decided.
+Dialogue: 0,0:15:19.75,0:15:20.63,Default,,0000,0000,0000,,That's all.
+Dialogue: 0,0:15:23.13,0:15:25.38,Default,,0000,0000,0000,,You sound so naive.
+Dialogue: 0,0:15:23.13,0:15:25.88,On Top,,0000,0000,0000,,-Is he mad?\N-She should've stayed quiet.
+Dialogue: 0,0:15:28.55,0:15:31.43,Default,,0000,0000,0000,,Come back here\Nif you're still around in ten years.
+Dialogue: 0,0:15:31.60,0:15:32.89,Default,,0000,0000,0000,,I'll work for you for free.
+Dialogue: 0,0:15:34.60,0:15:37.77,Default,,0000,0000,0000,,Okay, thank you, Mr. Nakata!
+Dialogue: 0,0:15:38.60,0:15:40.02,Default,,0000,0000,0000,,Let's grab a beef bowl.
+Dialogue: 0,0:15:40.19,0:15:41.77,Default,,0000,0000,0000,,I bet you just want to drink.
+Dialogue: 0,0:15:41.94,0:15:43.28,Default,,0000,0000,0000,,Of course not.
+Dialogue: 0,0:15:43.44,0:15:45.19,Default,,0000,0000,0000,,You're not convincing.
+Dialogue: 0,0:15:45.36,0:15:48.91,Default,,0000,0000,0000,,This is where we first met you.
+Dialogue: 0,0:15:49.07,0:15:50.03,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:15:50.91,0:15:52.54,Default,,0000,0000,0000,,Beni-shoga, huh?
+Dialogue: 0,0:15:53.08,0:15:55.29,Default,,0000,0000,0000,,Want to make an oath on it?
+Dialogue: 0,0:15:55.46,0:15:58.25,Default,,0000,0000,0000,,It's an important name to the two of you,
+Dialogue: 0,0:15:58.42,0:16:00.04,Default,,0000,0000,0000,,so an oath just as important.
+Dialogue: 0,0:16:00.21,0:16:01.54,Default,,0000,0000,0000,,What oath are we making?
+Dialogue: 0,0:16:02.21,0:16:05.80,Default,,0000,0000,0000,,The five of us will stick together,\Nand we'll never quit.
+Dialogue: 0,0:16:06.80,0:16:08.63,Default,,0000,0000,0000,,I guess we have to eat here then.
+Dialogue: 0,0:16:08.80,0:16:09.76,Default,,0000,0000,0000,,I like it.
+Dialogue: 0,0:16:09.93,0:16:11.68,Default,,0000,0000,0000,,Just one drink.
+Dialogue: 0,0:16:12.14,0:16:13.31,Default,,0000,0000,0000,,Momoka!
+Dialogue: 0,0:16:14.10,0:16:16.56,Default,,0000,0000,0000,,I love this city.
+Dialogue: 0,0:16:17.23,0:16:22.23,Default,,0000,0000,0000,,I love this city where I met\Nlifelong friends I can laugh and cry with.
+Dialogue: 0,0:16:23.48,0:16:24.48,Default,,0000,0000,0000,,Kawasaki, right?
+Dialogue: 0,0:16:25.40,0:16:26.24,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:16:33.24,0:16:34.58,Default,,0000,0000,0000,,{\i1}Call the game, we lost.{\i0}
+Dialogue: 0,0:16:34.74,0:16:37.50,Default,,0000,0000,0000,,{\i1}Like four consecutive losses\Nin the Japan series.{\i0}
+Dialogue: 0,0:16:37.66,0:16:39.54,Default,,0000,0000,0000,,{\i1}No miracle, huh?{\i0}
+Dialogue: 0,0:16:40.17,0:16:41.13,Default,,0000,0000,0000,,{\i1}Of course not.{\i0}
+Dialogue: 0,0:16:41.29,0:16:42.71,Default,,0000,0000,0000,,{\i1}This isn't a soap opera.{\i0}
+Dialogue: 0,0:16:42.88,0:16:44.00,Default,,0000,0000,0000,,{\i1}You watch soap operas?{\i0}
+Dialogue: 0,0:16:44.17,0:16:46.63,Default,,0000,0000,0000,,The only drama I watch\Nis {\i1}Detective Granny{\i0}!
+Dialogue: 0,0:16:47.92,0:16:49.47,Default,,0000,0000,0000,,Are you picking a fight?
+Dialogue: 0,0:16:49.63,0:16:51.76,Default,,0000,0000,0000,,But we knew this would happen.
+Dialogue: 0,0:16:51.93,0:16:56.14,Default,,0000,0000,0000,,That things were stacked against us,\Nand it wouldn't be easy.
+Dialogue: 0,0:16:56.31,0:16:57.81,Default,,0000,0000,0000,,You're one to talk.
+Dialogue: 0,0:16:58.27,0:17:00.56,Default,,0000,0000,0000,,You're the one who was the most clueless.
+Dialogue: 0,0:17:00.73,0:17:01.81,Default,,0000,0000,0000,,You got me there.
+Dialogue: 0,0:17:01.98,0:17:05.82,Default,,0000,0000,0000,,That's why you can say you weren't wrong.
+Dialogue: 0,0:17:05.98,0:17:06.82,Default,,0000,0000,0000,,Momoka.
+Dialogue: 0,0:17:06.98,0:17:11.03,Default,,0000,0000,0000,,D-D had their show last night,\Nso we got more comments.
+Dialogue: 0,0:17:11.20,0:17:13.49,Default,,0000,0000,0000,,You're the one who said not to look!
+Dialogue: 0,0:17:13.66,0:17:14.58,Default,,0000,0000,0000,,Now, now.
+Dialogue: 0,0:17:15.03,0:17:15.91,Default,,0000,0000,0000,,Let's see.
+Dialogue: 0,0:17:16.08,0:17:17.58,Default,,0000,0000,0000,,"I like this."
+Dialogue: 0,0:17:17.75,0:17:20.08,Default,,0000,0000,0000,,"Why do they get so much hate?"
+Dialogue: 0,0:17:20.25,0:17:23.17,Default,,0000,0000,0000,,"Shut up, songs aren't about numbers."
+Dialogue: 0,0:17:23.33,0:17:25.71,Default,,0000,0000,0000,,"It's not over until it's over."
+Dialogue: 0,0:17:25.88,0:17:30.84,Default,,0000,0000,0000,,See, there are people who say these things\Ninstead of staying quiet.
+Dialogue: 0,0:17:31.01,0:17:33.47,Default,,0000,0000,0000,,We really can reach people.
+Dialogue: 0,0:17:34.55,0:17:35.47,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:17:36.76,0:17:40.48,Default,,0000,0000,0000,,But I didn't expect your guitar playing\Nto improve so much.
+Dialogue: 0,0:17:40.64,0:17:42.48,Default,,0000,0000,0000,,Yeah, what a surprise.
+Dialogue: 0,0:17:42.65,0:17:45.23,Default,,0000,0000,0000,,It's really okay for me to play?
+Dialogue: 0,0:17:45.40,0:17:48.32,Default,,0000,0000,0000,,You practiced so much in the park.
+Dialogue: 0,0:17:48.48,0:17:49.24,Default,,0000,0000,0000,,Seems fine.
+Dialogue: 0,0:17:50.57,0:17:51.65,Default,,0000,0000,0000,,Thanks, everyone.
+Dialogue: 0,0:17:52.91,0:17:54.24,Default,,0000,0000,0000,,Please get ready.
+Dialogue: 0,0:17:54.41,0:17:55.37,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:17:59.54,0:18:00.37,Default,,0000,0000,0000,,NINA, LOOK UP\NHINA
+Dialogue: 0,0:18:01.00,0:18:01.79,Default,,0000,0000,0000,,"Up"?
+Dialogue: 0,0:18:02.29,0:18:03.37,Default,,0000,0000,0000,,NOW LOOK LEFT\NHINA
+Dialogue: 0,0:18:04.42,0:18:05.33,Default,,0000,0000,0000,,"Left"?
+Dialogue: 0,0:18:07.04,0:18:07.88,Default,,0000,0000,0000,,TOGENASHI TOGEARI
+Dialogue: 0,0:18:08.05,0:18:09.26,Default,,0000,0000,0000,,MADE YOU LOOK, DUMMY
+Dialogue: 0,0:18:09.80,0:18:10.76,Default,,0000,0000,0000,,That girl...
+Dialogue: 0,0:18:10.92,0:18:11.84,Default,,0000,0000,0000,,She's funny.
+Dialogue: 0,0:18:12.01,0:18:15.43,Default,,0000,0000,0000,,Maybe Hina didn't want you\Nto fold after all.
+Dialogue: 0,0:18:15.59,0:18:16.68,Default,,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:18:16.85,0:18:19.39,Default,,0000,0000,0000,,She came all this way\Nto tell you to apologize
+Dialogue: 0,0:18:19.56,0:18:21.64,Default,,0000,0000,0000,,even though she knows you wouldn't.
+Dialogue: 0,0:18:21.81,0:18:24.56,Default,,0000,0000,0000,,True, Nina is like the final boss.
+Dialogue: 0,0:18:24.73,0:18:27.19,Default,,0000,0000,0000,,The universe's\Nmost irritating Morality Demon King.
+Dialogue: 0,0:18:27.36,0:18:31.07,Default,,0000,0000,0000,,Beating you means the game's over,\Nbut she still wants to play.
+Dialogue: 0,0:18:31.24,0:18:32.82,Default,,0000,0000,0000,,That doesn't make me happy at all.
+Dialogue: 0,0:18:32.99,0:18:34.16,Default,,0000,0000,0000,,It's a compliment.
+Dialogue: 0,0:18:34.32,0:18:36.20,Default,,0000,0000,0000,,You know I'm right.
+Dialogue: 0,0:18:36.37,0:18:38.66,Default,,0000,0000,0000,,Everyone, it's time.
+Dialogue: 0,0:18:54.76,0:19:00.10,Default,,0000,0000,0000,,Um, as you know,\Nwe're competing against Diamond Dust.
+Dialogue: 0,0:19:00.26,0:19:01.85,Default,,0000,0000,0000,,But you can see the results...
+Dialogue: 0,0:19:02.68,0:19:05.35,Default,,0000,0000,0000,,Thank you for coming today!
+Dialogue: 0,0:19:05.94,0:19:07.31,Default,,0000,0000,0000,,Ow...
+Dialogue: 0,0:19:10.02,0:19:13.15,Default,,0000,0000,0000,,To be honest, we cared about it a lot.
+Dialogue: 0,0:19:13.32,0:19:15.20,Default,,0000,0000,0000,,We wanted to beat Diamond Dust.
+Dialogue: 0,0:19:15.36,0:19:16.61,Default,,0000,0000,0000,,We didn't want to lose.
+Dialogue: 0,0:19:16.78,0:19:19.62,Default,,0000,0000,0000,,We really did our best\Nat the last music festival too.
+Dialogue: 0,0:19:21.95,0:19:24.00,Default,,0000,0000,0000,,Let me speak about myself for a moment.
+Dialogue: 0,0:19:24.58,0:19:26.25,Default,,0000,0000,0000,,Is that okay, Rupa?
+Dialogue: 0,0:19:27.42,0:19:31.50,Default,,0000,0000,0000,,Back in high school, I helped someone\Nwho was being bullied.
+Dialogue: 0,0:19:32.05,0:19:36.26,Default,,0000,0000,0000,,{\i1}I was really happy as I left my classroom\Nto go save her.{\i0}
+Dialogue: 0,0:19:36.43,0:19:40.01,Default,,0000,0000,0000,,{\i1}I felt so proud,\Nand I loved myself for doing it.{\i0}
+Dialogue: 0,0:19:40.18,0:19:43.93,Default,,0000,0000,0000,,But because of that, I got bullied instead
+Dialogue: 0,0:19:44.10,0:19:46.14,Default,,0000,0000,0000,,and I ultimately dropped out of school.
+Dialogue: 0,0:19:46.85,0:19:49.94,Default,,0000,0000,0000,,But not once did I ever think\N"I shouldn't have gone"
+Dialogue: 0,0:19:50.11,0:19:54.15,Default,,0000,0000,0000,,or "This wouldn't be happening\Nif I hadn't gone."
+Dialogue: 0,0:19:54.99,0:19:56.28,Default,,0000,0000,0000,,That's when I realized...
+Dialogue: 0,0:19:57.07,0:19:59.70,Default,,0000,0000,0000,,I don't regret anything.
+Dialogue: 0,0:20:00.20,0:20:03.45,Default,,0000,0000,0000,,I became stronger\Nbecause of Momoka's song,
+Dialogue: 0,0:20:04.20,0:20:06.37,Default,,0000,0000,0000,,and I often talked about that to Hina...
+Dialogue: 0,0:20:10.29,0:20:11.09,Default,,0000,0000,0000,,Oh, I see.
+Dialogue: 0,0:20:12.59,0:20:16.22,Default,,0000,0000,0000,,{\i1}She liked D-D's songs too.{\i0}
+Dialogue: 0,0:20:17.26,0:20:18.76,Default,,0000,0000,0000,,{\i1}It wasn't just my song.{\i0}
+Dialogue: 0,0:20:19.30,0:20:20.72,Default,,0000,0000,0000,,{\i1}It reached her too.{\i0}
+Dialogue: 0,0:20:23.39,0:20:26.73,Default,,0000,0000,0000,,Once again, thank you so much\Nfor coming today.
+Dialogue: 0,0:20:26.89,0:20:29.90,Default,,0000,0000,0000,,You are the contrarians\Nwho came to see us.
+Dialogue: 0,0:20:30.40,0:20:33.15,Default,,0000,0000,0000,,But I love people like that.
+Dialogue: 0,0:20:33.90,0:20:37.11,Default,,0000,0000,0000,,And I'll scream out that we haven't lost.
+Dialogue: 0,0:20:37.28,0:20:38.74,Default,,0000,0000,0000,,That we weren't wrong.
+Dialogue: 0,0:20:39.36,0:20:43.16,Default,,0000,0000,0000,,Please be the witnesses to our beginning!
+Dialogue: 0,0:20:48.16,0:20:52.79,Default,,0000,0000,0000,,{\i1}We're all the same\NLiving life{\i0}
+Dialogue: 0,0:20:52.96,0:21:01.18,Default,,0000,0000,0000,,{\i1}If you don't have a place of your own\NGo fly{\i0}
+Dialogue: 0,0:21:01.34,0:21:06.06,Default,,0000,0000,0000,,{\i1}Fate tangled up, reverberating\NI had taken all other paths{\i0}
+Dialogue: 0,0:21:06.22,0:21:10.77,Default,,0000,0000,0000,,{\i1}I dedicate the rest of my life\NTo singing with you{\i0}
+Dialogue: 0,0:21:10.94,0:21:15.65,Default,,0000,0000,0000,,{\i1}No light or wind, like an isolated prison{\i0}
+Dialogue: 0,0:21:15.82,0:21:22.45,Default,,0000,0000,0000,,{\i1}Pain and suffering\NScars all over, I hated it all{\i0}
+Dialogue: 0,0:21:22.62,0:21:25.91,Default,,0000,0000,0000,,{\i1}Even with wings full of holes{\i0}
+Dialogue: 0,0:21:26.08,0:21:31.21,Default,,0000,0000,0000,,{\i1}Even in the depths of hell\NI could sing with you{\i0}
+Dialogue: 0,0:21:32.50,0:21:35.63,Default,,0000,0000,0000,,{\i1}I flew away, wanting to disappear{\i0}
+Dialogue: 0,0:21:35.79,0:21:38.30,Default,,0000,0000,0000,,{\i1}But now I don't want to disappear{\i0}
+Dialogue: 0,0:21:38.46,0:21:42.59,Default,,0000,0000,0000,,{\i1}I picked the flower and kept it\NWaiting for it to blossom{\i0}
+Dialogue: 0,0:21:42.76,0:21:45.85,Default,,0000,0000,0000,,{\i1}The version of me\NWho wanted to disappear is gone{\i0}
+Dialogue: 0,0:21:46.01,0:21:48.35,Default,,0000,0000,0000,,{\i1}I'm glad I didn't disappear{\i0}
+Dialogue: 0,0:21:48.52,0:21:56.73,Default,,0000,0000,0000,,{\i1}Because I met you\NOur flower of fate bloomed{\i0}
+Dialogue: 0,0:22:16.59,0:22:17.96,Default,,0000,0000,0000,,Ready?
+Dialogue: 0,0:22:18.50,0:22:22.17,Default,,0000,0000,0000,,Thank you!
+Dialogue: 0,0:22:26.64,0:22:29.64,Default,,0000,0000,0000,,{\i1}Never influenced by anybody\NNever becoming anybody{\i0}
+Dialogue: 0,0:22:26.64,0:22:29.64,On Top,,0000,0000,0000,,{\i1}dareka ni somarenai dare ni mo narenai{\i0}
+Dialogue: 0,0:22:29.81,0:22:32.64,Default,,0000,0000,0000,,{\i1}I laughed, thinking it a dream{\i0}
+Dialogue: 0,0:22:29.81,0:22:32.64,On Top,,0000,0000,0000,,{\i1}yume da to omotte waratte miseta{\i0}
+Dialogue: 0,0:22:32.81,0:22:35.73,Default,,0000,0000,0000,,{\i1}Numbed by the weakness I had forgotten{\i0}
+Dialogue: 0,0:22:32.81,0:22:35.73,On Top,,0000,0000,0000,,{\i1}wasureta yowasa kajikande iku{\i0}
+Dialogue: 0,0:22:35.90,0:22:38.73,Default,,0000,0000,0000,,{\i1}I can't even say that I'm lonely{\i0}
+Dialogue: 0,0:22:35.90,0:22:38.73,On Top,,0000,0000,0000,,{\i1}samishii nante ieru wake mo nai{\i0}
+Dialogue: 0,0:22:38.90,0:22:44.41,Default,,0000,0000,0000,,{\i1}This fragile heart\NVulnerable to even casual conversation{\i0}
+Dialogue: 0,0:22:38.90,0:22:44.41,On Top,,0000,0000,0000,,{\i1}sarigenai kaiwa sura kizutsuku kokoro wa{\i0}
+Dialogue: 0,0:22:45.49,0:22:50.54,Default,,0000,0000,0000,,{\i1}Is incapable of making anyone happy{\i0}
+Dialogue: 0,0:22:45.49,0:22:50.54,On Top,,0000,0000,0000,,{\i1}dare hitori dare hitori shiawase ni shinai{\i0}
+Dialogue: 0,0:22:51.87,0:22:57.79,Default,,0000,0000,0000,,{\i1}But still, I feel a growing hope{\i0}
+Dialogue: 0,0:22:51.87,0:22:57.79,On Top,,0000,0000,0000,,{\i1}nee sore demo mada kitai fukuramunda{\i0}
+Dialogue: 0,0:22:57.96,0:23:03.76,Default,,0000,0000,0000,,{\i1}Moving past all of the lies{\i0}
+Dialogue: 0,0:22:57.96,0:23:03.76,On Top,,0000,0000,0000,,{\i1}surechigatta uso nante zenbu sutete{\i0}
+Dialogue: 0,0:23:03.92,0:23:07.18,Default,,0000,0000,0000,,{\i1}I just want to hear\NThat I'm not wrong{\i0}
+Dialogue: 0,0:23:03.92,0:23:07.18,On Top,,0000,0000,0000,,{\i1}daisoretenai yo tte tada kikitakute{\i0}
+Dialogue: 0,0:23:07.34,0:23:10.31,Default,,0000,0000,0000,,{\i1}I'm a dreamer, I'm young{\i0}
+Dialogue: 0,0:23:07.34,0:23:10.31,On Top,,0000,0000,0000,,{\i1}yume bakari de osanakutatte{\i0}
+Dialogue: 0,0:23:10.47,0:23:13.93,Default,,0000,0000,0000,,{\i1}I don't care if I'm still the same today{\i0}
+Dialogue: 0,0:23:10.47,0:23:13.93,On Top,,0000,0000,0000,,{\i1}kyou mo kawarenai mama datte iinda{\i0}
+Dialogue: 0,0:23:14.10,0:23:16.52,Default,,0000,0000,0000,,{\i1}I just want to sing with you{\i0}
+Dialogue: 0,0:23:14.10,0:23:16.52,On Top,,0000,0000,0000,,{\i1}kimi to utatte itai{\i0}
+Dialogue: 0,0:23:16.69,0:23:19.90,Default,,0000,0000,0000,,{\i1}My emotions stir so often{\i0}
+Dialogue: 0,0:23:16.69,0:23:19.90,On Top,,0000,0000,0000,,{\i1}nando datte kanjou bakka yure ugoite{\i0}
+Dialogue: 0,0:23:20.07,0:23:23.07,Default,,0000,0000,0000,,{\i1}I've been hated{\i0}
+Dialogue: 0,0:23:20.07,0:23:23.07,On Top,,0000,0000,0000,,{\i1}kirawarete kita kedo{\i0}
+Dialogue: 0,0:23:23.24,0:23:26.41,Default,,0000,0000,0000,,{\i1}But I'm going to keep walking{\i0}
+Dialogue: 0,0:23:23.24,0:23:26.41,On Top,,0000,0000,0000,,{\i1}kono mama de aruite yukunda{\i0}
+Dialogue: 0,0:23:26.57,0:23:32.58,Default,,0000,0000,0000,,{\i1}Proud of myself\NWho can never become anybody{\i0}
+Dialogue: 0,0:23:26.57,0:23:32.58,On Top,,0000,0000,0000,,{\i1}darenimo narenai watashi mune hatte sa{\i0}
+Dialogue: 0,0:23:33.25,0:23:35.79,Default,,0000,0000,0000,,{\i1}Even if I'm alone{\i0}
+Dialogue: 0,0:23:33.25,0:23:35.79,On Top,,0000,0000,0000,,{\i1}tada hitori demo{\i0}
+Dialogue: 0,0:23:35.96,0:23:39.25,Default,,0000,0000,0000,,{\i1}I believe in myself{\i0}
+Dialogue: 0,0:23:35.96,0:23:39.25,On Top,,0000,0000,0000,,{\i1}magiremonai jibun wo shinjite{\i0}
+Dialogue: 0,0:23:39.42,0:23:46.26,Default,,0000,0000,0000,,{\i1}Every time I get hurt, I just need to sing{\i0}
+Dialogue: 0,0:23:39.42,0:23:46.26,On Top,,0000,0000,0000,,{\i1}kizutsuki ochiru tabi utaeba ii{\i0}

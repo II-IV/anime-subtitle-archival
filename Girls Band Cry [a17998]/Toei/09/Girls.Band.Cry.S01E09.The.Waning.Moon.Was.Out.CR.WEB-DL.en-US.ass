@@ -1,0 +1,490 @@
+[Script Info]
+Title: English (US)
+Original Script: ToeiAnimation  [http://www.crunchyroll.com/user/ToeiAnimation]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:13.18,Default,,0000,0000,0000,,
+Dialogue: 0,0:00:13.18,0:00:14.64,Default,,0000,0000,0000,,Are you done yet?
+Dialogue: 0,0:00:14.81,0:00:18.89,Default,,0000,0000,0000,,I really thought I was going to die.
+Dialogue: 0,0:00:19.98,0:00:22.56,Default,,0000,0000,0000,,{\i1}Suddenly, only hot air was coming out.{\i0}
+Dialogue: 0,0:00:23.61,0:00:24.94,Default,,0000,0000,0000,,It broke...
+Dialogue: 0,0:00:27.03,0:00:31.62,Default,,0000,0000,0000,,I couldn't sleep at all\Nsince it was so hot.
+Dialogue: 0,0:00:31.78,0:00:32.82,Default,,0000,0000,0000,,Don't sleep now!
+Dialogue: 0,0:00:32.99,0:00:37.58,Default,,0000,0000,0000,,Yeah, we need to fix the lyrics\Nand songs by the festival.
+Dialogue: 0,0:00:38.16,0:00:39.71,Default,,0000,0000,0000,,We're fixing them?
+Dialogue: 0,0:00:40.21,0:00:42.71,Default,,0000,0000,0000,,I like them the way they are.
+Dialogue: 0,0:00:43.17,0:00:44.09,Default,,0000,0000,0000,,Really?
+Dialogue: 0,0:00:44.71,0:00:47.01,Default,,0000,0000,0000,,What don't you like about them?
+Dialogue: 0,0:00:47.42,0:00:49.55,Default,,0000,0000,0000,,Well... How do I say this...
+Dialogue: 0,0:00:49.72,0:00:52.34,Default,,0000,0000,0000,,Simply put, they just sound ordinary.
+Dialogue: 0,0:00:55.26,0:00:57.47,Default,,0000,0000,0000,,What do you think, Tomo?
+Dialogue: 0,0:00:57.64,0:00:58.43,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:01:05.07,0:01:09.07,Default,,0000,0000,0000,,{\i1}Look, I can't deal with\Nyour perfectionism. I quit.{\i0}
+Dialogue: 0,0:01:09.24,0:01:10.86,Default,,0000,0000,0000,,{\i1}Then me, too.{\i0}
+Dialogue: 0,0:01:15.03,0:01:17.24,Default,,0000,0000,0000,,I think they're fine, I guess.
+Dialogue: 0,0:01:20.04,0:01:23.00,On Top,,0000,0000,0000,,{\i1}yari nokoshita kodou ga kono yo wo ootte{\i0}
+Dialogue: 0,0:01:20.04,0:01:23.00,Default,,0000,0000,0000,,{\i1}This unfinished beat covers the night{\i0}
+Dialogue: 0,0:01:23.17,0:01:25.88,On Top,,0000,0000,0000,,{\i1}bokura wo tsutsunde\Nkonagona ni naru mae ni{\i0}
+Dialogue: 0,0:01:23.17,0:01:25.88,Default,,0000,0000,0000,,{\i1}Embracing us before we're crushed{\i0}
+Dialogue: 0,0:01:26.04,0:01:30.59,On Top,,0000,0000,0000,,{\i1}tayori nakute mo ii sono te wo\Nkono te wa jibun jishin no mono sa{\i0}
+Dialogue: 0,0:01:26.04,0:01:30.59,Default,,0000,0000,0000,,{\i1}Even if your hand is unreliable\NThat is your own hand{\i0}
+Dialogue: 0,0:01:30.76,0:01:33.43,On Top,,0000,0000,0000,,{\i1}kawaranai hazu wa nai yo te wo nobashite{\i0}
+Dialogue: 0,0:01:30.76,0:01:33.43,Default,,0000,0000,0000,,{\i1}There will be change\NIf you just reach out{\i0}
+Dialogue: 0,0:01:39.22,0:01:43.19,On Top,,0000,0000,0000,,{\i1}zattou no naka de\Nkoe naki koe de naite iru{\i0}
+Dialogue: 0,0:01:39.22,0:01:43.19,Default,,0000,0000,0000,,{\i1}Crying in a crowd with a voiceless voice{\i0}
+Dialogue: 0,0:01:43.35,0:01:47.44,On Top,,0000,0000,0000,,{\i1}ashiato ga ima dareka no koe o keshita asa{\i0}
+Dialogue: 0,0:01:43.35,0:01:47.44,Default,,0000,0000,0000,,{\i1}Come morning\NThe footsteps drown out the voice{\i0}
+Dialogue: 0,0:01:47.61,0:01:51.57,On Top,,0000,0000,0000,,{\i1}itsu ni natte mo kareru koto no nai{\i0}
+Dialogue: 0,0:01:47.61,0:01:51.57,Default,,0000,0000,0000,,{\i1}No matter how much time passes\NIt never dries{\i0}
+Dialogue: 0,0:01:51.74,0:01:56.16,On Top,,0000,0000,0000,,{\i1}fuhaishita machi no doro mizu ga tsumetai{\i0}
+Dialogue: 0,0:01:51.74,0:01:56.16,Default,,0000,0000,0000,,{\i1}The cold, muddy waters of a decaying city{\i0}
+Dialogue: 0,0:01:56.33,0:01:57.66,On Top,,0000,0000,0000,,{\i1}nani mo kawaranai sekai de{\i0}
+Dialogue: 0,0:01:56.33,0:01:57.66,Default,,0000,0000,0000,,{\i1}In a world where nothing changes{\i0}
+Dialogue: 0,0:01:59.16,0:02:00.50,On Top,,0000,0000,0000,,{\i1}kyou datte ikite yukunda{\i0}
+Dialogue: 0,0:01:59.16,0:02:00.50,Default,,0000,0000,0000,,{\i1}We have to live through it{\i0}
+Dialogue: 0,0:02:01.66,0:02:03.79,On Top,,0000,0000,0000,,{\i1}kudaranai kedo shikatanai desho{\i0}
+Dialogue: 0,0:02:01.66,0:02:03.79,Default,,0000,0000,0000,,{\i1}It may be dumb, but we have no choice{\i0}
+Dialogue: 0,0:02:03.96,0:02:06.54,On Top,,0000,0000,0000,,{\i1}bokura wa mou aruki hajimetanda{\i0}
+Dialogue: 0,0:02:03.96,0:02:06.54,Default,,0000,0000,0000,,{\i1}We've already started walking{\i0}
+Dialogue: 0,0:02:06.71,0:02:09.71,On Top,,0000,0000,0000,,{\i1}uso mitaina baka mitaina{\i0}
+Dialogue: 0,0:02:06.71,0:02:09.71,Default,,0000,0000,0000,,{\i1}It may seem unreal\NIt may seem stupid{\i0}
+Dialogue: 0,0:02:09.88,0:02:12.51,On Top,,0000,0000,0000,,{\i1}doushiyo mo nai bokura no machi{\i0}
+Dialogue: 0,0:02:09.88,0:02:12.51,Default,,0000,0000,0000,,{\i1}This hopeless city of ours{\i0}
+Dialogue: 0,0:02:12.67,0:02:14.80,On Top,,0000,0000,0000,,{\i1}soredemo kono me de tashika ni mietanda{\i0}
+Dialogue: 0,0:02:12.67,0:02:14.80,Default,,0000,0000,0000,,{\i1}But I still saw it with my own eyes{\i0}
+Dialogue: 0,0:02:14.97,0:02:17.68,On Top,,0000,0000,0000,,{\i1}kono te de tashika ni furetanda\Nnee hora hora{\i0}
+Dialogue: 0,0:02:14.97,0:02:17.68,Default,,0000,0000,0000,,{\i1}I touched it with these hands\NSee? See?{\i0}
+Dialogue: 0,0:02:17.85,0:02:20.97,On Top,,0000,0000,0000,,{\i1}hora mata fuita baka mitaida{\i0}
+Dialogue: 0,0:02:17.85,0:02:20.97,Default,,0000,0000,0000,,{\i1}See? There it goes again\NIt's so stupid{\i0}
+Dialogue: 0,0:02:21.14,0:02:23.81,On Top,,0000,0000,0000,,{\i1}doushiyo mo nai yami wo terase{\i0}
+Dialogue: 0,0:02:21.14,0:02:23.81,Default,,0000,0000,0000,,{\i1}Shine a light through\NThe hopeless darkness{\i0}
+Dialogue: 0,0:02:23.98,0:02:25.98,On Top,,0000,0000,0000,,{\i1}yume janai douse owatteru machi datte{\i0}
+Dialogue: 0,0:02:23.98,0:02:25.98,Default,,0000,0000,0000,,{\i1}This isn't a dream\NEven in a dead city{\i0}
+Dialogue: 0,0:02:26.15,0:02:29.02,On Top,,0000,0000,0000,,{\i1}akirametatte kawannai ze aa mada mada{\i0}
+Dialogue: 0,0:02:26.15,0:02:29.02,Default,,0000,0000,0000,,{\i1}Giving up won't change anything\NEven now, now{\i0}
+Dialogue: 0,0:02:29.19,0:02:32.53,On Top,,0000,0000,0000,,{\i1}mada yari nokoshita kodou ga\Nkono yo wo ootte{\i0}
+Dialogue: 0,0:02:29.19,0:02:32.53,Default,,0000,0000,0000,,{\i1}Now, this unfinished beat covers the night{\i0}
+Dialogue: 0,0:02:32.69,0:02:35.36,On Top,,0000,0000,0000,,{\i1}bokura wo tsutsunde\Nkonagona ni naru mae ni{\i0}
+Dialogue: 0,0:02:32.69,0:02:35.36,Default,,0000,0000,0000,,{\i1}Embracing us before we're crushed{\i0}
+Dialogue: 0,0:02:35.53,0:02:40.12,On Top,,0000,0000,0000,,{\i1}tayori nakute mo ii sono te wo\Nkono te wa jibun jishin no mono sa{\i0}
+Dialogue: 0,0:02:35.53,0:02:40.12,Default,,0000,0000,0000,,{\i1}Even if your hand is unreliable\NThat is your own hand{\i0}
+Dialogue: 0,0:02:40.29,0:02:42.79,On Top,,0000,0000,0000,,{\i1}kawaranai hazu wa nai yo te wo nobashite{\i0}
+Dialogue: 0,0:02:40.29,0:02:42.79,Default,,0000,0000,0000,,{\i1}There will be change\NIf you just reach out{\i0}
+Dialogue: 0,0:02:50.59,0:02:55.51,On Top,,0000,0000,0000,,THE WANING MOON WAS OUT
+Dialogue: 0,0:02:51.05,0:02:53.05,Default,,0000,0000,0000,,Why didn't you say anything?
+Dialogue: 0,0:02:53.51,0:02:58.39,Default,,0000,0000,0000,,You mentioned to me that something was\Nbothering you about Momoka's new songs.
+Dialogue: 0,0:03:00.22,0:03:01.22,Default,,0000,0000,0000,,No reason.
+Dialogue: 0,0:03:01.97,0:03:03.43,Default,,0000,0000,0000,,I thought they were fine.
+Dialogue: 0,0:03:04.73,0:03:05.85,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:03:06.02,0:03:07.15,Default,,0000,0000,0000,,That's fine then.
+Dialogue: 0,0:03:10.65,0:03:13.36,Default,,0000,0000,0000,,It's not eating at all.
+Dialogue: 0,0:03:14.19,0:03:16.07,Default,,0000,0000,0000,,You're gonna die if you don't.
+Dialogue: 0,0:03:17.70,0:03:18.99,Default,,0000,0000,0000,,Who could it be?
+Dialogue: 0,0:03:19.16,0:03:20.24,Default,,0000,0000,0000,,A neighborhood notice?
+Dialogue: 0,0:03:20.41,0:03:23.25,Default,,0000,0000,0000,,Could you get it\Nsince our mailbox is broken?
+Dialogue: 0,0:03:23.41,0:03:24.25,Default,,0000,0000,0000,,Yes?
+Dialogue: 0,0:03:24.41,0:03:26.58,Default,,0000,0000,0000,,-Good evening! It's Nina!\N-No thank you.
+Dialogue: 0,0:03:26.75,0:03:28.54,Default,,0000,0000,0000,,Wait, I haven't said anything yet!
+Dialogue: 0,0:03:28.71,0:03:29.50,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:03:29.67,0:03:31.00,Default,,0000,0000,0000,,It's so cool.
+Dialogue: 0,0:03:31.17,0:03:34.01,Default,,0000,0000,0000,,Don't steal our air-conditioned air!
+Dialogue: 0,0:03:34.17,0:03:35.76,Default,,0000,0000,0000,,It's not like you'll run out.
+Dialogue: 0,0:03:35.92,0:03:37.88,Default,,0000,0000,0000,,Stop yelling!\NYou're annoying the neighbors!
+Dialogue: 0,0:03:38.05,0:03:39.72,Default,,0000,0000,0000,,You're the one yelling!
+Dialogue: 0,0:03:39.89,0:03:41.14,Default,,0000,0000,0000,,Stop ringing the bell!
+Dialogue: 0,0:03:42.60,0:03:44.02,Default,,0000,0000,0000,,Paradise.
+Dialogue: 0,0:03:44.18,0:03:46.18,Default,,0000,0000,0000,,Leave after you cool down.
+Dialogue: 0,0:03:46.35,0:03:48.60,Default,,0000,0000,0000,,That's so cruel.
+Dialogue: 0,0:03:48.77,0:03:51.98,Default,,0000,0000,0000,,The AC repairman\Nwon't come until next week!
+Dialogue: 0,0:03:52.15,0:03:53.53,Default,,0000,0000,0000,,Not my problem.
+Dialogue: 0,0:03:53.98,0:03:56.65,Default,,0000,0000,0000,,Does Momoka not have air conditioning?
+Dialogue: 0,0:03:56.82,0:03:59.70,Default,,0000,0000,0000,,She does, but she works nights.
+Dialogue: 0,0:04:00.99,0:04:03.49,Default,,0000,0000,0000,,I've been wondering.
+Dialogue: 0,0:04:04.45,0:04:06.79,Default,,0000,0000,0000,,Isn't it a bit weak?
+Dialogue: 0,0:04:05.95,0:04:07.04,On Top,,0000,0000,0000,,DON'T USE
+Dialogue: 0,0:04:11.59,0:04:13.38,Default,,0000,0000,0000,,It's so cool.
+Dialogue: 0,0:04:13.55,0:04:16.13,Default,,0000,0000,0000,,A big difference from your janky AC.
+Dialogue: 0,0:04:16.30,0:04:17.30,Default,,0000,0000,0000,,Don't call it janky!
+Dialogue: 0,0:04:17.80,0:04:20.22,Default,,0000,0000,0000,,It's pretty janky if it can't run on high!
+Dialogue: 0,0:04:20.39,0:04:22.55,Default,,0000,0000,0000,,Well, it was labeled not to!
+Dialogue: 0,0:04:23.05,0:04:24.22,Default,,0000,0000,0000,,So, anyway.
+Dialogue: 0,0:04:24.39,0:04:27.43,Default,,0000,0000,0000,,Both of our apartment AC units broke.
+Dialogue: 0,0:04:28.52,0:04:32.40,Default,,0000,0000,0000,,We would appreciate some time\Nin your cool air.
+Dialogue: 0,0:04:32.56,0:04:36.11,Default,,0000,0000,0000,,Please, just one hour!
+Dialogue: 0,0:04:36.28,0:04:38.20,Default,,0000,0000,0000,,This is all her fault, by the way.
+Dialogue: 0,0:04:39.99,0:04:41.24,Default,,0000,0000,0000,,Okay, fine.
+Dialogue: 0,0:04:41.41,0:04:43.74,Default,,0000,0000,0000,,Just one hour!
+Dialogue: 0,0:04:43.91,0:04:46.20,Default,,0000,0000,0000,,Oh, that's Tomo's pet.
+Dialogue: 0,0:04:46.37,0:04:48.12,Default,,0000,0000,0000,,It doesn't like the heat.
+Dialogue: 0,0:04:48.29,0:04:49.71,Default,,0000,0000,0000,,-Wait...\N-What?!
+Dialogue: 0,0:04:49.87,0:04:52.46,Default,,0000,0000,0000,,Don't just release it!
+Dialogue: 0,0:04:54.46,0:04:55.46,Default,,0000,0000,0000,,So powerful.
+Dialogue: 0,0:04:55.63,0:04:57.05,Default,,0000,0000,0000,,Stop saying that.
+Dialogue: 0,0:04:57.59,0:04:59.09,Default,,0000,0000,0000,,What an amazing apartment.
+Dialogue: 0,0:04:59.63,0:05:00.76,Default,,0000,0000,0000,,Good grief.
+Dialogue: 0,0:05:02.84,0:05:04.10,Default,,0000,0000,0000,,Oh, it's Momoka.
+Dialogue: 0,0:05:04.76,0:05:07.47,Default,,0000,0000,0000,,She works nearby,\Nso she's going to drop by later.
+Dialogue: 0,0:05:07.64,0:05:08.77,Default,,0000,0000,0000,,Really?
+Dialogue: 0,0:05:07.64,0:05:10.27,On Top,,0000,0000,0000,,I'M WORKING NEARBY\NI'LL SWING BY IN ABOUT 30
+Dialogue: 0,0:05:08.93,0:05:12.19,Default,,0000,0000,0000,,Then maybe we can all eat together here.
+Dialogue: 0,0:05:10.44,0:05:11.23,On Top,,0000,0000,0000,,ROGER
+Dialogue: 0,0:05:13.10,0:05:15.23,Default,,0000,0000,0000,,When did that become an option?
+Dialogue: 0,0:05:15.90,0:05:17.53,Default,,0000,0000,0000,,You said only an hour.
+Dialogue: 0,0:05:17.69,0:05:18.49,Default,,0000,0000,0000,,Look.
+Dialogue: 0,0:05:18.65,0:05:19.74,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:05:21.40,0:05:22.86,Default,,0000,0000,0000,,We missed our last train.
+Dialogue: 0,0:05:23.03,0:05:24.07,Default,,0000,0000,0000,,Looks like it.
+Dialogue: 0,0:05:25.66,0:05:28.50,Default,,0000,0000,0000,,I bet this was your plan from the start!
+Dialogue: 0,0:05:28.66,0:05:31.33,Default,,0000,0000,0000,,Now, now. How about we play cards?
+Dialogue: 0,0:05:31.50,0:05:32.62,Default,,0000,0000,0000,,You're well prepared!
+Dialogue: 0,0:05:34.54,0:05:39.42,Default,,0000,0000,0000,,I realized that we've never done\Nanything like this before.
+Dialogue: 0,0:05:39.59,0:05:42.18,Default,,0000,0000,0000,,Then since there's four of us...
+Dialogue: 0,0:05:42.34,0:05:43.93,Default,,0000,0000,0000,,-Count me out.\N-What?
+Dialogue: 0,0:05:44.51,0:05:46.18,Default,,0000,0000,0000,,I'm borrowing this room.
+Dialogue: 0,0:05:46.64,0:05:49.18,Default,,0000,0000,0000,,I also have Ametaro Dentetsu.\NWanna try the 100-year mode?
+Dialogue: 0,0:05:49.64,0:05:51.23,Default,,0000,0000,0000,,We'll be up all night.
+Dialogue: 0,0:05:51.81,0:05:53.48,Default,,0000,0000,0000,,Did I do something?
+Dialogue: 0,0:05:53.65,0:05:55.19,Default,,0000,0000,0000,,You've done plenty.
+Dialogue: 0,0:05:55.36,0:05:58.02,Default,,0000,0000,0000,,No, it's not your fault.
+Dialogue: 0,0:05:58.78,0:06:00.03,Default,,0000,0000,0000,,Really?
+Dialogue: 0,0:06:00.49,0:06:02.24,Default,,0000,0000,0000,,Let me check on her.
+Dialogue: 0,0:06:13.33,0:06:14.62,Default,,0000,0000,0000,,Heading to bed first?
+Dialogue: 0,0:06:15.13,0:06:16.29,Default,,0000,0000,0000,,No.
+Dialogue: 0,0:06:16.46,0:06:19.34,Default,,0000,0000,0000,,You three can play cards\Nor whatever without me.
+Dialogue: 0,0:06:19.96,0:06:21.80,Default,,0000,0000,0000,,Just leave me alone.
+Dialogue: 0,0:06:24.05,0:06:25.26,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:06:26.51,0:06:28.35,Default,,0000,0000,0000,,If you've got a complaint, say it.
+Dialogue: 0,0:06:28.93,0:06:32.02,Default,,0000,0000,0000,,A complaint? Why would I have a complaint?
+Dialogue: 0,0:06:39.02,0:06:39.61,Default,,0000,0000,0000,,LOSER BUYS BEEF BOWLS
+Dialogue: 0,0:06:40.98,0:06:42.11,Default,,0000,0000,0000,,I've lost.
+Dialogue: 0,0:06:42.28,0:06:44.45,Default,,0000,0000,0000,,What am I looking at?
+Dialogue: 0,0:06:44.95,0:06:46.62,Default,,0000,0000,0000,,You're the cause of all of this, Nina.
+Dialogue: 0,0:06:46.78,0:06:47.78,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:06:47.95,0:06:49.95,Default,,0000,0000,0000,,It's my AC's fault!
+Dialogue: 0,0:06:50.12,0:06:51.75,Default,,0000,0000,0000,,Just tough it out.
+Dialogue: 0,0:06:52.20,0:06:53.00,Default,,0000,0000,0000,,I did!
+Dialogue: 0,0:06:53.16,0:06:55.37,Default,,0000,0000,0000,,{\i1}I killed time at the convenience store,{\i0}
+Dialogue: 0,0:06:56.92,0:07:00.00,Default,,0000,0000,0000,,{\i1}hung out on a bench for an hour,{\i0}
+Dialogue: 0,0:07:01.96,0:07:06.01,Default,,0000,0000,0000,,but it's so boring being outdoors\Nwhen you can't spend money!
+Dialogue: 0,0:07:06.18,0:07:08.35,Default,,0000,0000,0000,,-Where's Tomo?\N-She went to bed.
+Dialogue: 0,0:07:09.05,0:07:11.43,Default,,0000,0000,0000,,Did she say anything about our songs?
+Dialogue: 0,0:07:11.60,0:07:12.89,Default,,0000,0000,0000,,Not particularly.
+Dialogue: 0,0:07:13.35,0:07:14.27,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:07:14.43,0:07:16.90,Default,,0000,0000,0000,,It looked like she had something to say.
+Dialogue: 0,0:07:17.06,0:07:18.44,Default,,0000,0000,0000,,Where are you going?
+Dialogue: 0,0:07:18.61,0:07:19.77,Default,,0000,0000,0000,,The fridge.
+Dialogue: 0,0:07:19.94,0:07:21.73,Default,,0000,0000,0000,,Can't have these going warm.
+Dialogue: 0,0:07:21.90,0:07:24.78,Default,,0000,0000,0000,,What do you think will happen\Nif my grandma finds them?!
+Dialogue: 0,0:07:24.95,0:07:28.28,Default,,0000,0000,0000,,Don't worry, I'll drink them all\Nby morning...
+Dialogue: 0,0:07:29.20,0:07:30.03,Default,,0000,0000,0000,,Snake?
+Dialogue: 0,0:07:30.20,0:07:31.70,Default,,0000,0000,0000,,It's Tomo's pet.
+Dialogue: 0,0:07:31.87,0:07:34.79,Default,,0000,0000,0000,,Don't worry, it's calm and not venomous.
+Dialogue: 0,0:07:34.95,0:07:36.54,Default,,0000,0000,0000,,Snake!
+Dialogue: 0,0:07:36.71,0:07:37.54,Default,,0000,0000,0000,,What a waste!
+Dialogue: 0,0:07:37.71,0:07:39.50,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:07:39.67,0:07:40.79,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:07:41.96,0:07:42.80,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:07:44.01,0:07:44.80,Default,,0000,0000,0000,,Momoka.
+Dialogue: 0,0:07:44.96,0:07:46.05,Default,,0000,0000,0000,,Momoka!
+Dialogue: 0,0:07:46.22,0:07:48.26,Default,,0000,0000,0000,,You can't lock yourself in there.
+Dialogue: 0,0:07:48.43,0:07:50.47,Default,,0000,0000,0000,,Get rid of it already!
+Dialogue: 0,0:07:50.64,0:07:52.97,Default,,0000,0000,0000,,I guess Momoka doesn't like snakes.
+Dialogue: 0,0:07:53.14,0:07:54.47,Default,,0000,0000,0000,,So old-fashioned.
+Dialogue: 0,0:07:54.64,0:07:55.81,Default,,0000,0000,0000,,It's a snake!
+Dialogue: 0,0:07:55.98,0:07:57.52,Default,,0000,0000,0000,,How are you all okay?
+Dialogue: 0,0:07:58.48,0:07:59.94,Default,,0000,0000,0000,,It's not a big deal.
+Dialogue: 0,0:08:00.11,0:08:01.40,Default,,0000,0000,0000,,That's weird!
+Dialogue: 0,0:08:01.56,0:08:04.48,Default,,0000,0000,0000,,How can all four of you\Nbe fine with snakes?!
+Dialogue: 0,0:08:04.65,0:08:05.94,Default,,0000,0000,0000,,Just spend some time with it.
+Dialogue: 0,0:08:06.44,0:08:08.45,Default,,0000,0000,0000,,There's a snake behind you, Momoka.
+Dialogue: 0,0:08:10.91,0:08:11.70,Default,,0000,0000,0000,,A NORMAL HAIR DRYER
+Dialogue: 0,0:08:11.87,0:08:12.74,Default,,0000,0000,0000,,Oh!
+Dialogue: 0,0:08:12.91,0:08:14.20,Default,,0000,0000,0000,,It opened.
+Dialogue: 0,0:08:14.37,0:08:16.45,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:08:16.62,0:08:17.58,Default,,0000,0000,0000,,Beer-tiful save!
+Dialogue: 0,0:08:17.75,0:08:18.96,Default,,0000,0000,0000,,Hold on!
+Dialogue: 0,0:08:19.42,0:08:21.96,Default,,0000,0000,0000,,-Momoka!\N-Just get rid of it!
+Dialogue: 0,0:08:22.13,0:08:25.71,Default,,0000,0000,0000,,If we get caught doing that,\NI'll be the one who gets in trouble!
+Dialogue: 0,0:08:25.88,0:08:30.72,Default,,0000,0000,0000,,Besides, we already put it\Nin the same room as Tomo.
+Dialogue: 0,0:08:30.89,0:08:32.76,Default,,0000,0000,0000,,So come out already.
+Dialogue: 0,0:08:32.93,0:08:34.47,Default,,0000,0000,0000,,Hey. You'll break--
+Dialogue: 0,0:08:34.97,0:08:36.56,Default,,0000,0000,0000,,No way.
+Dialogue: 0,0:08:36.73,0:08:39.23,Default,,0000,0000,0000,,You're not a child anymore.
+Dialogue: 0,0:08:39.39,0:08:40.94,Default,,0000,0000,0000,,-It's going to break!\N-Nina!
+Dialogue: 0,0:08:44.15,0:08:45.15,Default,,0000,0000,0000,,How was that?
+Dialogue: 0,0:08:45.78,0:08:46.69,Default,,0000,0000,0000,,Seriously?
+Dialogue: 0,0:08:47.40,0:08:49.99,Default,,0000,0000,0000,,All of you!
+Dialogue: 0,0:08:51.91,0:08:54.66,Default,,0000,0000,0000,,-How could you?!\N-You're nonassertive, aren't you?
+Dialogue: 0,0:08:55.41,0:08:57.12,Default,,0000,0000,0000,,Never come back.
+Dialogue: 0,0:08:59.33,0:09:00.12,Default,,0000,0000,0000,,So hot.
+Dialogue: 0,0:09:00.29,0:09:02.17,Default,,0000,0000,0000,,Whose fault is that?!
+Dialogue: 0,0:09:02.33,0:09:03.79,Default,,0000,0000,0000,,You all get along so well.
+Dialogue: 0,0:09:03.96,0:09:05.25,Default,,0000,0000,0000,,We don't!
+Dialogue: 0,0:09:05.42,0:09:07.26,Default,,0000,0000,0000,,I'm off to work.
+Dialogue: 0,0:09:07.76,0:09:09.26,Default,,0000,0000,0000,,Take care.
+Dialogue: 0,0:09:09.42,0:09:11.26,Default,,0000,0000,0000,,Get rid of that snake.
+Dialogue: 0,0:09:12.89,0:09:14.43,Default,,0000,0000,0000,,Where's the snake, by the way?
+Dialogue: 0,0:09:14.60,0:09:17.85,Default,,0000,0000,0000,,Subaru offered to keep it for now.
+Dialogue: 0,0:09:18.39,0:09:19.68,Default,,0000,0000,0000,,I wish I were the snake.
+Dialogue: 0,0:09:20.44,0:09:22.19,Default,,0000,0000,0000,,Well, we're done here.
+Dialogue: 0,0:09:22.77,0:09:24.36,Default,,0000,0000,0000,,Rupa, let's go.
+Dialogue: 0,0:09:24.52,0:09:27.11,Default,,0000,0000,0000,,We need to check up on the apartment.
+Dialogue: 0,0:09:27.28,0:09:29.61,Default,,0000,0000,0000,,What? You're ditching me?
+Dialogue: 0,0:09:29.78,0:09:34.03,Default,,0000,0000,0000,,Why do I have to hang out with you\Nwhen it's not even for practice?
+Dialogue: 0,0:09:34.20,0:09:38.24,Default,,0000,0000,0000,,Momoka said it's important\Nto do things like that.
+Dialogue: 0,0:09:39.54,0:09:42.87,Default,,0000,0000,0000,,If you have time,\Ncan you watch me practice?
+Dialogue: 0,0:09:44.04,0:09:46.75,Default,,0000,0000,0000,,I'll go grab my guitar from the apartment!
+Dialogue: 0,0:09:50.30,0:09:52.05,Default,,0000,0000,0000,,An acoustic guitar?
+Dialogue: 0,0:09:52.22,0:09:53.05,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:09:53.51,0:09:58.06,Default,,0000,0000,0000,,When I asked Mine for advice,\Nshe said to practice if I wanted to play.
+Dialogue: 0,0:09:58.60,0:10:00.81,Default,,0000,0000,0000,,And that this is old but a good guitar.
+Dialogue: 0,0:10:01.85,0:10:03.10,Default,,0000,0000,0000,,The second string's off.
+Dialogue: 0,0:10:03.27,0:10:04.06,Default,,0000,0000,0000,,Really?
+Dialogue: 0,0:10:04.23,0:10:05.77,Default,,0000,0000,0000,,That's so impressive.
+Dialogue: 0,0:10:05.94,0:10:09.23,Default,,0000,0000,0000,,You've been playing piano\Nsince you were young?
+Dialogue: 0,0:10:09.40,0:10:12.57,Default,,0000,0000,0000,,That's unrelated, anybody could tell\Nwhen it's this off-key.
+Dialogue: 0,0:10:13.49,0:10:15.82,Default,,0000,0000,0000,,But guitars are amazing.
+Dialogue: 0,0:10:15.99,0:10:20.41,Default,,0000,0000,0000,,You really do get callouses\Nas you practice.
+Dialogue: 0,0:10:22.87,0:10:23.87,Default,,0000,0000,0000,,Is it okay now?
+Dialogue: 0,0:10:24.37,0:10:26.33,Default,,0000,0000,0000,,It's still a little off,
+Dialogue: 0,0:10:26.50,0:10:29.84,Default,,0000,0000,0000,,but it's probably the best you can do.
+Dialogue: 0,0:10:31.34,0:10:32.84,Default,,0000,0000,0000,,Here I go.
+Dialogue: 0,0:10:44.52,0:10:45.60,Default,,0000,0000,0000,,How's that?
+Dialogue: 0,0:10:45.77,0:10:47.90,Default,,0000,0000,0000,,I thought we'd play it at the next show.
+Dialogue: 0,0:10:48.06,0:10:50.07,Default,,0000,0000,0000,,You've really improved.
+Dialogue: 0,0:10:50.23,0:10:51.11,Default,,0000,0000,0000,,Go for it.
+Dialogue: 0,0:10:51.28,0:10:54.57,Default,,0000,0000,0000,,Adding an extra guitar\Nwill elevate our sound.
+Dialogue: 0,0:10:54.74,0:10:56.07,Default,,0000,0000,0000,,-No.\N-What?
+Dialogue: 0,0:10:57.16,0:10:59.87,Default,,0000,0000,0000,,You can't play a show at your skill level.
+Dialogue: 0,0:11:04.08,0:11:05.16,Default,,0000,0000,0000,,Tomo.
+Dialogue: 0,0:11:05.33,0:11:06.12,Default,,0000,0000,0000,,Tomo!
+Dialogue: 0,0:11:07.46,0:11:08.46,Default,,0000,0000,0000,,How was it?
+Dialogue: 0,0:11:10.55,0:11:11.46,Default,,0000,0000,0000,,How was it, Rupa?
+Dialogue: 0,0:11:11.63,0:11:13.97,Default,,0000,0000,0000,,It's not my expertise.
+Dialogue: 0,0:11:14.13,0:11:17.39,Default,,0000,0000,0000,,Well, I don't play the guitar either.
+Dialogue: 0,0:11:17.55,0:11:20.39,Default,,0000,0000,0000,,But you know a lot about music, right?
+Dialogue: 0,0:11:21.89,0:11:22.68,Default,,0000,0000,0000,,I guess.
+Dialogue: 0,0:11:26.77,0:11:28.40,Default,,0000,0000,0000,,It seemed fine...
+Dialogue: 0,0:11:28.56,0:11:30.19,Default,,0000,0000,0000,,as a hobby.
+Dialogue: 0,0:11:30.36,0:11:31.40,Default,,0000,0000,0000,,Hobby?
+Dialogue: 0,0:11:31.57,0:11:33.15,Default,,0000,0000,0000,,So not on stage?
+Dialogue: 0,0:11:36.45,0:11:38.24,Default,,0000,0000,0000,,Do you want to play on stage?
+Dialogue: 0,0:11:38.41,0:11:39.20,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:11:39.37,0:11:43.08,Default,,0000,0000,0000,,I realized something\Nwhen we went to the Diamond Dust show.
+Dialogue: 0,0:11:43.58,0:11:45.66,Default,,0000,0000,0000,,I want to become better.
+Dialogue: 0,0:11:46.58,0:11:48.46,Default,,0000,0000,0000,,Not just rely on Momoka.
+Dialogue: 0,0:11:49.08,0:11:51.92,Default,,0000,0000,0000,,I want to contribute.
+Dialogue: 0,0:11:53.30,0:11:55.42,Default,,0000,0000,0000,,Oh, I mean, with all of you too.
+Dialogue: 0,0:11:56.55,0:12:00.43,Default,,0000,0000,0000,,So let me know\Nif there's something I can improve.
+Dialogue: 0,0:12:02.89,0:12:03.93,Default,,0000,0000,0000,,It was fine.
+Dialogue: 0,0:12:04.10,0:12:07.44,Default,,0000,0000,0000,,Tell me! Tomo!
+Dialogue: 0,0:12:10.15,0:12:11.81,Default,,0000,0000,0000,,With your talent,
+Dialogue: 0,0:12:12.65,0:12:15.19,Default,,0000,0000,0000,,you'll never be good enough!
+Dialogue: 0,0:12:28.46,0:12:29.54,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:12:31.88,0:12:33.29,Default,,0000,0000,0000,,{\i1}Girls Band Cry.{\i0}
+Dialogue: 0,0:12:35.88,0:12:38.26,Default,,0000,0000,0000,,I keep telling you to play seriously--
+Dialogue: 0,0:12:40.26,0:12:42.39,Default,,0000,0000,0000,,Stop measuring us to your standards.
+Dialogue: 0,0:12:42.89,0:12:47.73,Default,,0000,0000,0000,,We're not like you, who's been winning\Npiano awards since you were little.
+Dialogue: 0,0:12:48.18,0:12:49.73,Default,,0000,0000,0000,,I can't do this.
+Dialogue: 0,0:12:49.89,0:12:52.15,Default,,0000,0000,0000,,-Um--\N-Stay out of this.
+Dialogue: 0,0:12:58.82,0:12:59.74,Default,,0000,0000,0000,,Look,
+Dialogue: 0,0:13:00.61,0:13:02.74,Default,,0000,0000,0000,,I talked to her yesterday, but...
+Dialogue: 0,0:13:10.96,0:13:13.38,Default,,0000,0000,0000,,It's gotten cooler.
+Dialogue: 0,0:13:14.92,0:13:16.05,Default,,0000,0000,0000,,Has it?
+Dialogue: 0,0:13:16.21,0:13:19.09,Default,,0000,0000,0000,,It's good to go without the AC\Nfrom time to time.
+Dialogue: 0,0:13:19.80,0:13:22.89,Default,,0000,0000,0000,,You can feel the temperature\Nchange gradually on your skin.
+Dialogue: 0,0:13:26.43,0:13:28.52,Default,,0000,0000,0000,,THANK YOU FOR TODAY\NSTILL HOT AT HOME
+Dialogue: 0,0:13:33.02,0:13:35.52,Default,,0000,0000,0000,,Nina was happy.
+Dialogue: 0,0:13:38.03,0:13:39.86,Default,,0000,0000,0000,,Of course she wasn't.
+Dialogue: 0,0:13:42.70,0:13:45.12,Default,,0000,0000,0000,,You got some guts coming back here.
+Dialogue: 0,0:13:45.95,0:13:48.83,Default,,0000,0000,0000,,{\i1}I wanted your advice on something.{\i0}
+Dialogue: 0,0:13:49.00,0:13:49.79,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:13:49.95,0:13:52.42,Default,,0000,0000,0000,,I didn't come to use your AC!
+Dialogue: 0,0:13:52.58,0:13:53.62,Default,,0000,0000,0000,,{\i1}Really?{\i0}
+Dialogue: 0,0:13:55.08,0:13:58.63,Default,,0000,0000,0000,,{\i1}I'm here for something serious\Nabout the band.{\i0}
+Dialogue: 0,0:14:00.59,0:14:03.43,Default,,0000,0000,0000,,I'LL REIMBURSE YOU.\N(IN 36 INSTALLMENTS PLEASE) NINA
+Dialogue: 0,0:14:08.10,0:14:09.06,Default,,0000,0000,0000,,How was that?
+Dialogue: 0,0:14:09.22,0:14:10.93,Default,,0000,0000,0000,,What did Tomo tell you?
+Dialogue: 0,0:14:11.98,0:14:14.35,Default,,0000,0000,0000,,She said that with my talent,
+Dialogue: 0,0:14:14.52,0:14:17.19,Default,,0000,0000,0000,,I'll never be good enough.
+Dialogue: 0,0:14:17.36,0:14:19.57,Default,,0000,0000,0000,,Oof, that's harsh.
+Dialogue: 0,0:14:19.73,0:14:22.57,Default,,0000,0000,0000,,Though I'm sure\Nthat's partly her personality.
+Dialogue: 0,0:14:25.07,0:14:26.45,Default,,0000,0000,0000,,Did you lose motivation?
+Dialogue: 0,0:14:27.66,0:14:28.45,Default,,0000,0000,0000,,Why would I?
+Dialogue: 0,0:14:28.91,0:14:31.58,Default,,0000,0000,0000,,Well, as long as you're not bothered.
+Dialogue: 0,0:14:31.75,0:14:34.71,Default,,0000,0000,0000,,So, what did you think, Subaru?
+Dialogue: 0,0:14:35.38,0:14:37.46,Default,,0000,0000,0000,,I guess I agree with Tomo.
+Dialogue: 0,0:14:37.96,0:14:38.96,Default,,0000,0000,0000,,Yeah?
+Dialogue: 0,0:14:39.13,0:14:42.47,Default,,0000,0000,0000,,I thought I practiced enough\Nto be able to play onstage.
+Dialogue: 0,0:14:42.63,0:14:46.47,Default,,0000,0000,0000,,It's not something you can do\Nonly after a year or two.
+Dialogue: 0,0:14:46.64,0:14:51.02,Default,,0000,0000,0000,,Maybe if you were an amateur,\Nbut not if you're aiming to go pro.
+Dialogue: 0,0:14:51.18,0:14:54.27,Default,,0000,0000,0000,,But you're managing.
+Dialogue: 0,0:14:54.44,0:14:55.77,Default,,0000,0000,0000,,I'm not so sure.
+Dialogue: 0,0:14:55.94,0:15:00.19,Default,,0000,0000,0000,,I bet Tomo has a lot\Nshe'd like to say about me.
+Dialogue: 0,0:15:00.36,0:15:03.32,Default,,0000,0000,0000,,But she's never said anything, right?
+Dialogue: 0,0:15:03.49,0:15:06.91,Default,,0000,0000,0000,,Because I don't go out of my way\Nto ask her like you.
+Dialogue: 0,0:15:08.16,0:15:10.49,Default,,0000,0000,0000,,Tomo's probably a little timid.
+Dialogue: 0,0:15:11.20,0:15:15.58,Default,,0000,0000,0000,,She keeps her distance because\Nshe doesn't want to be hated.
+Dialogue: 0,0:15:16.12,0:15:18.42,Default,,0000,0000,0000,,She never approaches people herself.
+Dialogue: 0,0:15:19.09,0:15:21.92,Default,,0000,0000,0000,,But if we approach her instead...
+Dialogue: 0,0:15:22.09,0:15:23.05,Default,,0000,0000,0000,,Grr!
+Dialogue: 0,0:15:24.05,0:15:26.05,Default,,0000,0000,0000,,That sounds like me.
+Dialogue: 0,0:15:26.51,0:15:29.05,Default,,0000,0000,0000,,Yeah, you were like that too.
+Dialogue: 0,0:15:36.02,0:15:36.85,Default,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:15:37.02,0:15:39.65,Default,,0000,0000,0000,,I got it an aquarium, so take it with you.
+Dialogue: 0,0:15:40.82,0:15:43.07,Default,,0000,0000,0000,,It hasn't eaten though. Is that okay?
+Dialogue: 0,0:15:43.23,0:15:44.07,Default,,0000,0000,0000,,It's fine.
+Dialogue: 0,0:15:46.95,0:15:47.82,Default,,0000,0000,0000,,Oh! Tomo!
+Dialogue: 0,0:15:49.20,0:15:50.66,Default,,0000,0000,0000,,You're still at it?
+Dialogue: 0,0:15:50.83,0:15:51.62,Default,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:15:51.78,0:15:53.70,Default,,0000,0000,0000,,I had Subaru listen too.
+Dialogue: 0,0:15:55.54,0:15:56.46,Default,,0000,0000,0000,,Ow.
+Dialogue: 0,0:15:59.13,0:16:00.42,Default,,0000,0000,0000,,Seems fine to me.
+Dialogue: 0,0:16:01.50,0:16:04.34,Default,,0000,0000,0000,,You should play on stage if you want to.
+Dialogue: 0,0:16:06.26,0:16:07.59,Default,,0000,0000,0000,,Why are you lying?
+Dialogue: 0,0:16:17.89,0:16:19.52,Default,,0000,0000,0000,,-I see.\N-Oh.
+Dialogue: 0,0:16:20.52,0:16:21.36,Default,,0000,0000,0000,,Tomo?
+Dialogue: 0,0:16:24.82,0:16:25.65,Default,,0000,0000,0000,,Disbanded?
+Dialogue: 0,0:16:27.57,0:16:30.91,Default,,0000,0000,0000,,She came to Tokyo,\Nrecruited members online,
+Dialogue: 0,0:16:31.49,0:16:32.78,Default,,0000,0000,0000,,and started a band.
+Dialogue: 0,0:16:33.41,0:16:37.21,Default,,0000,0000,0000,,Is that how you met her?
+Dialogue: 0,0:16:37.79,0:16:42.13,Default,,0000,0000,0000,,Yes, there was also a drummer\Nand a guitarist.
+Dialogue: 0,0:16:42.67,0:16:45.00,Default,,0000,0000,0000,,They said they were aiming to go pro.
+Dialogue: 0,0:16:45.63,0:16:48.51,Default,,0000,0000,0000,,Yeah, well, everyone says that.
+Dialogue: 0,0:16:49.13,0:16:50.01,Default,,0000,0000,0000,,Yeah?
+Dialogue: 0,0:16:50.55,0:16:55.89,Default,,0000,0000,0000,,People who are successful say that\Nthey didn't have to work hard at all.
+Dialogue: 0,0:16:56.93,0:17:00.52,Default,,0000,0000,0000,,But if that was really the case,\Nanybody could be successful.
+Dialogue: 0,0:17:01.06,0:17:01.90,Default,,0000,0000,0000,,Exactly.
+Dialogue: 0,0:17:02.44,0:17:05.11,Default,,0000,0000,0000,,Tomo knows that too.
+Dialogue: 0,0:17:05.27,0:17:08.69,Default,,0000,0000,0000,,That's why she kept saying that\Nwe weren't good enough.
+Dialogue: 0,0:17:09.70,0:17:13.03,Default,,0000,0000,0000,,{\i1}Since she believed\Nwe all felt the same way,{\i0}
+Dialogue: 0,0:17:13.49,0:17:16.91,Default,,0000,0000,0000,,{\i1}she became more and more demanding.{\i0}
+Dialogue: 0,0:17:17.70,0:17:19.96,Default,,0000,0000,0000,,{\i1}Yeah, I can see that.{\i0}
+Dialogue: 0,0:17:21.92,0:17:25.50,Default,,0000,0000,0000,,But you still stayed with her.
+Dialogue: 0,0:17:26.80,0:17:30.42,Default,,0000,0000,0000,,Though Tomo said she'd set out on her own.
+Dialogue: 0,0:17:32.39,0:17:33.47,Default,,0000,0000,0000,,But being so young...
+Dialogue: 0,0:17:35.47,0:17:37.81,On Top,,0000,0000,0000,,RENTAL GUARANTOR CONSENT FORM
+Dialogue: 0,0:17:36.93,0:17:37.81,Default,,0000,0000,0000,,Guarantor?
+Dialogue: 0,0:17:38.35,0:17:40.56,Default,,0000,0000,0000,,I don't plan to contact my parents.
+Dialogue: 0,0:17:41.52,0:17:43.44,Default,,0000,0000,0000,,I promise not to be a burden.
+Dialogue: 0,0:17:45.06,0:17:48.53,Default,,0000,0000,0000,,That's when we started living together
+Dialogue: 0,0:17:48.69,0:17:50.61,Default,,0000,0000,0000,,and formed beni-shouga together.
+Dialogue: 0,0:17:51.11,0:17:53.49,Default,,0000,0000,0000,,We had opportunities to go pro, but...
+Dialogue: 0,0:17:54.03,0:17:58.12,Default,,0000,0000,0000,,Each time, she'd butt heads\Nwith someone and ruin it.
+Dialogue: 0,0:17:58.62,0:18:03.87,Default,,0000,0000,0000,,And because of that, I think she's become\Nscared to say how she feels.
+Dialogue: 0,0:18:04.71,0:18:08.84,Default,,0000,0000,0000,,That if she shared her true self,\Nit would ruin everything.
+Dialogue: 0,0:18:12.47,0:18:14.22,Default,,0000,0000,0000,,What do you think, Momoka?
+Dialogue: 0,0:18:16.22,0:18:17.22,Default,,0000,0000,0000,,My guitar skills.
+Dialogue: 0,0:18:17.81,0:18:20.47,Default,,0000,0000,0000,,Am I good enough to play on stage?
+Dialogue: 0,0:18:25.10,0:18:25.98,Default,,0000,0000,0000,,Are you serious?
+Dialogue: 0,0:18:31.07,0:18:32.24,Default,,0000,0000,0000,,I thought so.
+Dialogue: 0,0:18:38.41,0:18:39.58,Default,,0000,0000,0000,,I'm home.
+Dialogue: 0,0:18:42.33,0:18:43.50,Default,,0000,0000,0000,,You're late.
+Dialogue: 0,0:18:45.25,0:18:47.00,Default,,0000,0000,0000,,Oh! It's eating!
+Dialogue: 0,0:18:47.17,0:18:48.17,Default,,0000,0000,0000,,Look!
+Dialogue: 0,0:18:50.21,0:18:51.05,Default,,0000,0000,0000,,You're right!
+Dialogue: 0,0:18:52.47,0:18:54.76,Default,,0000,0000,0000,,No matter how scared you are,
+Dialogue: 0,0:18:56.55,0:18:59.81,Default,,0000,0000,0000,,you won't get anywhere\Nif you're just watching.
+Dialogue: 0,0:18:59.97,0:19:01.14,Default,,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:19:02.64,0:19:03.52,Default,,0000,0000,0000,,Okay, Tomo.
+Dialogue: 0,0:19:04.14,0:19:05.98,Default,,0000,0000,0000,,Let's go for a walk.
+Dialogue: 0,0:19:11.23,0:19:13.15,Default,,0000,0000,0000,,It's not cooling down at all.
+Dialogue: 0,0:19:14.82,0:19:17.07,Default,,0000,0000,0000,,We're back to band practice tomorrow.
+Dialogue: 0,0:19:18.24,0:19:19.99,Default,,0000,0000,0000,,I hope it doesn't rain.
+Dialogue: 0,0:19:21.83,0:19:23.33,Default,,0000,0000,0000,,I'm not wrong.
+Dialogue: 0,0:19:24.62,0:19:27.04,Default,,0000,0000,0000,,I said she's bad because she is.
+Dialogue: 0,0:19:27.79,0:19:30.21,Default,,0000,0000,0000,,She's just not good enough.
+Dialogue: 0,0:19:32.34,0:19:35.55,Default,,0000,0000,0000,,Then why did you tell her\Nshe could play on stage?
+Dialogue: 0,0:19:35.72,0:19:36.76,Default,,0000,0000,0000,,That's...
+Dialogue: 0,0:19:37.64,0:19:40.85,Default,,0000,0000,0000,,Because Nina's hoping to...
+Dialogue: 0,0:19:41.01,0:19:44.06,Default,,0000,0000,0000,,To play guitar on stage with Momoka.
+Dialogue: 0,0:19:46.48,0:19:48.65,Default,,0000,0000,0000,,That's why she asked you.
+Dialogue: 0,0:19:49.52,0:19:50.73,Default,,0000,0000,0000,,She wants to improve.
+Dialogue: 0,0:19:51.23,0:19:53.98,Default,,0000,0000,0000,,That's what they all say.
+Dialogue: 0,0:19:54.15,0:19:56.57,Default,,0000,0000,0000,,That they're serious, or want to improve.
+Dialogue: 0,0:19:57.03,0:20:00.70,Default,,0000,0000,0000,,But they end up just wanting compliments
+Dialogue: 0,0:20:00.87,0:20:03.08,Default,,0000,0000,0000,,or sing whatever way that feels good.
+Dialogue: 0,0:20:12.55,0:20:13.84,Default,,0000,0000,0000,,Can you hear that?
+Dialogue: 0,0:20:22.72,0:20:23.51,Default,,0000,0000,0000,,Ow.
+Dialogue: 0,0:20:26.14,0:20:27.27,Default,,0000,0000,0000,,Um...
+Dialogue: 0,0:20:27.44,0:20:30.60,Default,,0000,0000,0000,,Like this, this, and this.
+Dialogue: 0,0:20:31.11,0:20:32.86,Default,,0000,0000,0000,,Do what I tell you, stupid fingers!
+Dialogue: 0,0:20:37.70,0:20:39.49,Default,,0000,0000,0000,,I realized something
+Dialogue: 0,0:20:40.20,0:20:42.45,Default,,0000,0000,0000,,when we saw the three of them play.
+Dialogue: 0,0:20:43.45,0:20:45.79,Default,,0000,0000,0000,,These people are serious.
+Dialogue: 0,0:20:46.66,0:20:49.37,Default,,0000,0000,0000,,It doesn't matter how good they are.
+Dialogue: 0,0:20:49.54,0:20:52.67,Default,,0000,0000,0000,,They give it their all on stage.
+Dialogue: 0,0:20:55.50,0:21:00.47,Default,,0000,0000,0000,,I'm pretty sure\Nthat's all you're looking for too.
+Dialogue: 0,0:21:09.81,0:21:13.15,Default,,0000,0000,0000,,You suck!
+Dialogue: 0,0:21:13.73,0:21:15.15,Default,,0000,0000,0000,,What...
+Dialogue: 0,0:21:23.07,0:21:25.41,Default,,0000,0000,0000,,I'm gonna get better!
+Dialogue: 0,0:21:32.25,0:21:33.42,Default,,0000,0000,0000,,You suck.
+Dialogue: 0,0:21:38.42,0:21:41.72,Default,,0000,0000,0000,,I love this sort of thing.
+Dialogue: 0,0:21:48.77,0:21:49.85,Default,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:21:50.89,0:21:53.90,Default,,0000,0000,0000,,It's just not feeling right.
+Dialogue: 0,0:21:54.06,0:21:55.19,Default,,0000,0000,0000,,What isn't?
+Dialogue: 0,0:21:57.48,0:21:58.69,Default,,0000,0000,0000,,It's fine.
+Dialogue: 0,0:21:59.49,0:22:00.99,Default,,0000,0000,0000,,Let's take a break.
+Dialogue: 0,0:22:01.15,0:22:02.07,Default,,0000,0000,0000,,Momoka.
+Dialogue: 0,0:22:03.61,0:22:07.54,Default,,0000,0000,0000,,I think this song is boring the way it is.
+Dialogue: 0,0:22:16.25,0:22:17.34,Default,,0000,0000,0000,,Right?
+Dialogue: 0,0:22:21.63,0:22:24.64,On Top,,0000,0000,0000,,{\i1}dareka ni somarenai dare ni mo narenai{\i0}
+Dialogue: 0,0:22:21.63,0:22:24.64,Default,,0000,0000,0000,,{\i1}Never influenced by anybody\NNever becoming anybody{\i0}
+Dialogue: 0,0:22:24.80,0:22:27.64,On Top,,0000,0000,0000,,{\i1}yume da to omotte waratte miseta{\i0}
+Dialogue: 0,0:22:24.80,0:22:27.64,Default,,0000,0000,0000,,{\i1}I laughed, thinking it a dream{\i0}
+Dialogue: 0,0:22:27.81,0:22:30.72,On Top,,0000,0000,0000,,{\i1}wasureta yowasa kajikande iku{\i0}
+Dialogue: 0,0:22:27.81,0:22:30.72,Default,,0000,0000,0000,,{\i1}Numbed by the weakness I had forgotten{\i0}
+Dialogue: 0,0:22:30.89,0:22:33.73,On Top,,0000,0000,0000,,{\i1}samishii nante ieru wake mo nai{\i0}
+Dialogue: 0,0:22:30.89,0:22:33.73,Default,,0000,0000,0000,,{\i1}I can't even say that I'm lonely{\i0}
+Dialogue: 0,0:22:33.89,0:22:39.40,On Top,,0000,0000,0000,,{\i1}sarigenai kaiwa sura kizutsuku kokoro wa{\i0}
+Dialogue: 0,0:22:33.89,0:22:39.40,Default,,0000,0000,0000,,{\i1}This fragile heart\NVulnerable to even casual conversation{\i0}
+Dialogue: 0,0:22:40.48,0:22:45.53,On Top,,0000,0000,0000,,{\i1}dare hitori dare hitori shiawase ni shinai{\i0}
+Dialogue: 0,0:22:40.48,0:22:45.53,Default,,0000,0000,0000,,{\i1}Is incapable of making anyone happy{\i0}
+Dialogue: 0,0:22:46.87,0:22:52.79,On Top,,0000,0000,0000,,{\i1}nee sore demo mada kitai fukuramunda{\i0}
+Dialogue: 0,0:22:46.87,0:22:52.79,Default,,0000,0000,0000,,{\i1}But still, I feel a growing hope{\i0}
+Dialogue: 0,0:22:52.96,0:22:58.75,On Top,,0000,0000,0000,,{\i1}surechigatta uso nante zenbu sutete{\i0}
+Dialogue: 0,0:22:52.96,0:22:58.75,Default,,0000,0000,0000,,{\i1}Moving past all of the lies{\i0}
+Dialogue: 0,0:22:58.92,0:23:02.17,On Top,,0000,0000,0000,,{\i1}daisoretenai yo tte tada kikitakute{\i0}
+Dialogue: 0,0:22:58.92,0:23:02.17,Default,,0000,0000,0000,,{\i1}I just want to hear\NThat I'm not wrong{\i0}
+Dialogue: 0,0:23:02.34,0:23:05.30,On Top,,0000,0000,0000,,{\i1}yume bakari de osanakutatte{\i0}
+Dialogue: 0,0:23:02.34,0:23:05.30,Default,,0000,0000,0000,,{\i1}I'm a dreamer, I'm young{\i0}
+Dialogue: 0,0:23:05.47,0:23:08.93,On Top,,0000,0000,0000,,{\i1}kyou mo kawarenai mama datte iinda{\i0}
+Dialogue: 0,0:23:05.47,0:23:08.93,Default,,0000,0000,0000,,{\i1}I don't care if I'm still the same today{\i0}
+Dialogue: 0,0:23:09.10,0:23:11.52,On Top,,0000,0000,0000,,{\i1}kimi to utatte itai{\i0}
+Dialogue: 0,0:23:09.10,0:23:11.52,Default,,0000,0000,0000,,{\i1}I just want to sing with you{\i0}
+Dialogue: 0,0:23:11.68,0:23:14.89,On Top,,0000,0000,0000,,{\i1}nando datte kanjou bakka yure ugoite{\i0}
+Dialogue: 0,0:23:11.68,0:23:14.89,Default,,0000,0000,0000,,{\i1}My emotions stir so often{\i0}
+Dialogue: 0,0:23:15.06,0:23:18.06,On Top,,0000,0000,0000,,{\i1}kirawarete kita kedo{\i0}
+Dialogue: 0,0:23:15.06,0:23:18.06,Default,,0000,0000,0000,,{\i1}I've been hated{\i0}
+Dialogue: 0,0:23:18.23,0:23:21.40,On Top,,0000,0000,0000,,{\i1}kono mama de aruite yukunda{\i0}
+Dialogue: 0,0:23:18.23,0:23:21.40,Default,,0000,0000,0000,,{\i1}But I'm going to keep walking{\i0}
+Dialogue: 0,0:23:21.57,0:23:27.57,On Top,,0000,0000,0000,,{\i1}darenimo narenai watashi mune hatte sa{\i0}
+Dialogue: 0,0:23:21.57,0:23:27.57,Default,,0000,0000,0000,,{\i1}Proud of myself\NWho can never become anybody{\i0}
+Dialogue: 0,0:23:28.24,0:23:30.78,On Top,,0000,0000,0000,,{\i1}tada hitori demo{\i0}
+Dialogue: 0,0:23:28.24,0:23:30.78,Default,,0000,0000,0000,,{\i1}Even if I'm alone{\i0}
+Dialogue: 0,0:23:30.95,0:23:34.25,On Top,,0000,0000,0000,,{\i1}magiremonai jibun wo shinjite{\i0}
+Dialogue: 0,0:23:30.95,0:23:34.25,Default,,0000,0000,0000,,{\i1}I believe in myself{\i0}
+Dialogue: 0,0:23:34.41,0:23:41.25,On Top,,0000,0000,0000,,{\i1}kizutsuki ochiru tabi utaeba ii{\i0}
+Dialogue: 0,0:23:34.41,0:23:41.25,Default,,0000,0000,0000,,{\i1}Every time I get hurt, I just need to sing{\i0}
+Dialogue: 0,0:23:47.76,0:23:49.89,Default,,0000,0000,0000,,{\i1}Next episode, "Wandervogel"{\i0}

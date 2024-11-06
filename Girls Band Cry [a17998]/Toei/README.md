@@ -14,4 +14,4 @@
 | Resolution   | 1920x1080 |
 
 ## Notes
-Ripped from the Insonesian streaming service CatchPlay+
+Ripped from Crunchyroll
