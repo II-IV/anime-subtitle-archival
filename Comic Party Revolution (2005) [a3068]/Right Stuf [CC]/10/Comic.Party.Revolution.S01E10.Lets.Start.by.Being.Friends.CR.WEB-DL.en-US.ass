@@ -1,0 +1,92 @@
+[Script Info]
+Title: English (US)
+Original Script: TBS  [http://www.crunchyroll.com/user/TBS]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: On Top Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:15.09,0:00:21.85,Default,,0000,0000,0000,,{\i1}Fui ni anata wa watashi\Nno te o tsunaide kureta{\i0}
+Dialogue: 0,0:00:21.85,0:00:27.02,Default,,0000,0000,0000,,{\i1}Hitogomi no naka hagurenai you ni{\i0}
+Dialogue: 0,0:00:28.57,0:00:35.36,Default,,0000,0000,0000,,{\i1}Sugoku ureshikute\Numaku nigirikaesenakute{\i0}
+Dialogue: 0,0:00:35.36,0:00:40.74,Default,,0000,0000,0000,,{\i1}Koi o shiteru tte kizuita ano hi{\i0}
+Dialogue: 0,0:00:41.24,0:00:44.87,Default,,0000,0000,0000,,{\i1}Hajimari wa tomodachi{\i0}
+Dialogue: 0,0:00:44.87,0:00:49.75,Default,,0000,0000,0000,,{\i1}Sono kyoukaisen koete{\i0}
+Dialogue: 0,0:00:49.75,0:00:54.38,Default,,0000,0000,0000,,{\i1}Futari hashiridasou{\i0}
+Dialogue: 0,0:00:55.55,0:01:02.39,Default,,0000,0000,0000,,{\i1}Mou osaekirenai nakechau hodo ni{\i0}
+Dialogue: 0,0:01:02.39,0:01:05.73,Default,,0000,0000,0000,,{\i1}Anata no koto ga daisuki{\i0}
+Dialogue: 0,0:01:05.73,0:01:09.11,Default,,0000,0000,0000,,{\i1}Nee, uso wa tsukenai{\i0}
+Dialogue: 0,0:01:09.11,0:01:15.74,Default,,0000,0000,0000,,{\i1}Mou tomenakute ii terechau keredo{\i0}
+Dialogue: 0,0:01:15.74,0:01:19.24,Default,,0000,0000,0000,,{\i1}Watashi zenbu uketomete{\i0}
+Dialogue: 0,0:01:19.24,0:01:25.46,Default,,0000,0000,0000,,{\i1}Sou, kore kara mo zutto{\i0}
+Dialogue: 0,0:01:41.05,0:01:44.93,Default,,0000,0000,0000,,{\an8}"Let's Start by Being Friends" {\an}
+Dialogue: 0,0:01:51.61,0:01:55.78,Default,,0000,0000,0000,,{\an8}"Video Games" {\an}
+Dialogue: 0,0:03:52.10,0:03:55.94,Default,,0000,0000,0000,,{\an8}"Nalpis Water" {\an}
+Dialogue: 0,0:06:08.24,0:06:10.70,Default,,0000,0000,0000,,{\an8}"Peach" "Studio Tanaka"{\an}
+Dialogue: 0,0:06:41.73,0:06:44.94,Default,,0000,0000,0000,,{\an8}"New Mail" {\an}
+Dialogue: 0,0:06:44.94,0:06:49.20,Default,,0000,0000,0000,,{\an8}"How are you?" "Hello, Asahi!" (^0^)/\N"How is your day going?" v(^0^)v (*^_^*){\an}
+Dialogue: 0,0:06:49.40,0:06:52.03,Default,,0000,0000,0000,,{\an8}"Collection of Ancient and\NModern Japanese Poetry"{\an}
+Dialogue: 0,0:06:59.00,0:07:00.46,Default,,0000,0000,0000,,{\an8}"What about you, Asahi?'\N"I'll email you again, all right?"{\an}
+Dialogue: 0,0:07:03.54,0:07:03.79,Default,,0000,0000,0000,,"What about you, Asahi?"\N"I'll email you again, all right?"
+Dialogue: 0,0:07:03.79,0:07:05.63,Default,,0000,0000,0000,,"What about you, Asahi?"\N"I'll email you again,"
+Dialogue: 0,0:07:05.63,0:07:09.13,Default,,0000,0000,0000,,"What about you, Asahi?"\N"I'll email you again, 'kay?"
+Dialogue: 0,0:07:09.13,0:07:09.76,Default,,0000,0000,0000,,"Sent"
+Dialogue: 0,0:07:14.05,0:07:16.01,Default,,0000,0000,0000,,{\an8}"How are you?" "Hello, Asahi!" (^0^)/\N"How is your day going?" v(^0^)v (*^_^*){\an}
+Dialogue: 0,0:08:14.20,0:08:17.16,Default,,0000,0000,0000,,{\an8}"It's Asahi"\N"I'm fine. Asahi"{\an}
+Dialogue: 0,0:08:43.27,0:08:45.02,Default,,0000,0000,0000,,{\an8}"It's Asahi"\N"I'm fine. Asahi"{\an}
+Dialogue: 0,0:09:00.04,0:09:04.04,Default,,0000,0000,0000,,{\an8}"You stupid jerk!" {\an}
+Dialogue: 0,0:09:17.34,0:09:19.80,Default,,0000,0000,0000,,{\an8}"♪1 in France" "Jean-Paul Evan"\N"Making a comeback here at Comic Party"{\an}
+Dialogue: 0,0:12:13.56,0:12:14.23,Default,,0000,0000,0000,,{\an8}"Process" {\an}
+Dialogue: 0,0:12:38.67,0:12:39.09,Default,,0000,0000,0000,,{\an8}"10,000 copies!" {\an}
+Dialogue: 0,0:12:43.05,0:12:43.55,Default,,0000,0000,0000,,{\an8}"Popular" {\an}
+Dialogue: 0,0:15:13.87,0:15:17.08,Default,,0000,0000,0000,,{\an8}"KEEP OUT" {\an}
+Dialogue: 0,0:18:09.42,0:18:11.59,Default,,0000,0000,0000,,{\an8}"It's Asahi"\N"I'm fine. Asahi"{\an}
+Dialogue: 0,0:18:11.59,0:18:12.50,Default,,0000,0000,0000,,{\an8}"Mail" {\an}
+Dialogue: 0,0:18:12.50,0:18:13.92,Default,,0000,0000,0000,,{\an8}"New Mail" {\an}
+Dialogue: 0,0:18:17.47,0:18:17.84,Default,,0000,0000,0000,,{\an8}"Inbox" {\an}
+Dialogue: 0,0:18:17.84,0:18:18.18,Default,,0000,0000,0000,,{\an8}"Delete Selected Item" {\an}
+Dialogue: 0,0:18:24.02,0:18:26.14,Default,,0000,0000,0000,,{\an8}"Compose New Message" {\an}
+Dialogue: 0,0:18:46.12,0:18:47.62,Default,,0000,0000,0000,,{\an8}"Sender: Asahi"\N"Receiving... Asahi"{\an}
+Dialogue: 0,0:18:58.01,0:19:02.10,Default,,0000,0000,0000,,{\an8}"Asahi"\N"I'm sorry. Asahi"{\an}
+Dialogue: 0,0:19:11.52,0:19:13.48,Default,,0000,0000,0000,,{\an8}"Seaside Park Station" {\an}
+Dialogue: 0,0:21:14.02,0:21:18.15,Default,,0000,0000,0000,,{\i1}Ima sugu issho ni kurasou{\i0}
+Dialogue: 0,0:21:18.15,0:21:22.74,Default,,0000,0000,0000,,{\i1}Tarinai mono wa jikan dake{\i0}
+Dialogue: 0,0:21:22.74,0:21:26.78,Default,,0000,0000,0000,,{\i1}Egao mo namida mo hima mo{\i0}
+Dialogue: 0,0:21:26.78,0:21:31.24,Default,,0000,0000,0000,,{\i1}Wakeau basho ga hitsuyou deshou{\i0}
+Dialogue: 0,0:21:31.24,0:21:39.21,Default,,0000,0000,0000,,{\i1}Anata to nara itsu made mo{\i0}
+Dialogue: 0,0:21:40.50,0:21:44.92,Default,,0000,0000,0000,,{\i1}Mendou na koto ga kirai na{\i0}
+Dialogue: 0,0:21:44.92,0:21:49.22,Default,,0000,0000,0000,,{\i1}Anata no ude hiki nagara{\i0}
+Dialogue: 0,0:21:49.22,0:21:53.81,Default,,0000,0000,0000,,{\i1}Yatto mitsuketa 2LDK{\i0}
+Dialogue: 0,0:21:57.81,0:22:02.15,Default,,0000,0000,0000,,{\i1}Teeburu setto mo ii kedo{\i0}
+Dialogue: 0,0:22:02.15,0:22:06.40,Default,,0000,0000,0000,,{\i1}Kekkyoku wa kotatsu deshou{\i0}
+Dialogue: 0,0:22:06.40,0:22:10.24,Default,,0000,0000,0000,,{\i1}Futari nekorogaru dake{\i0}
+Dialogue: 0,0:22:10.24,0:22:15.16,Default,,0000,0000,0000,,{\i1}Igai ni daiji na jikan{\i0}
+Dialogue: 0,0:22:15.16,0:22:23.76,Default,,0000,0000,0000,,{\i1}Donna toki mo yurishiaeru hito{\i0}
+Dialogue: 0,0:22:23.76,0:22:27.30,Default,,0000,0000,0000,,{\i1}Kantan ni wa{\i0}
+Dialogue: 0,0:22:27.30,0:22:31.81,Default,,0000,0000,0000,,{\i1}Deanai anata dakara{\i0}
+Dialogue: 0,0:22:31.81,0:22:35.98,Default,,0000,0000,0000,,{\i1}Ima sugu issho ni kurasou{\i0}
+Dialogue: 0,0:22:35.98,0:22:40.61,Default,,0000,0000,0000,,{\i1}Tarinai mono wa jikan dake{\i0}
+Dialogue: 0,0:22:40.61,0:22:44.53,Default,,0000,0000,0000,,{\i1}Egao mo namida mo hima mo{\i0}
+Dialogue: 0,0:22:44.53,0:22:49.11,Default,,0000,0000,0000,,{\i1}Wakeau basho ga hitsuyou deshou {\i0}
+Dialogue: 0,0:22:49.11,0:22:58.37,Default,,0000,0000,0000,,{\i1}Anata to nara itsu made mo{\i0}
+Dialogue: 0,0:23:03.96,0:23:28.19,Default,,0000,0000,0000,,{\an8}"Next Comic Party" {\an}
+Dialogue: 0,0:23:28.19,0:23:33.99,Default,,0000,0000,0000,,{\an8}"Next Comic Party"\N"The Poison Doujin of Horror"{\an}

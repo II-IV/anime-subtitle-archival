@@ -1,0 +1,82 @@
+[Script Info]
+Title: English (US)
+Original Script: TBS  [http://www.crunchyroll.com/user/TBS]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: On Top Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:15.09,0:00:21.85,Default,,0000,0000,0000,,{\i1}All of a sudden,\Nyou took my hand in yours{\i0}
+Dialogue: 0,0:00:21.85,0:00:27.02,Default,,0000,0000,0000,,{\i1}So that we wouldn't\Nget separated in the crowd{\i0}
+Dialogue: 0,0:00:28.57,0:00:35.36,Default,,0000,0000,0000,,{\i1}I was so happy I couldn't squeeze\Nyour hand very tightly in return{\i0}
+Dialogue: 0,0:00:35.36,0:00:40.74,Default,,0000,0000,0000,,{\i1}That day, I realized I was in love{\i0}
+Dialogue: 0,0:00:41.24,0:00:44.87,Default,,0000,0000,0000,,{\i1}We started out as just friends{\i0}
+Dialogue: 0,0:00:44.87,0:00:49.75,Default,,0000,0000,0000,,{\i1}But now let's cross that boundary line{\i0}
+Dialogue: 0,0:00:49.75,0:00:54.38,Default,,0000,0000,0000,,{\i1}And take off together{\i0}
+Dialogue: 0,0:00:55.55,0:01:02.39,Default,,0000,0000,0000,,{\i1}I can't hold my feelings back\Nanymore It hurts so much I could cry{\i0}
+Dialogue: 0,0:01:02.39,0:01:05.73,Default,,0000,0000,0000,,{\i1}I love you so much{\i0}
+Dialogue: 0,0:01:05.73,0:01:09.11,Default,,0000,0000,0000,,{\i1}Listen, I can't lie to myself{\i0}
+Dialogue: 0,0:01:09.11,0:01:15.74,Default,,0000,0000,0000,,{\i1}This is embarrassing to ask, but{\i0}
+Dialogue: 0,0:01:15.74,0:01:19.24,Default,,0000,0000,0000,,{\i1}Please accept everything about me{\i0}
+Dialogue: 0,0:01:19.24,0:01:25.46,Default,,0000,0000,0000,,{\i1}Yes, now and forever{\i0}
+Dialogue: 0,0:01:41.76,0:01:45.64,Default,,0000,0000,0000,,{\an8}"Fierce Battle! Cosplay Fight!" {\an}
+Dialogue: 0,0:03:50.18,0:03:50.35,Default,,0000,0000,0000,,{\an8}"Crack!" {\an}
+Dialogue: 0,0:04:52.37,0:04:55.12,Default,,0000,0000,0000,,{\an8}"Exhibition Hall Station" {\an}
+Dialogue: 0,0:05:09.97,0:05:13.64,Default,,0000,0000,0000,,{\an8}"Cafeteria 1" {\an}
+Dialogue: 0,0:06:01.19,0:06:04.15,Default,,0000,0000,0000,,{\an8}"Conquer the world with cosplay!" {\an}
+Dialogue: 0,0:06:04.15,0:06:05.86,Default,,0000,0000,0000,,{\an8}"Cosplay Fight" {\an}
+Dialogue: 0,0:07:42.83,0:07:47.71,Default,,0000,0000,0000,,{\an8}"Cosplay Fight" {\an}
+Dialogue: 0,0:10:26.75,0:10:27.79,Default,,0000,0000,0000,,{\an8}"Indecisive Wimp" {\an}
+Dialogue: 0,0:10:27.79,0:10:28.37,Default,,0000,0000,0000,,{\an8}"Please Everybody" {\an}
+Dialogue: 0,0:12:26.57,0:12:32.54,Default,,0000,0000,0000,,{\an8}♪ I can't tell my friends ♪{\an}
+Dialogue: 0,0:12:32.54,0:12:34.62,Default,,0000,0000,0000,,{\an8}"Cosplay Fight" {\an}
+Dialogue: 0,0:12:34.62,0:12:35.21,Default,,0000,0000,0000,,{\an8}"Cosplay Fight"\N♪ Brought by the gentle breeze ♪{\an}
+Dialogue: 0,0:12:35.21,0:12:38.50,Default,,0000,0000,0000,,{\an8}"Cosplay Fight Participant Reception"\N♪ Brought by the gentle breeze ♪{\an}
+Dialogue: 0,0:12:38.50,0:12:40.21,Default,,0000,0000,0000,,{\an8}♪ Brought by the gentle breeze ♪{\an}
+Dialogue: 0,0:12:42.38,0:12:49.43,Default,,0000,0000,0000,,{\an8}♪ I can't hide my cheeks\Nunder a faint pink color ♪{\an}
+Dialogue: 0,0:12:57.40,0:13:03.90,Default,,0000,0000,0000,,{\an8}"Cosplay Fight" {\an}
+Dialogue: 0,0:17:22.70,0:17:29.38,Default,,0000,0000,0000,,{\an8\i1}I always, always long for you{\i0\an}
+Dialogue: 0,0:17:29.38,0:17:32.51,Default,,0000,0000,0000,,{\an8\i1}The miracle will begin{\i0\an}
+Dialogue: 0,0:17:32.51,0:17:40.22,Default,,0000,0000,0000,,{\an8\i1}I want to believe\Nthat a wish can come true{\i0\an}
+Dialogue: 0,0:17:40.22,0:17:47.23,Default,,0000,0000,0000,,{\an8\i1}Bathed in the sparkling\Nsunshine from between the trees{\i0\an}
+Dialogue: 0,0:21:14.02,0:21:18.15,Default,,0000,0000,0000,,{\i1}Let's start living together right now{\i0}
+Dialogue: 0,0:21:18.15,0:21:22.74,Default,,0000,0000,0000,,{\i1}All that's missing is time{\i0}
+Dialogue: 0,0:21:22.74,0:21:26.78,Default,,0000,0000,0000,,{\i1}Don't you think we need a place{\i0}
+Dialogue: 0,0:21:26.78,0:21:31.24,Default,,0000,0000,0000,,{\i1}Where we can share our smiles,\Nour tears{\i0}, {\i1}and our free time?{\i0}
+Dialogue: 0,0:21:31.24,0:21:39.21,Default,,0000,0000,0000,,{\i1}If I was with you,\NI could stay there forever{\i0}
+Dialogue: 0,0:21:40.50,0:21:44.92,Default,,0000,0000,0000,,{\i1}I know you don't\Nlike anything complicated{\i0}
+Dialogue: 0,0:21:44.92,0:21:49.22,Default,,0000,0000,0000,,{\i1}But I still keep on pulling your arms{\i0}
+Dialogue: 0,0:21:49.22,0:21:53.81,Default,,0000,0000,0000,,{\i1}I finally found this 2LDK{\i0}
+Dialogue: 0,0:21:57.81,0:22:02.15,Default,,0000,0000,0000,,{\i1}A table set would be fine too{\i0}
+Dialogue: 0,0:22:02.15,0:22:06.40,Default,,0000,0000,0000,,{\i1}But I think a kotatsu\Nwould be better after all{\i0}
+Dialogue: 0,0:22:06.40,0:22:10.24,Default,,0000,0000,0000,,{\i1}The time we spend\Njust lying around together{\i0}
+Dialogue: 0,0:22:10.24,0:22:15.16,Default,,0000,0000,0000,,{\i1}Is more important than it sounds{\i0}
+Dialogue: 0,0:22:15.16,0:22:23.76,Default,,0000,0000,0000,,{\i1}It's not easy to find someone\Nyou can always accept{\i0}
+Dialogue: 0,0:22:23.76,0:22:27.30,Default,,0000,0000,0000,,{\i1}And who will always accept you{\i0}
+Dialogue: 0,0:22:27.30,0:22:31.81,Default,,0000,0000,0000,,{\i1}But you are that person for me, so{\i0}
+Dialogue: 0,0:22:31.81,0:22:35.98,Default,,0000,0000,0000,,{\i1}Let's start living together right now{\i0}
+Dialogue: 0,0:22:35.98,0:22:40.61,Default,,0000,0000,0000,,{\i1}All that's missing is time{\i0}
+Dialogue: 0,0:22:40.61,0:22:44.53,Default,,0000,0000,0000,,{\i1}Don't you think we need a place{\i0}
+Dialogue: 0,0:22:44.53,0:22:49.11,Default,,0000,0000,0000,,{\i1}Where we can share smiles,\Nour tears, and our free time?{\i0}
+Dialogue: 0,0:22:49.11,0:22:58.37,Default,,0000,0000,0000,,{\i1}If I was with you,\NI could stay there forever{\i0}
+Dialogue: 0,0:23:03.96,0:23:25.07,Default,,0000,0000,0000,,{\an8}"Next Comic Party" {\an}
+Dialogue: 0,0:23:25.07,0:23:33.99,Default,,0000,0000,0000,,{\an8}"Next Comic Party"\N"Save Tsukamoto Printing!"{\an}

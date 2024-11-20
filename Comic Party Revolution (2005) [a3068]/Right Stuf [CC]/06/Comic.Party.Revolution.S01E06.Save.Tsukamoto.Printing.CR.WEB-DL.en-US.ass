@@ -1,0 +1,82 @@
+[Script Info]
+Title: English (US)
+Original Script: TBS  [http://www.crunchyroll.com/user/TBS]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: On Top Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:15.09,0:00:21.85,Default,,0000,0000,0000,,{\i1}Fui ni anata wa watashi\Nno te o tsunaide kureta{\i0}
+Dialogue: 0,0:00:21.85,0:00:27.02,Default,,0000,0000,0000,,{\i1}Hitogomi no naka hagurenai you ni{\i0}
+Dialogue: 0,0:00:28.57,0:00:35.36,Default,,0000,0000,0000,,{\i1}Sugoku ureshikute\Numaku nigirikaesenakute{\i0}
+Dialogue: 0,0:00:35.36,0:00:40.74,Default,,0000,0000,0000,,{\i1}Koi o shiteru tte kizuita ano hi{\i0}
+Dialogue: 0,0:00:41.24,0:00:44.87,Default,,0000,0000,0000,,{\i1}Hajimari wa tomodachi{\i0}
+Dialogue: 0,0:00:44.87,0:00:49.75,Default,,0000,0000,0000,,{\i1}Sono kyoukaisen koete{\i0}
+Dialogue: 0,0:00:49.75,0:00:54.38,Default,,0000,0000,0000,,{\i1}Futari hashiridasou{\i0}
+Dialogue: 0,0:00:55.55,0:01:02.39,Default,,0000,0000,0000,,{\i1}Mou osaekirenai nakechau hodo ni{\i0}
+Dialogue: 0,0:01:02.39,0:01:05.73,Default,,0000,0000,0000,,{\i1}Anata no koto ga daisuki{\i0}
+Dialogue: 0,0:01:05.73,0:01:09.11,Default,,0000,0000,0000,,{\i1}Nee, uso wa tsukenai{\i0}
+Dialogue: 0,0:01:09.11,0:01:15.74,Default,,0000,0000,0000,,{\i1}Mou tomenakute ii terechau keredo{\i0}
+Dialogue: 0,0:01:15.74,0:01:19.24,Default,,0000,0000,0000,,{\i1}Watashi zenbu uketomete{\i0}
+Dialogue: 0,0:01:19.24,0:01:25.46,Default,,0000,0000,0000,,{\i1}Sou, kore kara mo zutto{\i0}
+Dialogue: 0,0:01:40.01,0:01:43.97,Default,,0000,0000,0000,,{\an8}"Save Tsukamoto Printing!" {\an}
+Dialogue: 0,0:02:08.75,0:02:11.38,Default,,0000,0000,0000,,{\an8}"Tsukamoto Printing" {\an}
+Dialogue: 0,0:02:50.12,0:03:02.22,Default,,0000,0000,0000,,{\an8}"Friendship" "Hard Work" "Victory"{\an}
+Dialogue: 0,0:03:48.10,0:03:48.89,Default,,0000,0000,0000,,{\an8}"New!!" {\an}
+Dialogue: 0,0:04:18.42,0:04:20.88,Default,,0000,0000,0000,,{\an8}"Tsukamoto Printing" {\an}
+Dialogue: 0,0:05:12.18,0:05:13.98,Default,,0000,0000,0000,,{\an8}"You've got a magic shield!" {\an}
+Dialogue: 0,0:06:01.82,0:06:03.48,Default,,0000,0000,0000,,{\an8}"Bad Economy" "Debt Collector"{\an}
+Dialogue: 0,0:06:13.49,0:06:13.74,Default,,0000,0000,0000,,{\an8}"Kuhonbutsu, Taishi" {\an}
+Dialogue: 0,0:06:13.74,0:06:14.66,Default,,0000,0000,0000,,{\an8}"Ohba, Eimi" {\an}
+Dialogue: 0,0:08:54.61,0:08:56.57,Default,,0000,0000,0000,,{\an8}"Super Cheap"\N"12,000,000 - No down payment!"{\an}
+Dialogue: 0,0:09:26.23,0:09:28.52,Default,,0000,0000,0000,,{\an8}"Super Cheap"\N"12,000,000 - No down payment!"{\an}
+Dialogue: 0,0:09:38.91,0:09:40.12,Default,,0000,0000,0000,,{\an8}"Heroes wanted!" {\an}
+Dialogue: 0,0:09:40.12,0:09:41.08,Default,,0000,0000,0000,,{\an8}"Meow"\N"I pick {\i1}you{\i0}!"{\an}
+Dialogue: 0,0:09:41.08,0:09:42.08,Default,,0000,0000,0000,,{\an8}"M... Me?"\N"And {\i1}you{\i0}!"{\an}
+Dialogue: 0,0:09:42.08,0:09:45.12,Default,,0000,0000,0000,,{\an8}"What about me...?"\N"Let's go!"{\an}
+Dialogue: 0,0:11:14.63,0:11:17.63,Default,,0000,0000,0000,,{\an8}"Uchuudou" {\an}
+Dialogue: 0,0:12:36.17,0:12:37.38,Default,,0000,0000,0000,,{\an8}"Second Half" {\an}
+Dialogue: 0,0:13:40.94,0:13:42.90,Default,,0000,0000,0000,,{\an8}"Victory Victory" {\an}
+Dialogue: 0,0:14:15.06,0:14:17.94,Default,,0000,0000,0000,,{\an8}"Shonen Jumbo" "Dengeki Shooh" "Maganone"{\an}
+Dialogue: 0,0:14:21.82,0:14:28.78,Default,,0000,0000,0000,,{\an8}"Tsukamoto Printing" {\an}
+Dialogue: 0,0:21:14.10,0:21:18.23,Default,,0000,0000,0000,,{\i1}Ima sugu issho ni kurasou{\i0}
+Dialogue: 0,0:21:18.23,0:21:22.82,Default,,0000,0000,0000,,{\i1}Tarinai mono wa jikan dake{\i0}
+Dialogue: 0,0:21:22.82,0:21:26.82,Default,,0000,0000,0000,,{\i1}Egao mo namida mo hima mo{\i0}
+Dialogue: 0,0:21:26.82,0:21:31.33,Default,,0000,0000,0000,,{\i1}Wakeau basho ga hitsuyou deshou{\i0}
+Dialogue: 0,0:21:31.33,0:21:39.29,Default,,0000,0000,0000,,{\i1}Anata to nara itsu made mo{\i0}
+Dialogue: 0,0:21:40.59,0:21:45.01,Default,,0000,0000,0000,,{\i1}Mendou na koto ga kirai na{\i0}
+Dialogue: 0,0:21:45.01,0:21:49.30,Default,,0000,0000,0000,,{\i1}Anata no ude hiki nagara{\i0}
+Dialogue: 0,0:21:49.30,0:21:53.89,Default,,0000,0000,0000,,{\i1}Yatto mitsuketa 2LDK{\i0}
+Dialogue: 0,0:21:57.90,0:22:02.23,Default,,0000,0000,0000,,{\i1}Teeburu setto mo ii kedo{\i0}
+Dialogue: 0,0:22:02.23,0:22:06.49,Default,,0000,0000,0000,,{\i1}Kekkyoku wa kotatsu deshou{\i0}
+Dialogue: 0,0:22:06.49,0:22:10.33,Default,,0000,0000,0000,,{\i1}Futari nekorogaru dake{\i0}
+Dialogue: 0,0:22:10.33,0:22:15.25,Default,,0000,0000,0000,,{\i1}Igai ni daiji na jikan{\i0}
+Dialogue: 0,0:22:15.25,0:22:23.84,Default,,0000,0000,0000,,{\i1}Donna toki mo yurishiaeru hito{\i0}
+Dialogue: 0,0:22:23.84,0:22:27.38,Default,,0000,0000,0000,,{\i1}Kantan ni wa{\i0}
+Dialogue: 0,0:22:27.38,0:22:31.89,Default,,0000,0000,0000,,{\i1}Deanai anata dakara{\i0}
+Dialogue: 0,0:22:31.89,0:22:36.02,Default,,0000,0000,0000,,{\i1}Ima sugu issho ni kurasou{\i0}
+Dialogue: 0,0:22:36.02,0:22:40.69,Default,,0000,0000,0000,,{\i1}Tarinai mono wa jikan dake{\i0}
+Dialogue: 0,0:22:40.69,0:22:44.61,Default,,0000,0000,0000,,{\i1}Egao mo namida mo hima mo{\i0}
+Dialogue: 0,0:22:44.61,0:22:49.20,Default,,0000,0000,0000,,{\i1}Wakeau basho ga hitsuyou deshou {\i0}
+Dialogue: 0,0:22:49.20,0:22:58.42,Default,,0000,0000,0000,,{\i1}Anata to nara itsu made mo{\i0}
+Dialogue: 0,0:23:04.21,0:23:28.32,Default,,0000,0000,0000,,{\an8}"Next Comic Party" {\an}
+Dialogue: 0,0:23:28.32,0:23:34.20,Default,,0000,0000,0000,,{\an8}"Next Comic Party"\N"Bravo at Inobou!"{\an}

@@ -1,0 +1,69 @@
+[Script Info]
+Title: English (US)
+Original Script: TBS  [http://www.crunchyroll.com/user/TBS]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: On Top Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:01:52.11,0:01:58.86,Default,,0000,0000,0000,,{\i1}All of a sudden,\Nyou took my hand in yours{\i0}
+Dialogue: 0,0:01:58.86,0:02:04.04,Default,,0000,0000,0000,,{\i1}So that we wouldn't\Nget separated in the crowd{\i0}
+Dialogue: 0,0:02:05.58,0:02:12.34,Default,,0000,0000,0000,,{\i1}I was so happy I couldn't squeeze\Nyour hand very tightly in return{\i0}
+Dialogue: 0,0:02:12.34,0:02:17.76,Default,,0000,0000,0000,,{\i1}That day, I realized I was in love{\i0}
+Dialogue: 0,0:02:18.26,0:02:21.89,Default,,0000,0000,0000,,{\i1}We started out as just friends{\i0}
+Dialogue: 0,0:02:21.89,0:02:26.77,Default,,0000,0000,0000,,{\i1}But now let's cross that boundary line{\i0}
+Dialogue: 0,0:02:26.77,0:02:31.15,Default,,0000,0000,0000,,{\i1}And take off together{\i0}
+Dialogue: 0,0:02:32.52,0:02:39.36,Default,,0000,0000,0000,,{\i1}I can't hold my feelings back\Nanymore It hurts so much I could cry{\i0}
+Dialogue: 0,0:02:39.36,0:02:42.74,Default,,0000,0000,0000,,{\i1}I love you so much{\i0}
+Dialogue: 0,0:02:42.74,0:02:46.12,Default,,0000,0000,0000,,{\i1}Listen, I can't lie to myself{\i0}
+Dialogue: 0,0:02:46.12,0:02:52.75,Default,,0000,0000,0000,,{\i1}This is embarrassing to ask, but{\i0}
+Dialogue: 0,0:02:52.75,0:02:56.21,Default,,0000,0000,0000,,{\i1}Please accept everything about me{\i0}
+Dialogue: 0,0:02:56.21,0:03:02.47,Default,,0000,0000,0000,,{\i1}Yes, now and forever{\i0}
+Dialogue: 0,0:03:18.03,0:03:23.24,Default,,0000,0000,0000,,{\an8}"I Want This Book to Sell!" {\an}
+Dialogue: 0,0:07:19.77,0:07:20.64,Default,,0000,0000,0000,,{\an8}"Burning Passion" {\an}
+Dialogue: 0,0:07:20.64,0:07:26.94,Default,,0000,0000,0000,,{\an8}"Burning Passion"\N"Passion of Infatuation"{\an}
+Dialogue: 0,0:16:12.84,0:16:16.81,Default,,0000,0000,0000,,{\an8}"Send manuscript to printer!!"\N"Comipa"{\an}
+Dialogue: 0,0:16:23.14,0:16:27.15,Default,,0000,0000,0000,,{\an8}"Send manuscript to printer!!"\N"Comipa"{\an}
+Dialogue: 0,0:16:31.11,0:16:35.07,Default,,0000,0000,0000,,{\an8}"Send manuscript to printer!!"\N"Comipa"{\an}
+Dialogue: 0,0:16:42.00,0:16:46.00,Default,,0000,0000,0000,,{\an8}"Send manuscript to printer!!"\N"Comipa"{\an}
+Dialogue: 0,0:21:13.02,0:21:17.19,Default,,0000,0000,0000,,{\i1}Let's start living together right now{\i0}
+Dialogue: 0,0:21:17.19,0:21:21.78,Default,,0000,0000,0000,,{\i1}All that's missing is time{\i0}
+Dialogue: 0,0:21:21.78,0:21:25.78,Default,,0000,0000,0000,,{\i1}Don't you think we need a place{\i0}
+Dialogue: 0,0:21:25.78,0:21:30.29,Default,,0000,0000,0000,,{\i1}Where we can share our smiles,\Nour tears{\i0}, {\i1}and our free time?{\i0}
+Dialogue: 0,0:21:30.29,0:21:38.25,Default,,0000,0000,0000,,{\i1}If I was with you,\NI could stay there forever{\i0}
+Dialogue: 0,0:21:39.54,0:21:43.97,Default,,0000,0000,0000,,{\i1}I know you don't\Nlike anything complicated{\i0}
+Dialogue: 0,0:21:43.97,0:21:48.26,Default,,0000,0000,0000,,{\i1}But I still keep on pulling your arms{\i0}
+Dialogue: 0,0:21:48.26,0:21:52.85,Default,,0000,0000,0000,,{\i1}I finally found this 2LDK{\i0}
+Dialogue: 0,0:21:56.85,0:22:01.19,Default,,0000,0000,0000,,{\i1}A table set would be fine too{\i0}
+Dialogue: 0,0:22:01.19,0:22:05.45,Default,,0000,0000,0000,,{\i1}But I think a kotatsu\Nwould be better after all{\i0}
+Dialogue: 0,0:22:05.45,0:22:09.28,Default,,0000,0000,0000,,{\i1}The time we spend\Njust lying around together{\i0}
+Dialogue: 0,0:22:09.28,0:22:14.20,Default,,0000,0000,0000,,{\i1}Is more important than it sounds{\i0}
+Dialogue: 0,0:22:14.20,0:22:22.80,Default,,0000,0000,0000,,{\i1}It's not easy to find someone\Nyou can always accept{\i0}
+Dialogue: 0,0:22:22.80,0:22:26.34,Default,,0000,0000,0000,,{\i1}And who will always accept you{\i0}
+Dialogue: 0,0:22:26.34,0:22:30.85,Default,,0000,0000,0000,,{\i1}But you are that person for me, so{\i0}
+Dialogue: 0,0:22:30.85,0:22:35.02,Default,,0000,0000,0000,,{\i1}Let's start living together right now{\i0}
+Dialogue: 0,0:22:35.02,0:22:39.65,Default,,0000,0000,0000,,{\i1}All that's missing is time{\i0}
+Dialogue: 0,0:22:39.65,0:22:43.57,Default,,0000,0000,0000,,{\i1}Don't you think we need a place{\i0}
+Dialogue: 0,0:22:43.57,0:22:48.15,Default,,0000,0000,0000,,{\i1}Where we can share smiles,\Nour tears, and our free time?{\i0}
+Dialogue: 0,0:22:48.15,0:22:57.37,Default,,0000,0000,0000,,{\i1}If I was with you,\NI could stay there forever{\i0}
+Dialogue: 0,0:23:02.96,0:23:25.07,Default,,0000,0000,0000,,{\an8}"Next Comic Party" {\an}
+Dialogue: 0,0:23:25.07,0:23:33.07,Default,,0000,0000,0000,,{\an8}"Next Comic Party"\N"Fumyuun! Take Me to the Beach!"{\an}
