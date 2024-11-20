@@ -1,0 +1,412 @@
+[Script Info]
+Title: English (US)
+Original Script: TBS  [http://www.crunchyroll.com/user/TBS]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: On Top Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:15.09,0:00:21.85,Default,,0000,0000,0000,,{\i1}Fui ni anata wa watashi\Nno te o tsunaide kureta{\i0}
+Dialogue: 0,0:00:21.85,0:00:27.02,Default,,0000,0000,0000,,{\i1}Hitogomi no naka hagurenai you ni{\i0}
+Dialogue: 0,0:00:28.57,0:00:35.36,Default,,0000,0000,0000,,{\i1}Sugoku ureshikute\Numaku nigirikaesenakute{\i0}
+Dialogue: 0,0:00:35.36,0:00:40.74,Default,,0000,0000,0000,,{\i1}Koi o shiteru tte kizuita ano hi{\i0}
+Dialogue: 0,0:00:41.24,0:00:44.87,Default,,0000,0000,0000,,{\i1}Hajimari wa tomodachi{\i0}
+Dialogue: 0,0:00:44.87,0:00:49.75,Default,,0000,0000,0000,,{\i1}Sono kyoukaisen koete{\i0}
+Dialogue: 0,0:00:49.75,0:00:54.38,Default,,0000,0000,0000,,{\i1}Futari hashiridasou{\i0}
+Dialogue: 0,0:00:55.55,0:01:02.39,Default,,0000,0000,0000,,{\i1}Mou osaekirenai nakechau hodo ni{\i0}
+Dialogue: 0,0:01:02.39,0:01:05.73,Default,,0000,0000,0000,,{\i1}Anata no koto ga daisuki{\i0}
+Dialogue: 0,0:01:05.73,0:01:09.11,Default,,0000,0000,0000,,{\i1}Nee, uso wa tsukenai{\i0}
+Dialogue: 0,0:01:09.11,0:01:15.74,Default,,0000,0000,0000,,{\i1}Mou tomenakute ii terechau keredo{\i0}
+Dialogue: 0,0:01:15.74,0:01:19.24,Default,,0000,0000,0000,,{\i1}Watashi zenbu uketomete{\i0}
+Dialogue: 0,0:01:19.24,0:01:25.46,Default,,0000,0000,0000,,{\i1}Sou, kore kara mo zutto{\i0}
+Dialogue: 0,0:01:40.05,0:01:41.05,Default,,0000,0000,0000,,{\an8}"Asahi Sakurai"\N"New Single: Loving Feelings"{\an}
+Dialogue: 0,0:01:41.05,0:01:41.26,Default,,0000,0000,0000,,{\an8}"Please Listen to My Feelings!" {\an}
+Dialogue: 0,0:01:41.26,0:01:43.72,Default,,0000,0000,0000,,{\an8}"Please Listen to My Feelings!"\NSo we were thinking about a concert{\an}
+Dialogue: 0,0:01:43.72,0:01:45.35,Default,,0000,0000,0000,,{\an8}as part of the promotion\Nfor her new single.{\an}
+Dialogue: 0,0:01:45.35,0:01:48.31,Default,,0000,0000,0000,,Okay, now I get the general idea.
+Dialogue: 0,0:01:48.31,0:01:52.94,Default,,0000,0000,0000,,By the way, the lyrics for the new\Nsong will be written by Asahi herself.
+Dialogue: 0,0:01:52.94,0:01:55.94,Default,,0000,0000,0000,,My, that sounds exciting.
+Dialogue: 0,0:01:55.94,0:01:59.24,Default,,0000,0000,0000,,Yes, she's excited about it too.
+Dialogue: 0,0:01:59.24,0:02:03.62,Default,,0000,0000,0000,,I will work out the\Ndetails with the director.
+Dialogue: 0,0:02:03.62,0:02:06.58,Default,,0000,0000,0000,,Yes, please do.
+Dialogue: 0,0:02:06.58,0:02:09.08,Default,,0000,0000,0000,,I will be in touch with you again later.
+Dialogue: 0,0:02:09.08,0:02:12.88,Default,,0000,0000,0000,,Now then, it was nice talking with you.
+Dialogue: 0,0:02:12.88,0:02:14.71,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:02:14.71,0:02:16.80,Default,,0000,0000,0000,,That girl...
+Dialogue: 0,0:02:16.80,0:02:19.63,Default,,0000,0000,0000,,She always comes to Comipa.
+Dialogue: 0,0:02:19.63,0:02:23.93,Default,,0000,0000,0000,,Huh? Ms. Makimura,\Ndo you know Asahi Sakurai?
+Dialogue: 0,0:02:23.93,0:02:25.31,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:02:25.31,0:02:27.77,Default,,0000,0000,0000,,No, I was talking about that girl.
+Dialogue: 0,0:02:27.77,0:02:29.10,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:02:33.06,0:02:35.28,Default,,0000,0000,0000,,Mmm, delicious.
+Dialogue: 0,0:02:35.28,0:02:38.28,Default,,0000,0000,0000,,The chamomile tea\Nhere is great, isn't it?
+Dialogue: 0,0:02:38.28,0:02:40.45,Default,,0000,0000,0000,,Yes...
+Dialogue: 0,0:02:40.45,0:02:43.12,Default,,0000,0000,0000,,But at any rate, how\Nstrange to meet you there!
+Dialogue: 0,0:02:43.12,0:02:44.66,Default,,0000,0000,0000,,Were you working at your part-time job?
+Dialogue: 0,0:02:44.66,0:02:47.83,Default,,0000,0000,0000,,No, it's not a part-time job.
+Dialogue: 0,0:02:47.83,0:02:51.17,Default,,0000,0000,0000,,Working for an entertainment\Nagency sure sounds interesting.
+Dialogue: 0,0:02:51.17,0:02:54.09,Default,,0000,0000,0000,,Yeah, it is fun, but...
+Dialogue: 0,0:02:56.05,0:02:59.47,Default,,0000,0000,0000,,What's wrong?\NIs something worrying you?
+Dialogue: 0,0:02:59.47,0:03:03.26,Default,,0000,0000,0000,,It's not really worrying me.
+Dialogue: 0,0:03:03.26,0:03:06.85,Default,,0000,0000,0000,,I guess you could say\Nit does bother me though, well...
+Dialogue: 0,0:03:06.85,0:03:09.85,Default,,0000,0000,0000,,Oh dear, that's not good.
+Dialogue: 0,0:03:09.85,0:03:12.69,Default,,0000,0000,0000,,I could listen, if you'd like.
+Dialogue: 0,0:03:12.69,0:03:18.11,Default,,0000,0000,0000,,Well, the thing I'm writing\Nright now isn't going very well.
+Dialogue: 0,0:03:18.11,0:03:21.11,Default,,0000,0000,0000,,My, are you talking about a doujinshi?
+Dialogue: 0,0:03:21.11,0:03:23.37,Default,,0000,0000,0000,,Huh? No...
+Dialogue: 0,0:03:23.37,0:03:27.04,Default,,0000,0000,0000,,So you've started\Nwriting manga now too, huh?
+Dialogue: 0,0:03:27.04,0:03:28.45,Default,,0000,0000,0000,,Reading them is fine,
+Dialogue: 0,0:03:28.45,0:03:32.79,Default,,0000,0000,0000,,but writing them yourself makes\Nthe doujinshi world even more fun!
+Dialogue: 0,0:03:32.79,0:03:35.17,Default,,0000,0000,0000,,So, what kind of\Nstory do you want to write?
+Dialogue: 0,0:03:35.17,0:03:37.00,Default,,0000,0000,0000,,--It's basically about love.
+Dialogue: 0,0:03:37.00,0:03:39.84,Default,,0000,0000,0000,,--My, that's so nice!\N--It's basically about love.
+Dialogue: 0,0:03:39.84,0:03:42.68,Default,,0000,0000,0000,,Oh, don't tell me it's\Ngoing to be a "boys love" story?
+Dialogue: 0,0:03:42.68,0:03:45.22,Default,,0000,0000,0000,,No! Not at all!
+Dialogue: 0,0:03:45.22,0:03:47.22,Default,,0000,0000,0000,,How do I put this...
+Dialogue: 0,0:03:47.22,0:03:53.19,Default,,0000,0000,0000,,I want to write something that will create\Ngentle feelings that warm you up inside.
+Dialogue: 0,0:03:54.60,0:03:56.44,Default,,0000,0000,0000,,Yu says...
+Dialogue: 0,0:03:56.44,0:04:00.28,Default,,0000,0000,0000,,Oh, do you know Yu?\NThe girl from Karamitei?
+Dialogue: 0,0:04:00.28,0:04:02.32,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:04:02.32,0:04:03.86,Default,,0000,0000,0000,,She always says,
+Dialogue: 0,0:04:03.86,0:04:07.99,Default,,0000,0000,0000,,"Doujinshi are made of your\Nlove for the story and characters!"
+Dialogue: 0,0:04:07.99,0:04:10.25,Default,,0000,0000,0000,,I guess she's right.
+Dialogue: 0,0:04:10.25,0:04:13.42,Default,,0000,0000,0000,,It's just like falling\Nin love with someone.
+Dialogue: 0,0:04:14.58,0:04:18.21,Default,,0000,0000,0000,,Is there anyone that you like?
+Dialogue: 0,0:04:18.21,0:04:21.55,Default,,0000,0000,0000,,No, there isn't.
+Dialogue: 0,0:04:21.55,0:04:24.84,Default,,0000,0000,0000,,Eimi says you can't\Nmake a catchy doujinshi
+Dialogue: 0,0:04:24.84,0:04:28.89,Default,,0000,0000,0000,,if you can't even go on a single date.
+Dialogue: 0,0:04:28.89,0:04:30.68,Default,,0000,0000,0000,,Have you ever been on a date?
+Dialogue: 0,0:04:30.68,0:04:33.60,Default,,0000,0000,0000,,Uh... No...
+Dialogue: 0,0:04:33.60,0:04:36.90,Default,,0000,0000,0000,,Hmmm, I see.
+Dialogue: 0,0:04:38.15,0:04:41.74,Default,,0000,0000,0000,,Oh no, I have to get back!
+Dialogue: 0,0:04:41.74,0:04:43.32,Default,,0000,0000,0000,,Well, good luck!
+Dialogue: 0,0:04:43.32,0:04:44.99,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:04:45.99,0:04:48.45,Default,,0000,0000,0000,,Welcome!
+Dialogue: 0,0:04:48.45,0:04:51.79,Default,,0000,0000,0000,,Wow, so they put you in charge?
+Dialogue: 0,0:04:53.12,0:04:56.12,Default,,0000,0000,0000,,It's so hard...
+Dialogue: 0,0:04:56.12,0:04:58.17,Default,,0000,0000,0000,,Yeah, I guess so.
+Dialogue: 0,0:04:58.17,0:05:02.67,Default,,0000,0000,0000,,But you've gotten to the age\Nwhere you take positions like that.
+Dialogue: 0,0:05:02.67,0:05:05.68,Default,,0000,0000,0000,,Please don't mention my age!
+Dialogue: 0,0:05:05.68,0:05:09.39,Default,,0000,0000,0000,,Besides, I'm younger than you anyway.
+Dialogue: 0,0:05:11.51,0:05:15.48,Default,,0000,0000,0000,,Well, it just means you've gotten\None step closer to your dream, right?
+Dialogue: 0,0:05:15.48,0:05:16.85,Default,,0000,0000,0000,,I'm happy for you.
+Dialogue: 0,0:05:16.85,0:05:18.19,Default,,0000,0000,0000,,Thanks.
+Dialogue: 0,0:05:20.57,0:05:22.28,Default,,0000,0000,0000,,Ah, oh yeah.
+Dialogue: 0,0:05:22.28,0:05:27.24,Default,,0000,0000,0000,,Hey, what do you think is\Nimportant when writing manga?
+Dialogue: 0,0:05:27.24,0:05:29.20,Default,,0000,0000,0000,,When writing manga?
+Dialogue: 0,0:05:29.20,0:05:34.66,Default,,0000,0000,0000,,Well, not just when writing\Nmanga, but when creating anything.
+Dialogue: 0,0:05:34.66,0:05:36.79,Default,,0000,0000,0000,,Let me think...
+Dialogue: 0,0:05:36.79,0:05:40.84,Default,,0000,0000,0000,,You mean, for example, how I say\Nthat writers, particularly new ones,
+Dialogue: 0,0:05:40.84,0:05:44.34,Default,,0000,0000,0000,,need to always be in love?
+Dialogue: 0,0:05:44.34,0:05:46.93,Default,,0000,0000,0000,,I thought so.
+Dialogue: 0,0:05:46.93,0:05:49.22,Default,,0000,0000,0000,,Even a one-sided love is fine.
+Dialogue: 0,0:05:49.22,0:05:52.26,Default,,0000,0000,0000,,You just have to be in love with someone.
+Dialogue: 0,0:05:52.26,0:05:54.72,Default,,0000,0000,0000,,Well, I guess it's basically about
+Dialogue: 0,0:05:54.72,0:05:57.44,Default,,0000,0000,0000,,cultivating your sensitivity\Nby receiving mental stimulation.
+Dialogue: 0,0:05:59.52,0:06:03.69,Default,,0000,0000,0000,,Of course, there are some people who ruin\Nthemselves by drowning in love though.
+Dialogue: 0,0:06:05.53,0:06:09.20,Default,,0000,0000,0000,,Why do you ask? Are you\Nthinking about writing again?
+Dialogue: 0,0:06:09.20,0:06:13.66,Default,,0000,0000,0000,,No, not me; a girl I know.
+Dialogue: 0,0:06:13.66,0:06:19.46,Default,,0000,0000,0000,,It seems she's trying to write a\Nlove story, but it's not going well.
+Dialogue: 0,0:06:19.46,0:06:20.50,Default,,0000,0000,0000,,Oh, is that it?
+Dialogue: 0,0:06:20.50,0:06:21.79,Default,,0000,0000,0000,,And here I thought
+Dialogue: 0,0:06:21.79,0:06:24.96,Default,,0000,0000,0000,,I was going to be able to read Minami\NMakimura's first new book in a long time.
+Dialogue: 0,0:06:24.96,0:06:27.13,Default,,0000,0000,0000,,I was kind of looking forward to it.
+Dialogue: 0,0:06:27.13,0:06:31.47,Default,,0000,0000,0000,,Oh, please. Don't make fun of me.
+Dialogue: 0,0:06:34.26,0:06:36.89,Default,,0000,0000,0000,,{\i1}So it all comes down to\Nactual experience after all.{\i0}
+Dialogue: 0,0:06:36.89,0:06:38.56,Default,,0000,0000,0000,,Yeah...
+Dialogue: 0,0:06:43.36,0:06:45.19,Default,,0000,0000,0000,,Yes, hello?
+Dialogue: 0,0:06:45.19,0:06:48.19,Default,,0000,0000,0000,,Oh, hello? This is Makimura.
+Dialogue: 0,0:06:48.19,0:06:50.24,Default,,0000,0000,0000,,Ah, hello.
+Dialogue: 0,0:06:50.24,0:06:54.24,Default,,0000,0000,0000,,I'm sorry to ask you so suddenly,\Nbut are you free this Sunday?
+Dialogue: 0,0:06:54.24,0:06:58.75,Default,,0000,0000,0000,,Ah, um, I think I'm\Nfree in the afternoon.
+Dialogue: 0,0:06:58.75,0:07:00.25,Default,,0000,0000,0000,,That's great!
+Dialogue: 0,0:07:00.25,0:07:05.09,Default,,0000,0000,0000,,Then leave that open, okay?\NI'll call you again with the details.
+Dialogue: 0,0:07:05.09,0:07:06.05,Default,,0000,0000,0000,,Bye bye!
+Dialogue: 0,0:07:06.05,0:07:07.42,Default,,0000,0000,0000,,Huh? Uh, um...
+Dialogue: 0,0:07:07.42,0:07:09.51,Default,,0000,0000,0000,,That should do it.
+Dialogue: 0,0:07:09.51,0:07:13.26,Default,,0000,0000,0000,,Now, who should I set her up with?
+Dialogue: 0,0:07:13.26,0:07:14.51,Default,,0000,0000,0000,,Who was that?
+Dialogue: 0,0:07:14.51,0:07:17.14,Default,,0000,0000,0000,,Oh, the girl I mentioned before.
+Dialogue: 0,0:07:17.14,0:07:18.68,Default,,0000,0000,0000,,Oh, is that it?
+Dialogue: 0,0:07:18.68,0:07:22.77,Default,,0000,0000,0000,,And here I thought you were\Nmaking a date with your boyfriend.
+Dialogue: 0,0:07:24.56,0:07:27.61,Default,,0000,0000,0000,,But I don't have anyone like that.
+Dialogue: 0,0:07:27.61,0:07:33.11,Default,,0000,0000,0000,,You're getting older too,\NMinami, so you should get a guy or two.
+Dialogue: 0,0:07:33.11,0:07:34.62,Default,,0000,0000,0000,,--I told you not to mention my age!
+Dialogue: 0,0:07:34.62,0:07:37.54,Default,,0000,0000,0000,,--You donn' get it!\N--I told you not to mention my age!
+Dialogue: 0,0:07:37.54,0:07:40.29,Default,,0000,0000,0000,,You donn' get it at all!
+Dialogue: 0,0:07:40.29,0:07:41.83,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:07:41.83,0:07:43.50,Default,,0000,0000,0000,,Is that...
+Dialogue: 0,0:07:45.46,0:07:48.00,Default,,0000,0000,0000,,What's with you?\NThe color is different, isn't it?
+Dialogue: 0,0:07:48.00,0:07:52.63,Default,,0000,0000,0000,,Thass w're you're\Nmistaken, Comrade Kazuki.
+Dialogue: 0,0:07:52.63,0:07:54.97,Default,,0000,0000,0000,,You're obviously drunk.
+Dialogue: 0,0:07:54.97,0:07:57.51,Default,,0000,0000,0000,,What're you saying?\NM' not drunk or anything!
+Dialogue: 0,0:07:57.51,0:08:00.64,Default,,0000,0000,0000,,I am completely normal!
+Dialogue: 0,0:08:00.64,0:08:02.81,Default,,0000,0000,0000,,Stop it, Taishi, you're too loud!
+Dialogue: 0,0:08:02.81,0:08:04.52,Default,,0000,0000,0000,,So what?
+Dialogue: 0,0:08:04.52,0:08:06.31,Default,,0000,0000,0000,,The only dif'rence between
+Dialogue: 0,0:08:06.31,0:08:08.78,Default,,0000,0000,0000,,the Hemo-hemo and the Hyper\NHemo-hemo is the color, yer saying?
+Dialogue: 0,0:08:08.78,0:08:10.24,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:08:10.24,0:08:12.95,Default,,0000,0000,0000,,Foolishness! You're foolish, Comrade!
+Dialogue: 0,0:08:12.95,0:08:15.24,Default,,0000,0000,0000,,You see, the Hyper Hemo-hemo is...
+Dialogue: 0,0:08:15.24,0:08:17.12,Default,,0000,0000,0000,,Blue!
+Dialogue: 0,0:08:17.12,0:08:18.12,Default,,0000,0000,0000,,--Like I was saying, the color is different.
+Dialogue: 0,0:08:18.12,0:08:19.04,Default,,0000,0000,0000,,--Kuhonbutsu is the same as ever.\N--Like I was saying, the color is different.
+Dialogue: 0,0:08:19.04,0:08:20.45,Default,,0000,0000,0000,,--Kuhonbutsu is the same as ever.\N--No, yer wrong!
+Dialogue: 0,0:08:20.45,0:08:23.42,Default,,0000,0000,0000,,It's different from the\NHemo-hemo! It's different!
+Dialogue: 0,0:08:24.62,0:08:26.92,Default,,0000,0000,0000,,{\i1}Oh yeah, that girl...{\i0}
+Dialogue: 0,0:08:28.29,0:08:31.01,Default,,0000,0000,0000,,{\i1}always buys Kazuki's books.{\i0}
+Dialogue: 0,0:08:32.17,0:08:33.59,Default,,0000,0000,0000,,That's it!
+Dialogue: 0,0:08:33.59,0:08:38.35,Default,,0000,0000,0000,,After alla my explanation,\Ndo you still not unnerstan'?
+Dialogue: 0,0:08:38.35,0:08:41.02,Default,,0000,0000,0000,,This is embarrassing, so stop it already!
+Dialogue: 0,0:08:43.64,0:08:45.81,Default,,0000,0000,0000,,Good evening.
+Dialogue: 0,0:08:45.81,0:08:47.94,Default,,0000,0000,0000,,Huh? Minami?
+Dialogue: 0,0:08:47.94,0:08:49.82,Default,,0000,0000,0000,,Funny meeting you here.
+Dialogue: 0,0:08:50.86,0:08:52.94,Default,,0000,0000,0000,,By the way, Kazuki...
+Dialogue: 0,0:08:52.94,0:08:54.49,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,0:08:54.49,0:08:58.74,Default,,0000,0000,0000,,Do you have some\Ntime free this Sunday?
+Dialogue: 0,0:08:58.74,0:09:00.62,Default,,0000,0000,0000,,Yeah, I do...
+Dialogue: 0,0:09:00.62,0:09:05.58,Default,,0000,0000,0000,,Wonderful! In that case,\Ncould you please go on a date?
+Dialogue: 0,0:09:17.51,0:09:22.22,Default,,0000,0000,0000,,Jeez, what is Makimura\Nthinking at her age? I can't believe her.
+Dialogue: 0,0:09:22.22,0:09:23.68,Default,,0000,0000,0000,,Comrade Mizuki,
+Dialogue: 0,0:09:23.68,0:09:27.44,Default,,0000,0000,0000,,isn't spying on someone\Nelse's date considered tacky?
+Dialogue: 0,0:09:27.44,0:09:31.02,Default,,0000,0000,0000,,Shut up! I'm worried about Kazuki.
+Dialogue: 0,0:09:31.02,0:09:32.53,Default,,0000,0000,0000,,Why is that?
+Dialogue: 0,0:09:32.53,0:09:36.53,Default,,0000,0000,0000,,Well, something strange\Ncould happen or something.
+Dialogue: 0,0:09:36.53,0:09:37.86,Default,,0000,0000,0000,,I see!
+Dialogue: 0,0:09:37.86,0:09:41.08,Default,,0000,0000,0000,,There could be people out\Nthere who would send an assassin
+Dialogue: 0,0:09:41.08,0:09:46.00,Default,,0000,0000,0000,,to suddenly kill my friend during\Nthe date, in order to crush our ambitions!
+Dialogue: 0,0:09:46.00,0:09:47.96,Default,,0000,0000,0000,,Nope, absolutely wrong.
+Dialogue: 0,0:09:47.96,0:09:50.92,Default,,0000,0000,0000,,Very well! I will join forces with you.
+Dialogue: 0,0:09:50.92,0:09:52.92,Default,,0000,0000,0000,,It's not like I even asked you to.
+Dialogue: 0,0:09:53.67,0:09:55.59,Default,,0000,0000,0000,,Here she comes.
+Dialogue: 0,0:09:58.09,0:09:58.93,Default,,0000,0000,0000,,Wha?!
+Dialogue: 0,0:09:58.93,0:10:00.97,Default,,0000,0000,0000,,Wha... Wha... Wha...
+Dialogue: 0,0:10:00.97,0:10:03.22,Default,,0000,0000,0000,,What in the world?!
+Dialogue: 0,0:10:03.22,0:10:04.27,Default,,0000,0000,0000,,That's...
+Dialogue: 0,0:10:04.27,0:10:06.43,Default,,0000,0000,0000,,Huh? That girl...
+Dialogue: 0,0:10:06.43,0:10:09.52,Default,,0000,0000,0000,,Why you! I don't\Ncare if you are my friend!
+Dialogue: 0,0:10:09.52,0:10:13.86,Default,,0000,0000,0000,,I wonder why Minami didn't say\Nthat it was you who was coming, Asahi?
+Dialogue: 0,0:10:13.86,0:10:15.69,Default,,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:10:15.69,0:10:18.15,Default,,0000,0000,0000,,You don't have to apologize.
+Dialogue: 0,0:10:18.15,0:10:22.58,Default,,0000,0000,0000,,But it's not every day I get\Nto go out on a date with an idol.
+Dialogue: 0,0:10:22.58,0:10:24.74,Default,,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:10:24.74,0:10:26.83,Default,,0000,0000,0000,,Um, shall we go then?
+Dialogue: 0,0:10:26.83,0:10:28.50,Default,,0000,0000,0000,,Sure!
+Dialogue: 0,0:10:30.33,0:10:31.54,Default,,0000,0000,0000,,After them!
+Dialogue: 0,0:10:31.54,0:10:32.96,Default,,0000,0000,0000,,I'll never forgive him!
+Dialogue: 0,0:10:35.92,0:10:38.34,Default,,0000,0000,0000,,--Huh?\N--Huh?
+Dialogue: 0,0:10:38.34,0:10:39.72,Default,,0000,0000,0000,,Ms. Makimura?
+Dialogue: 0,0:10:39.72,0:10:42.80,Default,,0000,0000,0000,,What are the two of you doing here?
+Dialogue: 0,0:10:42.80,0:10:46.02,Default,,0000,0000,0000,,Uh, nothing. What about you,\NMinami? What are you doing here?
+Dialogue: 0,0:10:46.02,0:10:49.81,Default,,0000,0000,0000,,Umm, it's a long story...
+Dialogue: 0,0:10:49.81,0:10:53.27,Default,,0000,0000,0000,,Let's talk about it later!\NWe're going to lose them!
+Dialogue: 0,0:10:56.57,0:11:01.53,Default,,0000,0000,0000,,Asahi, you don't have to be so scared.
+Dialogue: 0,0:11:01.53,0:11:04.95,Default,,0000,0000,0000,,I'll be fine once it starts moving,
+Dialogue: 0,0:11:04.95,0:11:08.20,Default,,0000,0000,0000,,but climbing up slowly\Nlike this makes me feel so...
+Dialogue: 0,0:11:08.20,0:11:11.92,Default,,0000,0000,0000,,Yeah, I guess so. It's really scary, huh?
+Dialogue: 0,0:11:11.92,0:11:15.46,Default,,0000,0000,0000,,That's nice. They seem to be having fun.
+Dialogue: 0,0:11:15.46,0:11:18.17,Default,,0000,0000,0000,,What's with him, being all flirty?
+Dialogue: 0,0:11:18.17,0:11:20.51,Default,,0000,0000,0000,,Damn you, my friend...
+Dialogue: 0,0:11:20.51,0:11:24.18,Default,,0000,0000,0000,,By the way, what is this all about?
+Dialogue: 0,0:11:24.18,0:11:27.02,Default,,0000,0000,0000,,Umm, the truth is...
+Dialogue: 0,0:11:33.36,0:11:35.69,Default,,0000,0000,0000,,And there you have it.
+Dialogue: 0,0:11:35.69,0:11:38.94,Default,,0000,0000,0000,,Well, if that's all it is.
+Dialogue: 0,0:11:40.36,0:11:42.20,Default,,0000,0000,0000,,However!
+Dialogue: 0,0:11:42.20,0:11:44.45,Default,,0000,0000,0000,,Whatever the reason may be,
+Dialogue: 0,0:11:44.45,0:11:47.04,Default,,0000,0000,0000,,I absolutely cannot\Nforgive something like this!
+Dialogue: 0,0:11:47.04,0:11:50.91,Default,,0000,0000,0000,,I have reached the limits of my\Nperseverance! I am going to resort to force!
+Dialogue: 0,0:11:50.91,0:11:53.88,Default,,0000,0000,0000,,Hold it, Taishi! Jeez...
+Dialogue: 0,0:11:56.71,0:11:59.80,Default,,0000,0000,0000,,I wonder if Taishi likes that girl?
+Dialogue: 0,0:11:59.80,0:12:01.55,Default,,0000,0000,0000,,It looks like it.
+Dialogue: 0,0:12:01.55,0:12:04.89,Default,,0000,0000,0000,,He said he was a member of her fan club.
+Dialogue: 0,0:12:04.89,0:12:08.18,Default,,0000,0000,0000,,My, she has a fan club?
+Dialogue: 0,0:12:08.18,0:12:11.06,Default,,0000,0000,0000,,Umm, I don't really know.
+Dialogue: 0,0:12:11.06,0:12:13.31,Default,,0000,0000,0000,,Okay, I'm going to leave now.
+Dialogue: 0,0:12:14.90,0:12:18.40,Default,,0000,0000,0000,,But it will be a problem\Nif I let him get in their way.
+Dialogue: 0,0:12:22.36,0:12:25.78,Default,,0000,0000,0000,,Say, isn't this a haunted house?
+Dialogue: 0,0:12:25.78,0:12:29.91,Default,,0000,0000,0000,,Well, yeah, I think so.
+Dialogue: 0,0:12:29.91,0:12:31.66,Default,,0000,0000,0000,,It'll be all right!
+Dialogue: 0,0:12:31.66,0:12:36.46,Default,,0000,0000,0000,,The stuff here isn't very\Ntypical, so it's more like a show.
+Dialogue: 0,0:12:36.46,0:12:39.88,Default,,0000,0000,0000,,This is young people's gateway to love,
+Dialogue: 0,0:12:39.88,0:12:42.92,Default,,0000,0000,0000,,the pitch black paradise\Nwhere they can deepen their love!
+Dialogue: 0,0:12:42.92,0:12:46.30,Default,,0000,0000,0000,,Riding in a gondola in the deep\Ndarkness, two shadows become one,
+Dialogue: 0,0:12:46.30,0:12:49.93,Default,,0000,0000,0000,,and before you know it,\Nthe mood becomes romantic!
+Dialogue: 0,0:12:49.93,0:12:53.60,Default,,0000,0000,0000,,I won't let that happen!\NI won't let that happen!
+Dialogue: 0,0:12:59.73,0:13:01.69,Default,,0000,0000,0000,,What's going on?
+Dialogue: 0,0:13:01.69,0:13:05.49,Default,,0000,0000,0000,,You mustn't cut in line.
+Dialogue: 0,0:13:05.49,0:13:08.53,Default,,0000,0000,0000,,Be sure to wait your turn, okay?
+Dialogue: 0,0:13:08.53,0:13:10.49,Default,,0000,0000,0000,,Okay, come this way please.
+Dialogue: 0,0:13:10.49,0:13:12.04,Default,,0000,0000,0000,,Ow ow ow ow ow\Now ow ow ow ow ow ow!
+Dialogue: 0,0:13:12.04,0:13:15.62,Default,,0000,0000,0000,,Huh? Was that Minami I just heard?
+Dialogue: 0,0:13:15.62,0:13:18.92,Default,,0000,0000,0000,,Sorry to keep you waiting!
+Dialogue: 0,0:13:18.92,0:13:20.67,Default,,0000,0000,0000,,Thank you!
+Dialogue: 0,0:13:20.67,0:13:22.88,Default,,0000,0000,0000,,Back off, Kazuki.
+Dialogue: 0,0:13:22.88,0:13:26.68,Default,,0000,0000,0000,,I recognize that voice.\NI knew it was you, Taishi.
+Dialogue: 0,0:13:26.68,0:13:31.22,Default,,0000,0000,0000,,My my, Taishi is very tenacious too.
+Dialogue: 0,0:13:31.22,0:13:33.98,Default,,0000,0000,0000,,Back off from Asahi.
+Dialogue: 0,0:13:33.98,0:13:36.73,Default,,0000,0000,0000,,But Minami asked me to go out with her.
+Dialogue: 0,0:13:36.73,0:13:38.65,Default,,0000,0000,0000,,I am well aware of the situation.
+Dialogue: 0,0:13:38.65,0:13:42.82,Default,,0000,0000,0000,,But I, Asahi Sakurai fan\Nclub member number 00001,
+Dialogue: 0,0:13:42.82,0:13:46.20,Default,,0000,0000,0000,,cannot allow such a thing to\Nhappen right before my very eyes.
+Dialogue: 0,0:13:46.20,0:13:49.70,Default,,0000,0000,0000,,If you insist on continuing,\Nmy air gun will blaze!
+Dialogue: 0,0:13:49.70,0:13:51.08,Default,,0000,0000,0000,,Hey, come on now...
+Dialogue: 0,0:13:51.08,0:13:53.41,Default,,0000,0000,0000,,I am dead serious!
+Dialogue: 0,0:13:53.41,0:13:55.96,Default,,0000,0000,0000,,I will say it one more time: back off.
+Dialogue: 0,0:13:55.96,0:13:59.63,Default,,0000,0000,0000,,If you do not, it\Nwill wound our friendship.
+Dialogue: 0,0:13:59.63,0:14:02.42,Default,,0000,0000,0000,,As if I care about that.
+Dialogue: 0,0:14:02.42,0:14:06.42,Default,,0000,0000,0000,,Go on now, go say goodbye to Asahi.
+Dialogue: 0,0:14:19.44,0:14:21.61,Default,,0000,0000,0000,,Here, Asahi.
+Dialogue: 0,0:14:26.53,0:14:28.61,Default,,0000,0000,0000,,We're getting out of here!
+Dialogue: 0,0:14:29.86,0:14:32.66,Default,,0000,0000,0000,,Bastard! I won't let you escape!
+Dialogue: 0,0:14:35.37,0:14:37.25,Default,,0000,0000,0000,,Wait!
+Dialogue: 0,0:14:45.46,0:14:49.30,Default,,0000,0000,0000,,I can't turn! I can't turn!
+Dialogue: 0,0:14:51.30,0:14:54.10,Default,,0000,0000,0000,,I'm falling!
+Dialogue: 0,0:15:01.02,0:15:03.40,Default,,0000,0000,0000,,Good grief...
+Dialogue: 0,0:15:03.40,0:15:06.57,Default,,0000,0000,0000,,Say, what's the matter?
+Dialogue: 0,0:15:06.57,0:15:08.28,Default,,0000,0000,0000,,Well...
+Dialogue: 0,0:15:08.28,0:15:13.24,Default,,0000,0000,0000,,I guess you could say I spotted someone\Nstalking you and got away from there fast.
+Dialogue: 0,0:15:13.24,0:15:14.87,Default,,0000,0000,0000,,Oh my!
+Dialogue: 0,0:15:14.87,0:15:16.41,Default,,0000,0000,0000,,Just kidding!
+Dialogue: 0,0:15:16.41,0:15:20.17,Default,,0000,0000,0000,,Actually, I was just in\Na hurry to be alone with you.
+Dialogue: 0,0:15:24.38,0:15:29.09,Default,,0000,0000,0000,,But today must have\Nbeen a bother for you.
+Dialogue: 0,0:15:29.09,0:15:33.76,Default,,0000,0000,0000,,Of course not! I'm honored to\Nbe able to go on a date with you.
+Dialogue: 0,0:15:33.76,0:15:37.64,Default,,0000,0000,0000,,Besides, I heard the\Nwhole story from Minami.
+Dialogue: 0,0:15:37.64,0:15:40.85,Default,,0000,0000,0000,,If I can help you with\Nwriting your doujinshi,
+Dialogue: 0,0:15:40.85,0:15:42.77,Default,,0000,0000,0000,,I'm happy to do anything you need.
+Dialogue: 0,0:15:42.77,0:15:46.94,Default,,0000,0000,0000,,Uh, well, it's not a doujinshi.
+Dialogue: 0,0:15:46.94,0:15:48.11,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:15:48.11,0:15:52.78,Default,,0000,0000,0000,,Actually, I have to write\Nthe lyrics to my new song,
+Dialogue: 0,0:15:52.78,0:15:54.95,Default,,0000,0000,0000,,but it's not going very well.
+Dialogue: 0,0:15:54.95,0:15:57.62,Default,,0000,0000,0000,,That's what it was?
+Dialogue: 0,0:15:57.62,0:16:05.04,Default,,0000,0000,0000,,I can't find the right words,\Nand I don't know what to write.
+Dialogue: 0,0:16:05.04,0:16:10.47,Default,,0000,0000,0000,,I want to say something to\Nmy fans, but... I don't know how.
+Dialogue: 0,0:16:10.47,0:16:13.64,Default,,0000,0000,0000,,I've been thinking\Nabout it for a long time.
+Dialogue: 0,0:16:13.64,0:16:17.10,Default,,0000,0000,0000,,Maybe you don't have\Nto think too much about it.
+Dialogue: 0,0:16:17.10,0:16:21.98,Default,,0000,0000,0000,,I'm sure everyone just wants to\Nhear the words that come from you.
+Dialogue: 0,0:16:21.98,0:16:24.02,Default,,0000,0000,0000,,Besides...
+Dialogue: 0,0:16:24.02,0:16:25.36,Default,,0000,0000,0000,,Besides?
+Dialogue: 0,0:16:25.36,0:16:29.23,Default,,0000,0000,0000,,I want to hear that song too.
+Dialogue: 0,0:16:33.45,0:16:36.49,Default,,0000,0000,0000,,Boy, Minami sure is a scatterbrain.
+Dialogue: 0,0:16:36.49,0:16:38.95,Default,,0000,0000,0000,,She thought you were writing doujinshi!
+Dialogue: 0,0:16:38.95,0:16:42.12,Default,,0000,0000,0000,,She's a really nice person though.
+Dialogue: 0,0:16:43.25,0:16:46.50,Default,,0000,0000,0000,,Yeah, a very nice person.
+Dialogue: 0,0:16:50.84,0:16:53.17,Default,,0000,0000,0000,,Looks like it's going well.
+Dialogue: 0,0:16:53.17,0:16:56.18,Default,,0000,0000,0000,,I'm glad I asked Kazuki.
+Dialogue: 0,0:16:57.39,0:16:59.18,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:16:59.18,0:17:01.98,Default,,0000,0000,0000,,I think I might be a little jealous.
+Dialogue: 0,0:17:17.66,0:17:20.54,Default,,0000,0000,0000,,This tastes so good right after a bath!
+Dialogue: 0,0:17:23.29,0:17:24.33,Default,,0000,0000,0000,,Yes?
+Dialogue: 0,0:17:24.33,0:17:25.50,Default,,0000,0000,0000,,Minami?
+Dialogue: 0,0:17:25.50,0:17:29.84,Default,,0000,0000,0000,,Oh, Kazuki! Thank\Nyou so much for today!
+Dialogue: 0,0:17:29.84,0:17:33.42,Default,,0000,0000,0000,,No, thank you! I had a fun date.
+Dialogue: 0,0:17:33.42,0:17:36.05,Default,,0000,0000,0000,,I'm sorry for asking such a big favor.
+Dialogue: 0,0:17:36.05,0:17:39.26,Default,,0000,0000,0000,,You can ask me for\Nany kind of favor, Minami.
+Dialogue: 0,0:17:40.22,0:17:43.89,Default,,0000,0000,0000,,Then would you go\Non a date with me next?
+Dialogue: 0,0:17:43.89,0:17:46.81,Default,,0000,0000,0000,,Sure, my pleasure.
+Dialogue: 0,0:17:46.81,0:17:49.27,Default,,0000,0000,0000,,Oh come on, I was just joking.
+Dialogue: 0,0:17:49.27,0:17:53.03,Default,,0000,0000,0000,,What? A joke?\NBut I was looking forward to it!
+Dialogue: 0,0:17:53.03,0:17:56.40,Default,,0000,0000,0000,,By the way, how is your\Nmanuscript coming along?
+Dialogue: 0,0:17:56.40,0:17:57.41,Default,,0000,0000,0000,,Excellent!
+Dialogue: 0,0:17:57.41,0:18:00.20,Default,,0000,0000,0000,,I'll make it in time for the\Nnext Comipa with time to spare.
+Dialogue: 0,0:18:00.20,0:18:01.79,Default,,0000,0000,0000,,That's great.
+Dialogue: 0,0:18:01.79,0:18:05.16,Default,,0000,0000,0000,,And good luck with\NAsahi's concert, Minami.
+Dialogue: 0,0:18:05.16,0:18:06.16,Default,,0000,0000,0000,,Thanks!
+Dialogue: 0,0:18:06.16,0:18:08.00,Default,,0000,0000,0000,,Okay then, goodnight!
+Dialogue: 0,0:18:08.00,0:18:09.67,Default,,0000,0000,0000,,Goodnight!
+Dialogue: 0,0:18:34.32,0:18:36.44,Default,,0000,0000,0000,,Good morning, Kazuki!
+Dialogue: 0,0:18:36.44,0:18:38.61,Default,,0000,0000,0000,,Oh, good morning!
+Dialogue: 0,0:18:38.61,0:18:40.87,Default,,0000,0000,0000,,Huh? Where's Taishi?
+Dialogue: 0,0:18:40.87,0:18:45.54,Default,,0000,0000,0000,,Oh, he's been pouting and\Nhasn't talked to me since that date.
+Dialogue: 0,0:18:45.54,0:18:50.04,Default,,0000,0000,0000,,Taishi must have liked\Nthat girl with glasses a lot.
+Dialogue: 0,0:18:50.04,0:18:51.58,Default,,0000,0000,0000,,Oh, is this your new issue?
+Dialogue: 0,0:18:51.58,0:18:53.55,Default,,0000,0000,0000,,"Record Of The Japalan Era"\N"The New Issue is Here!"
+Dialogue: 0,0:18:55.13,0:18:58.30,Default,,0000,0000,0000,,I'll take one. How much is it?
+Dialogue: 0,0:18:58.30,0:19:03.05,Default,,0000,0000,0000,,No, that's okay. You're always\Nhelping me out, so it's a gift.
+Dialogue: 0,0:19:03.05,0:19:06.60,Default,,0000,0000,0000,,Oh yeah! Sorry, but\Ncould you take another one?
+Dialogue: 0,0:19:06.60,0:19:07.93,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:19:09.39,0:19:10.98,Default,,0000,0000,0000,,Excuse me.
+Dialogue: 0,0:19:10.98,0:19:13.40,Default,,0000,0000,0000,,Oh, hello.
+Dialogue: 0,0:19:14.69,0:19:16.90,Default,,0000,0000,0000,,Good luck today.
+Dialogue: 0,0:19:16.90,0:19:19.90,Default,,0000,0000,0000,,Yes, thank you very much!
+Dialogue: 0,0:19:19.90,0:19:24.99,Default,,0000,0000,0000,,Um, here, take this.\NI got it from someone I know.
+Dialogue: 0,0:19:26.49,0:19:30.50,Default,,0000,0000,0000,,Oh! It's Mr. Sendo's new issue!
+Dialogue: 0,0:19:30.50,0:19:32.63,Default,,0000,0000,0000,,Thank you very much.
+Dialogue: 0,0:19:32.63,0:19:35.30,Default,,0000,0000,0000,,You know his doujinshi?
+Dialogue: 0,0:19:35.30,0:19:37.96,Default,,0000,0000,0000,,Huh? Uh, yes.
+Dialogue: 0,0:19:37.96,0:19:41.09,Default,,0000,0000,0000,,His manga is so good, isn't it?
+Dialogue: 0,0:19:41.09,0:19:42.09,Default,,0000,0000,0000,,Speaking of which,
+Dialogue: 0,0:19:42.09,0:19:45.85,Default,,0000,0000,0000,,I set up a date between him\Nand one of his fans a little while ago.
+Dialogue: 0,0:19:47.31,0:19:50.39,Default,,0000,0000,0000,,I was worried, so I secretly\Nfollowed them around,
+Dialogue: 0,0:19:50.39,0:19:52.77,Default,,0000,0000,0000,,but I lost sight of\Nthem in the middle of it.
+Dialogue: 0,0:19:52.77,0:19:55.57,Default,,0000,0000,0000,,I was in such a panic, and then...
+Dialogue: 0,0:19:55.57,0:19:58.36,Default,,0000,0000,0000,,Uh, say, I've been\Nwondering about something.
+Dialogue: 0,0:19:58.36,0:19:59.19,Default,,0000,0000,0000,,Yes?
+Dialogue: 0,0:19:59.19,0:20:01.32,Default,,0000,0000,0000,,Could it be...
+Dialogue: 0,0:20:01.32,0:20:02.99,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:20:06.95,0:20:09.29,Default,,0000,0000,0000,,Huh? It's you.
+Dialogue: 0,0:20:10.37,0:20:13.92,Default,,0000,0000,0000,,You didn't realize?
+Dialogue: 0,0:20:14.88,0:20:17.42,Default,,0000,0000,0000,,Oh, I didn't know!
+Dialogue: 0,0:20:22.63,0:20:26.14,Default,,0000,0000,0000,,I have to go thank Mr. Sendo again.
+Dialogue: 0,0:20:26.14,0:20:29.18,Default,,0000,0000,0000,,Do you like Kazuki's manga?
+Dialogue: 0,0:20:29.18,0:20:31.18,Default,,0000,0000,0000,,Yes! Very much!
+Dialogue: 0,0:20:31.18,0:20:32.64,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:20:32.64,0:20:34.77,Default,,0000,0000,0000,,I really like them too.
+Dialogue: 0,0:20:36.90,0:20:40.24,Default,,0000,0000,0000,,Miss Sakurai! It's almost time!
+Dialogue: 0,0:20:40.24,0:20:42.49,Default,,0000,0000,0000,,Oh, okay!
+Dialogue: 0,0:20:42.49,0:20:45.78,Default,,0000,0000,0000,,See you later, good luck.
+Dialogue: 0,0:20:45.78,0:20:47.45,Default,,0000,0000,0000,,Thanks!
+Dialogue: 0,0:20:50.83,0:20:55.42,Default,,0000,0000,0000,,Hello, everyone! I'm Asahi Sakurai!
+Dialogue: 0,0:21:00.46,0:21:05.18,Default,,0000,0000,0000,,Please listen to this new song that\NI've poured all of my feelings into!
+Dialogue: 0,0:21:14.06,0:21:18.19,Default,,0000,0000,0000,,{\i1}Ima sugu issho ni kurasou{\i0}
+Dialogue: 0,0:21:18.19,0:21:22.78,Default,,0000,0000,0000,,{\i1}Tarinai mono wa jikan dake{\i0}
+Dialogue: 0,0:21:22.78,0:21:26.78,Default,,0000,0000,0000,,{\i1}Egao mo namida mo hima mo{\i0}
+Dialogue: 0,0:21:26.78,0:21:31.29,Default,,0000,0000,0000,,{\i1}Wakeau basho ga hitsuyou deshou{\i0}
+Dialogue: 0,0:21:31.29,0:21:39.25,Default,,0000,0000,0000,,{\i1}Anata to nara itsu made mo{\i0}
+Dialogue: 0,0:21:40.55,0:21:44.97,Default,,0000,0000,0000,,{\i1}Mendou na koto ga kirai na{\i0}
+Dialogue: 0,0:21:44.97,0:21:49.26,Default,,0000,0000,0000,,{\i1}Anata no ude hiki nagara{\i0}
+Dialogue: 0,0:21:49.26,0:21:53.85,Default,,0000,0000,0000,,{\i1}Yatto mitsuketa 2LDK{\i0}
+Dialogue: 0,0:21:57.85,0:22:02.19,Default,,0000,0000,0000,,{\i1}Teeburu setto mo ii kedo{\i0}
+Dialogue: 0,0:22:02.19,0:22:06.45,Default,,0000,0000,0000,,{\i1}Kekkyoku wa kotatsu deshou{\i0}
+Dialogue: 0,0:22:06.45,0:22:10.28,Default,,0000,0000,0000,,{\i1}Futari nekorogaru dake{\i0}
+Dialogue: 0,0:22:10.28,0:22:15.21,Default,,0000,0000,0000,,{\i1}Igai ni daiji na jikan{\i0}
+Dialogue: 0,0:22:15.21,0:22:23.80,Default,,0000,0000,0000,,{\i1}Donna toki mo yurishiaeru hito{\i0}
+Dialogue: 0,0:22:23.80,0:22:27.34,Default,,0000,0000,0000,,{\i1}Kantan ni wa{\i0}
+Dialogue: 0,0:22:27.34,0:22:31.85,Default,,0000,0000,0000,,{\i1}Deanai anata dakara{\i0}
+Dialogue: 0,0:22:31.85,0:22:35.98,Default,,0000,0000,0000,,{\i1}Ima sugu issho ni kurasou{\i0}
+Dialogue: 0,0:22:35.98,0:22:40.65,Default,,0000,0000,0000,,{\i1}Tarinai mono wa jikan dake{\i0}
+Dialogue: 0,0:22:40.65,0:22:44.57,Default,,0000,0000,0000,,{\i1}Egao mo namida mo hima mo{\i0}
+Dialogue: 0,0:22:44.57,0:22:49.16,Default,,0000,0000,0000,,{\i1}Wakeau basho ga hitsuyou deshou {\i0}
+Dialogue: 0,0:22:49.16,0:22:58.37,Default,,0000,0000,0000,,{\i1}Anata to nara itsu made mo{\i0}
+Dialogue: 0,0:23:04.71,0:23:06.59,Default,,0000,0000,0000,,{\i1}The time has finally come!{\i0}
+Dialogue: 0,0:23:06.59,0:23:07.22,Default,,0000,0000,0000,,{\i1}Huh?{\i0}
+Dialogue: 0,0:23:07.22,0:23:08.26,Default,,0000,0000,0000,,{\i1}Cosplay Fight!{\i0}
+Dialogue: 0,0:23:08.26,0:23:11.34,Default,,0000,0000,0000,,{\i1}The contest to decide the strongest\Ncosplayer in the country, no, the world!{\i0}
+Dialogue: 0,0:23:11.34,0:23:13.51,Default,,0000,0000,0000,,{\i1}It's time for a showdown, Mizuki Takase!{\i0}
+Dialogue: 0,0:23:13.51,0:23:15.10,Default,,0000,0000,0000,,{\i1}I've heard that Mizuki\Nis going to quit cosplaying.{\i0}
+Dialogue: 0,0:23:15.10,0:23:16.10,Default,,0000,0000,0000,,{\i1}What are you saying?{\i0}
+Dialogue: 0,0:23:16.10,0:23:17.56,Default,,0000,0000,0000,,{\i1}If you beat Mizuki in this contest,{\i0}
+Dialogue: 0,0:23:17.56,0:23:19.73,Default,,0000,0000,0000,,{\i1}you'll get a boys love\Nbook written by Sendo!{\i0}
+Dialogue: 0,0:23:19.73,0:23:22.02,Default,,0000,0000,0000,,{\i1}Seriously? I'll do it! I'm going for the win!{\i0}
+Dialogue: 0,0:23:22.02,0:23:24.36,Default,,0000,0000,0000,,{\i1}Then we'll get his first boys love book!{\i0}
+Dialogue: 0,0:23:24.36,0:23:27.69,Default,,0000,0000,0000,,{\i1}Boys love book, boys love book,\Na Kazuki Sendo boys love book!{\i0}
+Dialogue: 0,0:23:27.69,0:23:30.28,Default,,0000,0000,0000,,{\i1}Next time: "Fierce Battle! Cosplay Fight!"{\i0}
+Dialogue: 0,0:23:30.28,0:23:32.41,Default,,0000,0000,0000,,{\i1}I'm not gonna lose!{\i0}

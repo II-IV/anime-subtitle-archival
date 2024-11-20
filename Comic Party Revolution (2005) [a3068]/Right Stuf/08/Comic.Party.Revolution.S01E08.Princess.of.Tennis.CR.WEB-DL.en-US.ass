@@ -1,0 +1,377 @@
+[Script Info]
+Title: English (US)
+Original Script: TBS  [http://www.crunchyroll.com/user/TBS]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: On Top Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:15.09,0:00:21.85,Default,,0000,0000,0000,,{\i1}Fui ni anata wa watashi\Nno te o tsunaide kureta{\i0}
+Dialogue: 0,0:00:21.85,0:00:27.02,Default,,0000,0000,0000,,{\i1}Hitogomi no naka hagurenai you ni{\i0}
+Dialogue: 0,0:00:28.57,0:00:35.36,Default,,0000,0000,0000,,{\i1}Sugoku ureshikute\Numaku nigirikaesenakute{\i0}
+Dialogue: 0,0:00:35.36,0:00:40.74,Default,,0000,0000,0000,,{\i1}Koi o shiteru tte kizuita ano hi{\i0}
+Dialogue: 0,0:00:41.24,0:00:44.87,Default,,0000,0000,0000,,{\i1}Hajimari wa tomodachi{\i0}
+Dialogue: 0,0:00:44.87,0:00:49.75,Default,,0000,0000,0000,,{\i1}Sono kyoukaisen koete{\i0}
+Dialogue: 0,0:00:49.75,0:00:54.38,Default,,0000,0000,0000,,{\i1}Futari hashiridasou{\i0}
+Dialogue: 0,0:00:55.55,0:01:02.39,Default,,0000,0000,0000,,{\i1}Mou osaekirenai nakechau hodo ni{\i0}
+Dialogue: 0,0:01:02.39,0:01:05.73,Default,,0000,0000,0000,,{\i1}Anata no koto ga daisuki{\i0}
+Dialogue: 0,0:01:05.73,0:01:09.11,Default,,0000,0000,0000,,{\i1}Nee, uso wa tsukenai{\i0}
+Dialogue: 0,0:01:09.11,0:01:15.74,Default,,0000,0000,0000,,{\i1}Mou tomenakute ii terechau keredo{\i0}
+Dialogue: 0,0:01:15.74,0:01:19.24,Default,,0000,0000,0000,,{\i1}Watashi zenbu uketomete{\i0}
+Dialogue: 0,0:01:19.24,0:01:25.46,Default,,0000,0000,0000,,{\i1}Sou, kore kara mo zutto{\i0}
+Dialogue: 0,0:01:40.05,0:01:42.72,Default,,0000,0000,0000,,{\an8}"Princess of Tennis (tentative)" {\an}
+Dialogue: 0,0:01:42.72,0:01:43.89,Default,,0000,0000,0000,,{\an8}"Princess of Tennis (tentative)"\N"Yoyomori Hospital"{\an}
+Dialogue: 0,0:01:43.89,0:01:45.93,Default,,0000,0000,0000,,{\an8}"Yoyomori Hospital" {\an}
+Dialogue: 0,0:02:07.04,0:02:11.13,Default,,0000,0000,0000,,I-Wonder-Where-I-Can-Get-\N5,000-Copies-of-My-Next-Issue-Printed
+Dialogue: 0,0:02:11.13,0:02:13.29,Default,,0000,0000,0000,,{\i1}Serve{\i0}!
+Dialogue: 0,0:02:14.21,0:02:16.88,Default,,0000,0000,0000,,The system can only\Nhandle 2,000 copies at once,
+Dialogue: 0,0:02:16.88,0:02:19.09,Default,,0000,0000,0000,,but for 5,000 copies\Nthe price would be...
+Dialogue: 0,0:02:20.47,0:02:21.97,Default,,0000,0000,0000,,15-Love!
+Dialogue: 0,0:02:21.97,0:02:24.31,Default,,0000,0000,0000,,And-of-Course-the-\NCover-Will-be-Full-Color
+Dialogue: 0,0:02:24.31,0:02:26.22,Default,,0000,0000,0000,,{\i1}Serve{\i0}!
+Dialogue: 0,0:02:27.14,0:02:28.31,Default,,0000,0000,0000,,Full color?
+Dialogue: 0,0:02:28.31,0:02:29.44,Default,,0000,0000,0000,,Along with the regular colors,
+Dialogue: 0,0:02:29.44,0:02:30.98,Default,,0000,0000,0000,,you're going to order\Nfluorescent colors and leafing?
+Dialogue: 0,0:02:30.98,0:02:34.94,Default,,0000,0000,0000,,In that case, the additional\Nfee would be... well, well...
+Dialogue: 0,0:02:34.94,0:02:36.57,Default,,0000,0000,0000,,30-Love!
+Dialogue: 0,0:02:36.57,0:02:39.36,Default,,0000,0000,0000,,While-I'm-at-it-I-Might-as-\NWell-Include-the-Paper-Too
+Dialogue: 0,0:02:39.36,0:02:41.07,Default,,0000,0000,0000,,{\i1}Serve{\i0}!
+Dialogue: 0,0:02:41.07,0:02:42.53,Default,,0000,0000,0000,,The paper is going to have leafing too?
+Dialogue: 0,0:02:42.53,0:02:45.49,Default,,0000,0000,0000,,Big Sister Eimi, thank you so\Nmuch for your business as always!
+Dialogue: 0,0:02:47.33,0:02:50.00,Default,,0000,0000,0000,,Daiei Ryuu "hidden" ultimate technique!
+Dialogue: 0,0:02:50.00,0:02:52.42,Default,,0000,0000,0000,,Justice Return!
+Dialogue: 0,0:02:52.42,0:02:53.71,Default,,0000,0000,0000,,You're too soft, Subie!
+Dialogue: 0,0:02:53.71,0:02:58.55,Default,,0000,0000,0000,,Tsutenkaku Fall!
+Dialogue: 0,0:03:01.76,0:03:03.60,Default,,0000,0000,0000,,40-Love.
+Dialogue: 0,0:03:03.60,0:03:06.14,Default,,0000,0000,0000,,{\i1}So flexibility is stronger\Nthan stiffness, huh?{\i0}
+Dialogue: 0,0:03:06.14,0:03:08.81,Default,,0000,0000,0000,,{\i1}Subaru Mikage definitely isn't weak, either.{\i0}
+Dialogue: 0,0:03:08.81,0:03:11.94,Default,,0000,0000,0000,,{\i1}However, she had a bad opponent...{\i0}
+Dialogue: 0,0:03:11.94,0:03:14.98,Default,,0000,0000,0000,,{\i1}Now then, what are you going to do,{\i0}
+Dialogue: 0,0:03:14.98,0:03:17.15,Default,,0000,0000,0000,,{\i1}Comrade Mizuki?{\i0}
+Dialogue: 0,0:03:18.32,0:03:20.24,Default,,0000,0000,0000,,Big Sister Mizuki...
+Dialogue: 0,0:03:22.41,0:03:23.66,Default,,0000,0000,0000,,Ikumi!
+Dialogue: 0,0:03:23.66,0:03:26.91,Default,,0000,0000,0000,,Big Sister Mizuki, what's wrong?
+Dialogue: 0,0:03:30.29,0:03:31.96,Default,,0000,0000,0000,,Ikumi!
+Dialogue: 0,0:03:33.04,0:03:36.04,Default,,0000,0000,0000,,I'm okay. This always happens.
+Dialogue: 0,0:03:36.04,0:03:38.00,Default,,0000,0000,0000,,But!
+Dialogue: 0,0:03:38.00,0:03:40.51,Default,,0000,0000,0000,,I'm fine, really.
+Dialogue: 0,0:03:40.51,0:03:44.97,Default,,0000,0000,0000,,Because I can finally play\Ntennis with you, Big Sister Mizuki!
+Dialogue: 0,0:03:46.05,0:03:50.18,Default,,0000,0000,0000,,{\i1}Even Ikumi is trying so hard.{\i0}
+Dialogue: 0,0:03:50.18,0:03:53.77,Default,,0000,0000,0000,,{\i1}I can do it too! I can do it too!{\i0}
+Dialogue: 0,0:03:53.77,0:03:56.48,Default,,0000,0000,0000,,Ikumi, let's do our\Nbest! Let's be sure to win!
+Dialogue: 0,0:03:56.48,0:03:58.23,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:03:58.23,0:04:02.57,Default,,0000,0000,0000,,Game set! Match won\Nby the Ohba-Inagawa pair!
+Dialogue: 0,0:04:08.24,0:04:09.58,Default,,0000,0000,0000,,Marvelous!
+Dialogue: 0,0:04:11.20,0:04:13.25,Default,,0000,0000,0000,,Excellent!
+Dialogue: 0,0:04:13.25,0:04:14.58,Default,,0000,0000,0000,,Nice!
+Dialogue: 0,0:04:21.76,0:04:25.59,Default,,0000,0000,0000,,Go easy on me, Mizuki.
+Dialogue: 0,0:04:25.59,0:04:29.43,Default,,0000,0000,0000,,Same here, Sakurai!
+Dialogue: 0,0:04:29.43,0:04:31.60,Default,,0000,0000,0000,,I don't intend to lose.
+Dialogue: 0,0:04:37.44,0:04:39.98,Default,,0000,0000,0000,,{\i1}I can't lose either!{\i0}
+Dialogue: 0,0:04:43.15,0:04:46.61,Default,,0000,0000,0000,,{\i1}I've tried so hard...{\i0}
+Dialogue: 0,0:04:46.61,0:04:48.37,Default,,0000,0000,0000,,{\i1}There's no way I'm going to lose.{\i0}
+Dialogue: 0,0:04:49.62,0:04:52.91,Default,,0000,0000,0000,,"Card Master Peach"
+Dialogue: 0,0:05:12.89,0:05:16.31,Default,,0000,0000,0000,,Good work. Thank you very much.
+Dialogue: 0,0:05:17.81,0:05:19.98,Default,,0000,0000,0000,,Game set!
+Dialogue: 0,0:05:19.98,0:05:24.49,Default,,0000,0000,0000,,Match won by the Takase-Tachikawa pair!
+Dialogue: 0,0:05:24.49,0:05:29.70,Default,,0000,0000,0000,,Even I, who has the power of being\NAsahi Fan Club member number one...
+Dialogue: 0,0:05:29.70,0:05:32.99,Default,,0000,0000,0000,,Even I couldn't make her win?
+Dialogue: 0,0:05:32.99,0:05:34.70,Default,,0000,0000,0000,,I can't believe it.
+Dialogue: 0,0:05:34.70,0:05:37.87,Default,,0000,0000,0000,,Good game, Sakurai.
+Dialogue: 0,0:05:37.87,0:05:39.29,Default,,0000,0000,0000,,Mizuki...
+Dialogue: 0,0:05:39.29,0:05:44.76,Default,,0000,0000,0000,,How could I lose? I tried so hard.
+Dialogue: 0,0:05:44.76,0:05:46.42,Default,,0000,0000,0000,,How?
+Dialogue: 0,0:05:50.18,0:05:52.81,Default,,0000,0000,0000,,Let's play again some time.
+Dialogue: 0,0:05:57.06,0:06:00.86,Default,,0000,0000,0000,,A major leaguer training brace?
+Dialogue: 0,0:06:00.86,0:06:04.36,Default,,0000,0000,0000,,I can't believe she played a\Nmatch wearing something like that.
+Dialogue: 0,0:06:12.78,0:06:15.62,Default,,0000,0000,0000,,So, you've gotten this powerful?
+Dialogue: 0,0:06:15.62,0:06:18.21,Default,,0000,0000,0000,,To think that you've left\Nmy expectations in the dust...
+Dialogue: 0,0:06:18.21,0:06:20.00,Default,,0000,0000,0000,,Truly frightening, Mizuki Takase.
+Dialogue: 0,0:06:22.29,0:06:25.21,Default,,0000,0000,0000,,Heh, heh, heh, indeed.
+Dialogue: 0,0:06:25.21,0:06:28.47,Default,,0000,0000,0000,,Uh-huh...
+Dialogue: 0,0:06:33.89,0:06:35.89,Default,,0000,0000,0000,,I-Don't-Know-Who-is-Who
+Dialogue: 0,0:06:35.89,0:06:37.39,Default,,0000,0000,0000,,{\i1}Serve{\i0}!
+Dialogue: 0,0:06:37.93,0:06:39.02,Default,,0000,0000,0000,,Yuka, it's yours!
+Dialogue: 0,0:06:39.02,0:06:40.10,Default,,0000,0000,0000,,Mayu, get it!
+Dialogue: 0,0:06:40.10,0:06:42.69,Default,,0000,0000,0000,,Miho, I'm counting on you!
+Dialogue: 0,0:06:42.69,0:06:44.23,Default,,0000,0000,0000,,15-Love.
+Dialogue: 0,0:06:44.23,0:06:46.61,Default,,0000,0000,0000,,It's-the-Same-Picture-in-\NBoth-Summer-and-Winter
+Dialogue: 0,0:06:46.61,0:06:48.28,Default,,0000,0000,0000,,{\i1}Serve{\i0}!
+Dialogue: 0,0:06:48.95,0:06:50.20,Default,,0000,0000,0000,,Yuka, volley it!
+Dialogue: 0,0:06:50.20,0:06:51.78,Default,,0000,0000,0000,,Mayu, I'm sure you can reach it!
+Dialogue: 0,0:06:51.78,0:06:54.74,Default,,0000,0000,0000,,Miho, get it!
+Dialogue: 0,0:06:54.74,0:06:56.33,Default,,0000,0000,0000,,30-Love.
+Dialogue: 0,0:06:56.33,0:06:59.29,Default,,0000,0000,0000,,Even-Though-There's-No-\NSingles-Event-You'd-Better-Back-Off
+Dialogue: 0,0:06:59.29,0:07:00.87,Default,,0000,0000,0000,,Serve!
+Dialogue: 0,0:07:00.87,0:07:01.96,Default,,0000,0000,0000,,Yuka, return it!
+Dialogue: 0,0:07:01.96,0:07:03.29,Default,,0000,0000,0000,,Mayu, I believe in you!
+Dialogue: 0,0:07:03.29,0:07:05.21,Default,,0000,0000,0000,,Miho, you can make it on time!
+Dialogue: 0,0:07:06.25,0:07:07.59,Default,,0000,0000,0000,,40-Love.
+Dialogue: 0,0:07:07.59,0:07:10.34,Default,,0000,0000,0000,,--Umm-Umm-Yay-Yay-Kagoshima-Musume
+Dialogue: 0,0:07:10.34,0:07:12.09,Default,,0000,0000,0000,,--That should be Kashimashi Musume.\N--Umm-Umm-Yay-Yay-Kagoshima-Musume
+Dialogue: 0,0:07:12.09,0:07:13.68,Default,,0000,0000,0000,,{\i1}Serve{\i0}!
+Dialogue: 0,0:07:13.68,0:07:15.14,Default,,0000,0000,0000,,Yuka, I choose you!
+Dialogue: 0,0:07:15.14,0:07:16.85,Default,,0000,0000,0000,,Mayu, one million volts!
+Dialogue: 0,0:07:16.85,0:07:18.85,Default,,0000,0000,0000,,Pika!
+Dialogue: 0,0:07:20.60,0:07:24.94,Default,,0000,0000,0000,,Game set! Match won\Nby the Ohba-Inagawa pair!
+Dialogue: 0,0:07:24.94,0:07:28.15,Default,,0000,0000,0000,,{\i1}They won in the face of a 2 to 3 handicap.{\i0}
+Dialogue: 0,0:07:28.15,0:07:31.61,Default,,0000,0000,0000,,{\i1}You are the only one who\Ncan stop these two after all.{\i0}
+Dialogue: 0,0:07:31.61,0:07:34.57,Default,,0000,0000,0000,,Aren't they treating us a little rough?
+Dialogue: 0,0:07:34.57,0:07:39.41,Default,,0000,0000,0000,,To a small, weak yaoi circle,\Nthe world is a harsh place.
+Dialogue: 0,0:07:39.41,0:07:42.29,Default,,0000,0000,0000,,We're just extras anyway.
+Dialogue: 0,0:07:42.29,0:07:45.00,Default,,0000,0000,0000,,Man, they didn't put\Nup any resistance at all!
+Dialogue: 0,0:07:45.00,0:07:47.34,Default,,0000,0000,0000,,Well, it was only natural we'd win anyway.
+Dialogue: 0,0:07:47.34,0:07:50.84,Default,,0000,0000,0000,,We're in a whole different\Nbrass! Yup, different brass!
+Dialogue: 0,0:07:50.84,0:07:53.68,Default,,0000,0000,0000,,That's "class", you moron.
+Dialogue: 0,0:07:53.68,0:07:57.60,Default,,0000,0000,0000,,Well anyway, if all goes\Nwell, we'll be playin' Mizuki next.
+Dialogue: 0,0:07:57.60,0:08:01.31,Default,,0000,0000,0000,,We'll finally be able to play an\Nopponent with some backbone!
+Dialogue: 0,0:08:03.31,0:08:06.56,Default,,0000,0000,0000,,"Takase"
+Dialogue: 0,0:08:11.78,0:08:14.24,Default,,0000,0000,0000,,"Yoyomori Hospital"
+Dialogue: 0,0:08:17.16,0:08:19.66,Default,,0000,0000,0000,,She said it's just an exam, but...
+Dialogue: 0,0:08:19.66,0:08:22.25,Default,,0000,0000,0000,,I wonder if Ikumi will be all right?
+Dialogue: 0,0:08:29.92,0:08:33.76,Default,,0000,0000,0000,,Ikumi's big brother...
+Dialogue: 0,0:08:33.76,0:08:36.34,Default,,0000,0000,0000,,I'm begging you, please\Nwithdraw from the next game!
+Dialogue: 0,0:08:36.34,0:08:38.51,Default,,0000,0000,0000,,What are you saying?
+Dialogue: 0,0:08:38.51,0:08:43.81,Default,,0000,0000,0000,,Ikumi can only exercise\Nfor 30 minutes a day.
+Dialogue: 0,0:08:43.81,0:08:48.61,Default,,0000,0000,0000,,And I'm afraid the next game won't\Nend before those 30 minutes are up!
+Dialogue: 0,0:08:48.61,0:08:50.11,Default,,0000,0000,0000,,Oh, no...
+Dialogue: 0,0:08:50.11,0:08:54.86,Default,,0000,0000,0000,,She's the kind of person who\Nhangs on no matter how tough it gets.
+Dialogue: 0,0:08:54.86,0:08:57.16,Default,,0000,0000,0000,,So please!
+Dialogue: 0,0:08:57.16,0:09:00.45,Default,,0000,0000,0000,,You're the only one who can stop Ikumi!
+Dialogue: 0,0:09:00.45,0:09:04.83,Default,,0000,0000,0000,,Oh no... What should I do?
+Dialogue: 0,0:09:06.21,0:09:07.33,Default,,0000,0000,0000,,Ikumi!
+Dialogue: 0,0:09:07.33,0:09:09.67,Default,,0000,0000,0000,,Ikumi! What about your condition?!
+Dialogue: 0,0:09:09.67,0:09:11.67,Default,,0000,0000,0000,,Big Sister Mizuki...
+Dialogue: 0,0:09:13.51,0:09:14.26,Default,,0000,0000,0000,,Ikumi!
+Dialogue: 0,0:09:14.26,0:09:15.26,Default,,0000,0000,0000,,Ikumi! Ikumi!
+Dialogue: 0,0:09:15.26,0:09:17.05,Default,,0000,0000,0000,,There are...
+Dialogue: 0,0:09:17.05,0:09:19.72,Default,,0000,0000,0000,,There are very few things that I can enjoy.
+Dialogue: 0,0:09:19.72,0:09:24.89,Default,,0000,0000,0000,,But one of them is the tennis court\NI can see from the hospital window.
+Dialogue: 0,0:09:26.23,0:09:28.31,Default,,0000,0000,0000,,Kazuki...
+Dialogue: 0,0:09:28.31,0:09:33.07,Default,,0000,0000,0000,,And the person who\Nwas always with him...
+Dialogue: 0,0:09:37.91,0:09:41.79,Default,,0000,0000,0000,,At first, she was just a mob\Ncharacter who attracted my attention
+Dialogue: 0,0:09:41.79,0:09:43.54,Default,,0000,0000,0000,,--just because she was close to Kazuki.\N--I won!
+Dialogue: 0,0:09:43.54,0:09:45.71,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:10:00.64,0:10:04.56,Default,,0000,0000,0000,,Big Sister Mizuki taught me tennis.
+Dialogue: 0,0:10:04.56,0:10:08.06,Default,,0000,0000,0000,,She made a tiny little\Ndream of mine come true.
+Dialogue: 0,0:10:08.06,0:10:10.90,Default,,0000,0000,0000,,So, I...
+Dialogue: 0,0:10:21.12,0:10:25.87,Default,,0000,0000,0000,,Big Sister Mizuki, I want to play tennis.
+Dialogue: 0,0:10:25.87,0:10:29.37,Default,,0000,0000,0000,,Ikumi...
+Dialogue: 0,0:10:29.37,0:10:32.00,Default,,0000,0000,0000,,Ikumi?
+Dialogue: 0,0:10:32.00,0:10:34.75,Default,,0000,0000,0000,,Let's go.
+Dialogue: 0,0:10:34.75,0:10:37.47,Default,,0000,0000,0000,,To our court!
+Dialogue: 0,0:10:37.47,0:10:38.80,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:10:43.68,0:10:45.02,Default,,0000,0000,0000,,Ikumi!
+Dialogue: 0,0:10:53.94,0:10:56.15,Default,,0000,0000,0000,,It sure is quiet today.
+Dialogue: 0,0:10:57.32,0:10:58.49,Default,,0000,0000,0000,,Ow!
+Dialogue: 0,0:10:58.49,0:11:00.57,Default,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:11:00.57,0:11:02.53,Default,,0000,0000,0000,,Nothing!
+Dialogue: 0,0:11:12.00,0:11:13.92,Default,,0000,0000,0000,,Who in the world would do this?
+Dialogue: 0,0:11:16.67,0:11:19.84,Default,,0000,0000,0000,,Big Sister Mizuki, it's time to go.
+Dialogue: 0,0:11:19.84,0:11:21.68,Default,,0000,0000,0000,,Right, okay.
+Dialogue: 0,0:11:24.22,0:11:25.43,Default,,0000,0000,0000,,Let's go.
+Dialogue: 0,0:11:25.43,0:11:26.77,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:11:29.48,0:11:32.40,Default,,0000,0000,0000,,{\i1}Comic Party Revolution!{\i0}
+Dialogue: 0,0:11:35.36,0:11:36.94,Default,,0000,0000,0000,,{\i1}Comic Party{\i0}
+Dialogue: 0,0:11:36.94,0:11:38.78,Default,,0000,0000,0000,,{\i1}Revolution!{\i0}
+Dialogue: 0,0:11:52.83,0:11:54.58,Default,,0000,0000,0000,,30-Love!
+Dialogue: 0,0:11:56.84,0:11:58.25,Default,,0000,0000,0000,,Big Sister...
+Dialogue: 0,0:12:08.56,0:12:11.10,Default,,0000,0000,0000,,40-Love!
+Dialogue: 0,0:12:11.10,0:12:12.77,Default,,0000,0000,0000,,Time out!
+Dialogue: 0,0:12:14.02,0:12:16.65,Default,,0000,0000,0000,,Mizuki, are you going to withdraw?
+Dialogue: 0,0:12:16.65,0:12:18.78,Default,,0000,0000,0000,,I'll be fine.
+Dialogue: 0,0:12:18.78,0:12:20.36,Default,,0000,0000,0000,,Don't be so full of yourself.
+Dialogue: 0,0:12:20.36,0:12:22.82,Default,,0000,0000,0000,,They're too good for you\Nto win against in that condition.
+Dialogue: 0,0:12:22.82,0:12:27.41,Default,,0000,0000,0000,,Don't tell anyone. I can't give up now.
+Dialogue: 0,0:12:29.83,0:12:31.37,Default,,0000,0000,0000,,Very well.
+Dialogue: 0,0:12:33.25,0:12:36.00,Default,,0000,0000,0000,,Is Mizuki hurt?
+Dialogue: 0,0:12:36.00,0:12:37.54,Default,,0000,0000,0000,,So, you noticed.
+Dialogue: 0,0:12:37.54,0:12:41.17,Default,,0000,0000,0000,,Of course! But I wonder what happened?
+Dialogue: 0,0:12:41.17,0:12:44.26,Default,,0000,0000,0000,,Miss Ohba, the strategy was a success.
+Dialogue: 0,0:12:44.26,0:12:45.93,Default,,0000,0000,0000,,Hmm?
+Dialogue: 0,0:12:46.09,0:12:50.27,Default,,0000,0000,0000,,That ponytail girl isn't up to\Neven half of her usual ability.
+Dialogue: 0,0:12:52.52,0:12:55.06,Default,,0000,0000,0000,,Hey, what did you guys do?
+Dialogue: 0,0:12:55.06,0:12:56.90,Default,,0000,0000,0000,,Must you even ask?
+Dialogue: 0,0:12:56.90,0:12:59.82,Default,,0000,0000,0000,,In order to ensure that Eimi\NOhba is the winner of this battle...
+Dialogue: 0,0:12:59.82,0:13:02.32,Default,,0000,0000,0000,,We have thwarted your strongest enemy.
+Dialogue: 0,0:13:02.32,0:13:04.65,Default,,0000,0000,0000,,Why did you do something like that?
+Dialogue: 0,0:13:04.65,0:13:06.53,Default,,0000,0000,0000,,There is no need to thank us.
+Dialogue: 0,0:13:06.53,0:13:11.54,Default,,0000,0000,0000,,We'd just like you to give us\Npriority in buying your next issue.
+Dialogue: 0,0:13:11.54,0:13:13.96,Default,,0000,0000,0000,,What have you guys done?!
+Dialogue: 0,0:13:13.96,0:13:17.21,Default,,0000,0000,0000,,It's all for "Cat or Fish."
+Dialogue: 0,0:13:17.21,0:13:22.38,Default,,0000,0000,0000,,Not only that, I got a\Npicture of Asahi! I'm so lucky!
+Dialogue: 0,0:13:22.38,0:13:24.05,Default,,0000,0000,0000,,I preserved the moment in a movie.
+Dialogue: 0,0:13:24.05,0:13:24.88,Default,,0000,0000,0000,,--Oh, so that's what happened.
+Dialogue: 0,0:13:24.88,0:13:26.30,Default,,0000,0000,0000,,--We're lucky, lucky, lucky!\N--Oh, so that's what happened.
+Dialogue: 0,0:13:26.30,0:13:28.85,Default,,0000,0000,0000,,--We're lucky, lucky, lucky!\N--Gulp!
+Dialogue: 0,0:13:28.85,0:13:32.47,Default,,0000,0000,0000,,Yay! Yay! Yay!
+Dialogue: 0,0:13:34.27,0:13:36.81,Default,,0000,0000,0000,,That's no fair!
+Dialogue: 0,0:13:36.81,0:13:38.98,Default,,0000,0000,0000,,Foul play is wrong!
+Dialogue: 0,0:13:38.98,0:13:41.86,Default,,0000,0000,0000,,You shouldn't take\Npictures without permission!
+Dialogue: 0,0:13:41.86,0:13:44.32,Default,,0000,0000,0000,,No fair.
+Dialogue: 0,0:13:44.32,0:13:45.36,Default,,0000,0000,0000,,No way!
+Dialogue: 0,0:13:45.36,0:13:46.65,Default,,0000,0000,0000,,Are you serious?
+Dialogue: 0,0:13:46.65,0:13:48.32,Default,,0000,0000,0000,,I can't believe it!
+Dialogue: 0,0:13:48.32,0:13:49.74,Default,,0000,0000,0000,,Eimi Ohba!
+Dialogue: 0,0:13:49.74,0:13:52.54,Default,,0000,0000,0000,,To think that you used your fans\Nas pawns in order to gain victory...
+Dialogue: 0,0:13:52.54,0:13:54.33,Default,,0000,0000,0000,,{\i1}What a foolish move{\i0}!
+Dialogue: 0,0:13:54.33,0:13:59.00,Default,,0000,0000,0000,,Wait! They did it on their own! I didn't...
+Dialogue: 0,0:13:59.00,0:14:02.84,Default,,0000,0000,0000,,Eimi, they're your fans, so you should\Nbe sure to keep proper control of them!
+Dialogue: 0,0:14:02.84,0:14:05.97,Default,,0000,0000,0000,,Like I said, they did this on their own!
+Dialogue: 0,0:14:05.97,0:14:07.55,Default,,0000,0000,0000,,How many times do I have to tell you?
+Dialogue: 0,0:14:07.55,0:14:10.35,Default,,0000,0000,0000,,What did we even do in the first place?
+Dialogue: 0,0:14:12.10,0:14:13.52,Default,,0000,0000,0000,,That's right.
+Dialogue: 0,0:14:13.52,0:14:17.31,Default,,0000,0000,0000,,We didn't put thumbtacks\Nand stuff in her shoes or anything.
+Dialogue: 0,0:14:18.56,0:14:21.48,Default,,0000,0000,0000,,Moron! Stop provoking Maki!
+Dialogue: 0,0:14:21.48,0:14:25.03,Default,,0000,0000,0000,,You should have just\Ncome clean and apologized.
+Dialogue: 0,0:14:25.03,0:14:30.41,Default,,0000,0000,0000,,Difficult children make Big\NSister just a little bit angry, you know?
+Dialogue: 0,0:14:30.41,0:14:32.37,Default,,0000,0000,0000,,Maki has opened her eyes?!
+Dialogue: 0,0:14:32.37,0:14:35.41,Default,,0000,0000,0000,,She's the person closest to God!
+Dialogue: 0,0:14:36.37,0:14:39.17,Default,,0000,0000,0000,,Joint responsibility!
+Dialogue: 0,0:14:41.42,0:14:43.88,Default,,0000,0000,0000,,Nooooo!
+Dialogue: 0,0:14:47.13,0:14:49.13,Default,,0000,0000,0000,,"Banned from selling"
+Dialogue: 0,0:14:49.22,0:14:53.39,Default,,0000,0000,0000,,I'm in distress...
+Dialogue: 0,0:14:54.14,0:14:58.06,Default,,0000,0000,0000,,Looks like I'll have to take\Nresponsibility for what that moron did.
+Dialogue: 0,0:14:59.56,0:15:01.60,Default,,0000,0000,0000,,We withdraw.
+Dialogue: 0,0:15:01.60,0:15:04.94,Default,,0000,0000,0000,,Understood.
+Dialogue: 0,0:15:04.94,0:15:06.61,Default,,0000,0000,0000,,However...
+Dialogue: 0,0:15:08.40,0:15:10.41,Default,,0000,0000,0000,,We'll be fine.
+Dialogue: 0,0:15:10.41,0:15:12.41,Default,,0000,0000,0000,,Please continue the game.
+Dialogue: 0,0:15:12.41,0:15:13.99,Default,,0000,0000,0000,,Very well!
+Dialogue: 0,0:15:13.99,0:15:15.74,Default,,0000,0000,0000,,Let's get back to the game!
+Dialogue: 0,0:15:15.74,0:15:17.75,Default,,0000,0000,0000,,Understood.
+Dialogue: 0,0:15:17.75,0:15:19.58,Default,,0000,0000,0000,,Fine.
+Dialogue: 0,0:15:19.58,0:15:21.88,Default,,0000,0000,0000,,Even against a rabbit,
+Dialogue: 0,0:15:21.88,0:15:25.25,Default,,0000,0000,0000,,a lion will bring the\Nprey down with full force.
+Dialogue: 0,0:15:25.80,0:15:27.42,Default,,0000,0000,0000,,Even if you are wounded,
+Dialogue: 0,0:15:27.42,0:15:30.01,Default,,0000,0000,0000,,we will not go easy on you!
+Dialogue: 0,0:15:33.09,0:15:35.10,Default,,0000,0000,0000,,I was so close!
+Dialogue: 0,0:15:41.60,0:15:43.06,Default,,0000,0000,0000,,Don't give up.
+Dialogue: 0,0:15:43.06,0:15:46.27,Default,,0000,0000,0000,,The moment you give up, the game is over.
+Dialogue: 0,0:15:47.03,0:15:48.65,Default,,0000,0000,0000,,Coach!
+Dialogue: 0,0:15:50.49,0:15:54.57,Default,,0000,0000,0000,,Remember all of the\Nspecial training you went through.
+Dialogue: 0,0:15:54.57,0:15:57.62,Default,,0000,0000,0000,,Takase, now is the\Ntime to take off the brace!
+Dialogue: 0,0:15:59.83,0:16:02.08,Default,,0000,0000,0000,,I'm not gonna lose!
+Dialogue: 0,0:16:11.22,0:16:14.05,Default,,0000,0000,0000,,40-15!
+Dialogue: 0,0:16:14.05,0:16:15.60,Default,,0000,0000,0000,,Impossible!
+Dialogue: 0,0:16:15.60,0:16:19.39,Default,,0000,0000,0000,,I can't believe even I couldn't return it!
+Dialogue: 0,0:16:21.81,0:16:24.23,Default,,0000,0000,0000,,The game's just getting started!
+Dialogue: 0,0:16:24.23,0:16:26.86,Default,,0000,0000,0000,,{\i1}Big Sister Mizuki is amazing...{\i0}
+Dialogue: 0,0:16:26.86,0:16:30.82,Default,,0000,0000,0000,,{\i1}I... I really do...{\i0}
+Dialogue: 0,0:16:34.61,0:16:36.16,Default,,0000,0000,0000,,Game set!
+Dialogue: 0,0:16:36.16,0:16:38.33,Default,,0000,0000,0000,,Match won by the Takase-Tachikawa pair!
+Dialogue: 0,0:16:38.33,0:16:40.33,Default,,0000,0000,0000,,We did it!
+Dialogue: 0,0:16:40.33,0:16:43.04,Default,,0000,0000,0000,,That was a good game, wasn't it?
+Dialogue: 0,0:16:44.50,0:16:48.00,Default,,0000,0000,0000,,Well done, Takase!
+Dialogue: 0,0:16:48.00,0:16:51.17,Default,,0000,0000,0000,,You did it! Mizuki!
+Dialogue: 0,0:16:51.17,0:16:54.47,Default,,0000,0000,0000,,The Ohba-Inagawa pair withdrew.
+Dialogue: 0,0:16:54.47,0:17:02.27,Default,,0000,0000,0000,,Which means you win,\NMizuki Takase and Ikumi Tachikawa.
+Dialogue: 0,0:17:03.60,0:17:05.90,Default,,0000,0000,0000,,Is there something wrong?
+Dialogue: 0,0:17:05.90,0:17:09.36,Default,,0000,0000,0000,,There's still one last game left.
+Dialogue: 0,0:17:09.36,0:17:12.15,Default,,0000,0000,0000,,Isn't that right, Ikumi?
+Dialogue: 0,0:17:12.15,0:17:15.86,Default,,0000,0000,0000,,Yes, Big Sister Mizu... I mean, Mizuki.
+Dialogue: 0,0:17:15.86,0:17:17.12,Default,,0000,0000,0000,,What?!
+Dialogue: 0,0:17:17.12,0:17:18.37,Default,,0000,0000,0000,,I can't fight!
+Dialogue: 0,0:17:18.37,0:17:19.37,Default,,0000,0000,0000,,Don't be so soft!
+Dialogue: 0,0:17:19.37,0:17:19.95,Default,,0000,0000,0000,,But!
+Dialogue: 0,0:17:19.95,0:17:21.41,Default,,0000,0000,0000,,Then I'll do it instead!
+Dialogue: 0,0:17:21.41,0:17:23.54,Default,,0000,0000,0000,,Chiharu, run!
+Dialogue: 0,0:17:29.88,0:17:31.67,Default,,0000,0000,0000,,Why do those two...
+Dialogue: 0,0:17:31.67,0:17:34.38,Default,,0000,0000,0000,,Have to fight each other?
+Dialogue: 0,0:17:35.88,0:17:38.55,Default,,0000,0000,0000,,The main heroine and the hidden heroine...
+Dialogue: 0,0:17:38.55,0:17:40.89,Default,,0000,0000,0000,,It was destined to\Ncome to this at some point.
+Dialogue: 0,0:17:40.89,0:17:46.27,Default,,0000,0000,0000,,Hold it! The real heroine is me,\NQueen Eimi Ohba the Great!
+Dialogue: 0,0:17:46.27,0:17:49.15,Default,,0000,0000,0000,,Yeah, yeah, could you\Nplease quiet down a little?
+Dialogue: 0,0:17:49.15,0:17:51.02,Default,,0000,0000,0000,,I'll get angry again.
+Dialogue: 0,0:17:52.23,0:17:55.32,Default,,0000,0000,0000,,A girl vs. girl showdown! Exciting, huh?
+Dialogue: 0,0:17:56.82,0:17:58.91,Default,,0000,0000,0000,,It was a pain in the butt.
+Dialogue: 0,0:17:58.91,0:18:03.12,Default,,0000,0000,0000,,Seeing your set-up,\Nand all the events you have...
+Dialogue: 0,0:18:08.50,0:18:11.75,Default,,0000,0000,0000,,I was so jealous of all that,\Nand I wanted to be like you.
+Dialogue: 0,0:18:11.75,0:18:17.63,Default,,0000,0000,0000,,I kept thinking, "If only\NMizuki Takase wasn't around!"
+Dialogue: 0,0:18:18.93,0:18:21.14,Default,,0000,0000,0000,,But now I'm thankful.
+Dialogue: 0,0:18:21.14,0:18:27.56,Default,,0000,0000,0000,,Interesting... We were\Nboth thinking the same thing.
+Dialogue: 0,0:18:27.56,0:18:31.02,Default,,0000,0000,0000,,I was jealous of you too.
+Dialogue: 0,0:18:31.02,0:18:36.90,Default,,0000,0000,0000,,Just once, I wanted to be a sickly\Nheroine who makes the hero worry.
+Dialogue: 0,0:18:41.87,0:18:44.95,Default,,0000,0000,0000,,That's not a compliment.
+Dialogue: 0,0:18:44.95,0:18:47.62,Default,,0000,0000,0000,,It's not, but...
+Dialogue: 0,0:18:47.62,0:18:49.42,Default,,0000,0000,0000,,Now I feel like it was worth it.
+Dialogue: 0,0:18:51.13,0:18:52.71,Default,,0000,0000,0000,,Shall we begin?
+Dialogue: 0,0:18:52.71,0:18:54.88,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:18:54.88,0:19:00.14,Default,,0000,0000,0000,,Ramen, tanmen, tantanmen!\NRemen, nyumen, hiyasomen!
+Dialogue: 0,0:19:13.15,0:19:16.19,Default,,0000,0000,0000,,Card Master Peach is here!
+Dialogue: 0,0:19:35.84,0:19:39.84,Default,,0000,0000,0000,,This will be a best of one\Ngame match! Takase serves!
+Dialogue: 0,0:20:00.07,0:20:02.28,Default,,0000,0000,0000,,Come on, Kazuki! Let's go!
+Dialogue: 0,0:20:02.28,0:20:04.20,Default,,0000,0000,0000,,Don't pull on me like that!
+Dialogue: 0,0:20:04.20,0:20:06.03,Default,,0000,0000,0000,,Today we're going to\Nvisit Ikumi in the hospital,
+Dialogue: 0,0:20:06.03,0:20:08.79,Default,,0000,0000,0000,,and then you're going\Nto go shopping with me.
+Dialogue: 0,0:20:08.79,0:20:11.00,Default,,0000,0000,0000,,Yeah, yeah...
+Dialogue: 0,0:20:11.00,0:20:15.13,Default,,0000,0000,0000,,Who's going to do my homework?
+Dialogue: 0,0:20:15.13,0:20:18.21,Default,,0000,0000,0000,,You get what you\Ndeserve, Big Dummy Eimi!
+Dialogue: 0,0:20:19.38,0:20:21.38,Default,,0000,0000,0000,,Excuse me, Big Sister Eimi.
+Dialogue: 0,0:20:21.38,0:20:24.47,Default,,0000,0000,0000,,About the printing\Nestimate for your next issue...
+Dialogue: 0,0:20:24.47,0:20:29.22,Default,,0000,0000,0000,,I wanted him to come to my concert...
+Dialogue: 0,0:20:29.22,0:20:31.73,Default,,0000,0000,0000,,Next time...
+Dialogue: 0,0:20:31.73,0:20:33.27,Default,,0000,0000,0000,,I will win.
+Dialogue: 0,0:20:33.27,0:20:35.48,Default,,0000,0000,0000,,Hey, what should we play next?
+Dialogue: 0,0:20:35.48,0:20:36.40,Default,,0000,0000,0000,,A fighting game!
+Dialogue: 0,0:20:36.40,0:20:37.48,Default,,0000,0000,0000,,A shooting game!
+Dialogue: 0,0:20:37.48,0:20:38.53,Default,,0000,0000,0000,,A training game!
+Dialogue: 0,0:20:38.53,0:20:40.90,Default,,0000,0000,0000,,How about cooking or something like that?
+Dialogue: 0,0:20:40.90,0:20:44.24,Default,,0000,0000,0000,,When it comes to making\Nsweets, I can take you all on!
+Dialogue: 0,0:20:44.24,0:20:46.37,Default,,0000,0000,0000,,Counting back from the\Ndeadline for the printer...
+Dialogue: 0,0:20:46.37,0:20:48.49,Default,,0000,0000,0000,,Time needed for writing...\NTime needed for part-time work...
+Dialogue: 0,0:20:48.49,0:20:50.00,Default,,0000,0000,0000,,I guess I'll still have\Nsufficient credits, huh?
+Dialogue: 0,0:20:50.00,0:20:51.08,Default,,0000,0000,0000,,Awright!
+Dialogue: 0,0:20:51.08,0:20:55.00,Default,,0000,0000,0000,,How are we going to decide\Nwhen Kazuki gets to have a day off?
+Dialogue: 0,0:21:02.92,0:21:06.14,Default,,0000,0000,0000,,I won't lose next time, Big Sister Mizuki!
+Dialogue: 0,0:21:14.02,0:21:18.15,Default,,0000,0000,0000,,{\i1}Ima sugu issho ni kurasou{\i0}
+Dialogue: 0,0:21:18.15,0:21:22.74,Default,,0000,0000,0000,,{\i1}Tarinai mono wa jikan dake{\i0}
+Dialogue: 0,0:21:22.74,0:21:26.78,Default,,0000,0000,0000,,{\i1}Egao mo namida mo hima mo{\i0}
+Dialogue: 0,0:21:26.78,0:21:31.24,Default,,0000,0000,0000,,{\i1}Wakeau basho ga hitsuyou deshou{\i0}
+Dialogue: 0,0:21:31.24,0:21:39.21,Default,,0000,0000,0000,,{\i1}Anata to nara itsu made mo{\i0}
+Dialogue: 0,0:21:40.50,0:21:44.92,Default,,0000,0000,0000,,{\i1}Mendou na koto ga kirai na{\i0}
+Dialogue: 0,0:21:44.92,0:21:49.22,Default,,0000,0000,0000,,{\i1}Anata no ude hiki nagara{\i0}
+Dialogue: 0,0:21:49.22,0:21:53.81,Default,,0000,0000,0000,,{\i1}Yatto mitsuketa 2LDK{\i0}
+Dialogue: 0,0:21:57.81,0:22:02.15,Default,,0000,0000,0000,,{\i1}Teeburu setto mo ii kedo{\i0}
+Dialogue: 0,0:22:02.15,0:22:06.40,Default,,0000,0000,0000,,{\i1}Kekkyoku wa kotatsu deshou{\i0}
+Dialogue: 0,0:22:06.40,0:22:10.24,Default,,0000,0000,0000,,{\i1}Futari nekorogaru dake{\i0}
+Dialogue: 0,0:22:10.24,0:22:15.16,Default,,0000,0000,0000,,{\i1}Igai ni daiji na jikan{\i0}
+Dialogue: 0,0:22:15.16,0:22:23.76,Default,,0000,0000,0000,,{\i1}Donna toki mo yurishiaeru hito{\i0}
+Dialogue: 0,0:22:23.76,0:22:27.30,Default,,0000,0000,0000,,{\i1}Kantan ni wa{\i0}
+Dialogue: 0,0:22:27.30,0:22:31.81,Default,,0000,0000,0000,,{\i1}Deanai anata dakara{\i0}
+Dialogue: 0,0:22:31.81,0:22:35.98,Default,,0000,0000,0000,,{\i1}Ima sugu issho ni kurasou{\i0}
+Dialogue: 0,0:22:35.98,0:22:40.61,Default,,0000,0000,0000,,{\i1}Tarinai mono wa jikan dake{\i0}
+Dialogue: 0,0:22:40.61,0:22:44.53,Default,,0000,0000,0000,,{\i1}Egao mo namida mo hima mo{\i0}
+Dialogue: 0,0:22:44.53,0:22:49.11,Default,,0000,0000,0000,,{\i1}Wakeau basho ga hitsuyou deshou {\i0}
+Dialogue: 0,0:22:49.11,0:22:58.37,Default,,0000,0000,0000,,{\i1}Anata to nara itsu made mo{\i0}
+Dialogue: 0,0:23:07.38,0:23:09.72,Default,,0000,0000,0000,,{\i1}What do we have to go all\Nthe way into the mountains for?{\i0}
+Dialogue: 0,0:23:09.72,0:23:10.72,Default,,0000,0000,0000,,{\i1}What are you saying?{\i0}
+Dialogue: 0,0:23:10.72,0:23:13.10,Default,,0000,0000,0000,,{\i1}Isn't a training camp right\Nbefore summer Comipa inevitable?{\i0}
+Dialogue: 0,0:23:13.10,0:23:15.89,Default,,0000,0000,0000,,{\i1}But why do we have\Nto play a survival game?{\i0}
+Dialogue: 0,0:23:15.89,0:23:17.81,Default,,0000,0000,0000,,{\i1}There's no way we\Ncould stand up against pros!{\i0}
+Dialogue: 0,0:23:17.81,0:23:20.81,Default,,0000,0000,0000,,{\i1}Why are you being so timid?\NWe have that plan, don't we?{\i0}
+Dialogue: 0,0:23:20.81,0:23:21.98,Default,,0000,0000,0000,,{\i1}You don't have any plan, do you?{\i0}
+Dialogue: 0,0:23:21.98,0:23:22.73,Default,,0000,0000,0000,,{\i1}No!{\i0}
+Dialogue: 0,0:23:22.73,0:23:25.57,Default,,0000,0000,0000,,{\i1}I can't believe I messed up!\NThere's a hole in my plan now?{\i0}
+Dialogue: 0,0:23:25.57,0:23:27.69,Default,,0000,0000,0000,,{\i1}Let's just hope Hasabe's efforts pay off.{\i0}
+Dialogue: 0,0:23:27.69,0:23:29.90,Default,,0000,0000,0000,,{\i1}Next time: "The Greatest\NBloodbath in History."{\i0}
+Dialogue: 0,0:23:29.90,0:23:31.41,Default,,0000,0000,0000,,{\i1}Mission complete.{\i0}

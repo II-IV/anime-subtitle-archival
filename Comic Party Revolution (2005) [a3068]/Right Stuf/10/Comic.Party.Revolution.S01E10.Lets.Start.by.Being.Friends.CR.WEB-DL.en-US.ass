@@ -1,0 +1,403 @@
+[Script Info]
+Title: English (US)
+Original Script: TBS  [http://www.crunchyroll.com/user/TBS]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: On Top Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:15.09,0:00:21.85,Default,,0000,0000,0000,,{\i1}Fui ni anata wa watashi\Nno te o tsunaide kureta{\i0}
+Dialogue: 0,0:00:21.85,0:00:27.02,Default,,0000,0000,0000,,{\i1}Hitogomi no naka hagurenai you ni{\i0}
+Dialogue: 0,0:00:28.57,0:00:35.36,Default,,0000,0000,0000,,{\i1}Sugoku ureshikute\Numaku nigirikaesenakute{\i0}
+Dialogue: 0,0:00:35.36,0:00:40.74,Default,,0000,0000,0000,,{\i1}Koi o shiteru tte kizuita ano hi{\i0}
+Dialogue: 0,0:00:41.24,0:00:44.87,Default,,0000,0000,0000,,{\i1}Hajimari wa tomodachi{\i0}
+Dialogue: 0,0:00:44.87,0:00:49.75,Default,,0000,0000,0000,,{\i1}Sono kyoukaisen koete{\i0}
+Dialogue: 0,0:00:49.75,0:00:54.38,Default,,0000,0000,0000,,{\i1}Futari hashiridasou{\i0}
+Dialogue: 0,0:00:55.55,0:01:02.39,Default,,0000,0000,0000,,{\i1}Mou osaekirenai nakechau hodo ni{\i0}
+Dialogue: 0,0:01:02.39,0:01:05.73,Default,,0000,0000,0000,,{\i1}Anata no koto ga daisuki{\i0}
+Dialogue: 0,0:01:05.73,0:01:09.11,Default,,0000,0000,0000,,{\i1}Nee, uso wa tsukenai{\i0}
+Dialogue: 0,0:01:09.11,0:01:15.74,Default,,0000,0000,0000,,{\i1}Mou tomenakute ii terechau keredo{\i0}
+Dialogue: 0,0:01:15.74,0:01:19.24,Default,,0000,0000,0000,,{\i1}Watashi zenbu uketomete{\i0}
+Dialogue: 0,0:01:19.24,0:01:25.46,Default,,0000,0000,0000,,{\i1}Sou, kore kara mo zutto{\i0}
+Dialogue: 0,0:01:41.05,0:01:44.93,Default,,0000,0000,0000,,{\an8}"Let's Start by Being Friends" {\an}
+Dialogue: 0,0:01:51.61,0:01:55.78,Default,,0000,0000,0000,,"Video Games"
+Dialogue: 0,0:01:59.24,0:02:00.28,Default,,0000,0000,0000,,Go!
+Dialogue: 0,0:02:00.28,0:02:04.33,Default,,0000,0000,0000,,Yeah, that's it! Eat this!
+Dialogue: 0,0:02:06.45,0:02:08.79,Default,,0000,0000,0000,,Did it!
+Dialogue: 0,0:02:08.79,0:02:11.21,Default,,0000,0000,0000,,A stunning victory for Eimi!
+Dialogue: 0,0:02:11.21,0:02:13.29,Default,,0000,0000,0000,,Just who do you think I am?
+Dialogue: 0,0:02:13.29,0:02:18.63,Default,,0000,0000,0000,,I am the King of Queens of the\NComipa world, the Great Eimi Ohba!
+Dialogue: 0,0:02:18.63,0:02:20.59,Default,,0000,0000,0000,,Jeez, you just attacked\Nlike that so I couldn't get away.
+Dialogue: 0,0:02:20.59,0:02:22.05,Default,,0000,0000,0000,,That was just nuts.
+Dialogue: 0,0:02:22.05,0:02:23.26,Default,,0000,0000,0000,,There's an open spot over there.
+Dialogue: 0,0:02:23.26,0:02:25.39,Default,,0000,0000,0000,,Let's go!
+Dialogue: 0,0:02:34.98,0:02:36.36,Default,,0000,0000,0000,,The next challenger, huh?
+Dialogue: 0,0:02:36.36,0:02:39.86,Default,,0000,0000,0000,,I'm ready to serve up some\Nmore pain, so let's see what you've got!
+Dialogue: 0,0:02:48.83,0:02:51.46,Default,,0000,0000,0000,,Huh? What's going on here?
+Dialogue: 0,0:02:51.46,0:02:55.00,Default,,0000,0000,0000,,How come she's pounding me\Nand I'm not getting any hits on her?
+Dialogue: 0,0:02:56.42,0:02:58.97,Default,,0000,0000,0000,,This super pisses me off!
+Dialogue: 0,0:03:04.93,0:03:06.39,Default,,0000,0000,0000,,Why you!
+Dialogue: 0,0:03:06.39,0:03:09.14,Default,,0000,0000,0000,,Why you! Why you! Why you! Why you!
+Dialogue: 0,0:03:18.07,0:03:20.03,Default,,0000,0000,0000,,No way...
+Dialogue: 0,0:03:20.03,0:03:24.53,Default,,0000,0000,0000,,You smart ass! How dare\Nyou take on the Great Eimi?!
+Dialogue: 0,0:03:24.53,0:03:25.78,Default,,0000,0000,0000,,Hey, you!
+Dialogue: 0,0:03:25.78,0:03:28.58,Default,,0000,0000,0000,,Oh, Miss Ohba.
+Dialogue: 0,0:03:28.58,0:03:30.87,Default,,0000,0000,0000,,I never expected to\Nsee you in a place like this!
+Dialogue: 0,0:03:30.87,0:03:33.83,Default,,0000,0000,0000,,I always buy your books.
+Dialogue: 0,0:03:33.83,0:03:36.09,Default,,0000,0000,0000,,Your latest issue was the best!
+Dialogue: 0,0:03:36.09,0:03:38.84,Default,,0000,0000,0000,,What? You're my fan?
+Dialogue: 0,0:03:38.84,0:03:41.30,Default,,0000,0000,0000,,Wow, it sure is hard being a popular author.
+Dialogue: 0,0:03:41.30,0:03:42.34,Default,,0000,0000,0000,,Wait a minute, are you...
+Dialogue: 0,0:03:42.34,0:03:43.18,Default,,0000,0000,0000,,Yes? Wait a minute, are you...
+Dialogue: 0,0:03:43.18,0:03:44.72,Default,,0000,0000,0000,,Asahi Sakurai?
+Dialogue: 0,0:03:44.72,0:03:46.05,Default,,0000,0000,0000,,--Huh?\N--What?!
+Dialogue: 0,0:03:46.05,0:03:47.06,Default,,0000,0000,0000,,Asahi Sakurai?
+Dialogue: 0,0:03:47.06,0:03:50.23,Default,,0000,0000,0000,,--Where? Where?\N--Really?
+Dialogue: 0,0:03:52.10,0:03:53.40,Default,,0000,0000,0000,,"Nalpis Water"
+Dialogue: 0,0:03:53.40,0:03:54.94,Default,,0000,0000,0000,,That was close.
+Dialogue: 0,0:03:54.94,0:03:58.27,Default,,0000,0000,0000,,Sorry! I didn't know you like games.
+Dialogue: 0,0:03:58.27,0:04:00.90,Default,,0000,0000,0000,,Yeah, whenever some\Nfree time opens up at work,
+Dialogue: 0,0:04:00.90,0:04:03.61,Default,,0000,0000,0000,,I head right to the arcade.
+Dialogue: 0,0:04:03.61,0:04:05.74,Default,,0000,0000,0000,,I keep it a secret from everyone though.
+Dialogue: 0,0:04:05.74,0:04:09.41,Default,,0000,0000,0000,,Why? You can come to an\Narcade without trying to hide it.
+Dialogue: 0,0:04:09.41,0:04:12.29,Default,,0000,0000,0000,,Oh wait, I get it. People would\Nthink it's lame for an idol to have
+Dialogue: 0,0:04:12.29,0:04:14.87,Default,,0000,0000,0000,,a hobby of going to arcades, so\Nyou don't want it to get out to the public.
+Dialogue: 0,0:04:14.87,0:04:17.75,Default,,0000,0000,0000,,That's not exactly why...
+Dialogue: 0,0:04:17.75,0:04:20.92,Default,,0000,0000,0000,,{\i1}It must be tough being an idol too.{\i0}
+Dialogue: 0,0:04:20.92,0:04:25.09,Default,,0000,0000,0000,,{\i1}As the King of Queens of the\NComipa world, I can understand, but...{\i0}
+Dialogue: 0,0:04:28.85,0:04:32.39,Default,,0000,0000,0000,,{\i1}You're probably surrounded\Nby mean rivals who bully you,{\i0}
+Dialogue: 0,0:04:32.39,0:04:35.19,Default,,0000,0000,0000,,{\i1}and scheming staff members.{\i0}
+Dialogue: 0,0:04:35.19,0:04:38.69,Default,,0000,0000,0000,,{\i1}They make you work from morning\Nto night without any time to yourself.{\i0}
+Dialogue: 0,0:04:38.69,0:04:41.78,Default,,0000,0000,0000,,{\i1}It's so hard you cry, and you go\Nthrough the same thing every day...{\i0}
+Dialogue: 0,0:04:43.74,0:04:48.07,Default,,0000,0000,0000,,That's gotta be it! It's just like\Nthe TV drama I saw the other day!
+Dialogue: 0,0:04:48.07,0:04:51.45,Default,,0000,0000,0000,,Excuse me, Miss Ohba?
+Dialogue: 0,0:04:51.45,0:04:55.29,Default,,0000,0000,0000,,All right, it's decided! I, the Great\NEimi, will take you out for some fun!
+Dialogue: 0,0:04:55.29,0:04:56.04,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:04:56.04,0:04:58.96,Default,,0000,0000,0000,,You can talk to me\Nabout absolutely anything!
+Dialogue: 0,0:04:58.96,0:05:01.96,Default,,0000,0000,0000,,And as for those bullying rivals\Nand staff members, I'll kick their asses!
+Dialogue: 0,0:05:01.96,0:05:07.09,Default,,0000,0000,0000,,Huh? Do you mean\Nyou're going to be my friend?
+Dialogue: 0,0:05:07.09,0:05:09.64,Default,,0000,0000,0000,,Friend?
+Dialogue: 0,0:05:11.31,0:05:15.64,Default,,0000,0000,0000,,That'd be great! Yeah!\NI'll be your friend, Asahi!
+Dialogue: 0,0:05:15.64,0:05:17.31,Default,,0000,0000,0000,,Okay...
+Dialogue: 0,0:05:18.94,0:05:22.48,Default,,0000,0000,0000,,Now that that's decided,\Nthe first thing we have to do is...
+Dialogue: 0,0:05:22.48,0:05:25.78,Default,,0000,0000,0000,,We have to take a ton of\Npictures of the two of us together,
+Dialogue: 0,0:05:25.78,0:05:27.99,Default,,0000,0000,0000,,as a symbol of our friendship!
+Dialogue: 0,0:05:27.99,0:05:29.66,Default,,0000,0000,0000,,Really?
+Dialogue: 0,0:05:29.66,0:05:30.74,Default,,0000,0000,0000,,Come on, let's just do it.
+Dialogue: 0,0:05:30.74,0:05:33.54,Default,,0000,0000,0000,,Yes, but...
+Dialogue: 0,0:05:33.54,0:05:34.58,Default,,0000,0000,0000,,Miss Ohba?
+Dialogue: 0,0:05:34.58,0:05:37.96,Default,,0000,0000,0000,,Ready? Okay, smile!
+Dialogue: 0,0:05:37.96,0:05:40.46,Default,,0000,0000,0000,,You can just call me Eimi.\NWe're friends after all!
+Dialogue: 0,0:05:40.46,0:05:42.71,Default,,0000,0000,0000,,Huh? Oh, okay...
+Dialogue: 0,0:05:42.71,0:05:45.09,Default,,0000,0000,0000,,What the heck is this?
+Dialogue: 0,0:05:45.09,0:05:47.18,Default,,0000,0000,0000,,This isn't any good!\NWe have to take another one!
+Dialogue: 0,0:05:47.18,0:05:49.09,Default,,0000,0000,0000,,Let's do it one more time, Asahi.
+Dialogue: 0,0:05:49.09,0:05:51.35,Default,,0000,0000,0000,,Okay...
+Dialogue: 0,0:05:51.35,0:05:54.06,Default,,0000,0000,0000,,That time I closed my eyes!
+Dialogue: 0,0:05:54.06,0:05:55.93,Default,,0000,0000,0000,,That one was bad too! One more time!
+Dialogue: 0,0:05:55.93,0:05:56.89,Default,,0000,0000,0000,,Okay!
+Dialogue: 0,0:05:56.89,0:05:59.60,Default,,0000,0000,0000,,Ugh, I'm the only one\Nwho doesn't look cute!
+Dialogue: 0,0:05:59.60,0:06:01.15,Default,,0000,0000,0000,,That's not true!
+Dialogue: 0,0:06:01.15,0:06:03.94,Default,,0000,0000,0000,,No! I don't ever compromise!
+Dialogue: 0,0:06:03.94,0:06:06.36,Default,,0000,0000,0000,,--Okay, say "cheese"!\N--Cheese.
+Dialogue: 0,0:06:08.24,0:06:08.49,Default,,0000,0000,0000,,"Peach" "Studio Tanaka"
+Dialogue: 0,0:06:08.49,0:06:10.99,Default,,0000,0000,0000,,"Peach" "Studio Tanaka"\NRecording for "Peach" will be starting soon.
+Dialogue: 0,0:06:10.99,0:06:13.16,Default,,0000,0000,0000,,Please get ready, everyone.
+Dialogue: 0,0:06:14.49,0:06:17.08,Default,,0000,0000,0000,,{\i1}Friends send each other email, you know?{\i0}
+Dialogue: 0,0:06:21.33,0:06:22.38,Default,,0000,0000,0000,,Email?
+Dialogue: 0,0:06:22.38,0:06:24.80,Default,,0000,0000,0000,,Yeah! Friends email each\Nother about what happened today,
+Dialogue: 0,0:06:24.80,0:06:28.88,Default,,0000,0000,0000,,what they're doing,\Nand different stuff like that.
+Dialogue: 0,0:06:28.88,0:06:31.39,Default,,0000,0000,0000,,Well, you can write about anything, really.
+Dialogue: 0,0:06:31.39,0:06:35.64,Default,,0000,0000,0000,,The important thing is it just\Nkind of makes you feel connected.
+Dialogue: 0,0:06:35.64,0:06:39.69,Default,,0000,0000,0000,,But I wonder what I should email her about?
+Dialogue: 0,0:06:41.02,0:06:45.23,Default,,0000,0000,0000,,It's from Ms. Ohba... I mean Eimi.
+Dialogue: 0,0:06:45.23,0:06:49.78,Default,,0000,0000,0000,,"Hello, Asahi! How is your day going?"
+Dialogue: 0,0:06:49.78,0:06:52.28,Default,,0000,0000,0000,,"I'm in Classics class right now."
+Dialogue: 0,0:06:52.28,0:06:54.49,Default,,0000,0000,0000,,"The teacher's lecture is {\i1}so {\i0}boring,"
+Dialogue: 0,0:06:54.49,0:06:56.54,Default,,0000,0000,0000,,"I just want it to end already!"
+Dialogue: 0,0:06:56.54,0:07:00.71,Default,,0000,0000,0000,,"What about you, Asahi?\NI'll email you again, all right?"
+Dialogue: 0,0:07:03.54,0:07:03.79,Default,,0000,0000,0000,,"What about you, Asahi?"\N"I'll email you again, all right?"
+Dialogue: 0,0:07:03.79,0:07:05.63,Default,,0000,0000,0000,,"What about you, Asahi?"\N"I'll email you again,"
+Dialogue: 0,0:07:05.63,0:07:09.13,Default,,0000,0000,0000,,"What about you, Asahi?"\N"I'll email you again, 'kay?"
+Dialogue: 0,0:07:09.13,0:07:09.76,Default,,0000,0000,0000,,"Sent"
+Dialogue: 0,0:07:14.05,0:07:16.01,Default,,0000,0000,0000,,{\an8}"How are you?" "Hello, Asahi!" (^0^)/\N"How is your day going?" v(^0^)v (*^_^*){\an}
+Dialogue: 0,0:07:16.31,0:07:18.98,Default,,0000,0000,0000,,How should I reply?
+Dialogue: 0,0:07:19.73,0:07:21.98,Default,,0000,0000,0000,,What? You're friends with Asahi?
+Dialogue: 0,0:07:21.98,0:07:25.02,Default,,0000,0000,0000,,Yup! She begged me to be her friend!
+Dialogue: 0,0:07:25.02,0:07:27.78,Default,,0000,0000,0000,,Well, I guess one idol attracts another!
+Dialogue: 0,0:07:27.78,0:07:30.45,Default,,0000,0000,0000,,They say genius comes right\Nwhen you've almost forgotten about it!
+Dialogue: 0,0:07:30.45,0:07:33.11,Default,,0000,0000,0000,,That's "natural disasters."
+Dialogue: 0,0:07:33.11,0:07:36.12,Default,,0000,0000,0000,,So, why is he all depressed over there?
+Dialogue: 0,0:07:38.45,0:07:39.62,Default,,0000,0000,0000,,Why?
+Dialogue: 0,0:07:39.62,0:07:41.00,Default,,0000,0000,0000,,How could Asahi
+Dialogue: 0,0:07:41.00,0:07:43.79,Default,,0000,0000,0000,,disregard a pure and innocent man\Nof spotless integrity such as myself,
+Dialogue: 0,0:07:43.79,0:07:49.01,Default,,0000,0000,0000,,and choose such a blundering\Nidiot of a girl for her friend?
+Dialogue: 0,0:07:49.01,0:07:51.30,Default,,0000,0000,0000,,And who exactly is pure?
+Dialogue: 0,0:07:52.63,0:07:53.89,Default,,0000,0000,0000,,Oh! It's from Asahi!
+Dialogue: 0,0:07:53.89,0:07:55.55,Default,,0000,0000,0000,,What did you say?
+Dialogue: 0,0:07:55.55,0:08:01.23,Default,,0000,0000,0000,,Show us Asahi's\Nheavenly email immediately!
+Dialogue: 0,0:08:02.64,0:08:04.48,Default,,0000,0000,0000,,But it's someone else's email.
+Dialogue: 0,0:08:04.48,0:08:06.56,Default,,0000,0000,0000,,But I'm curious too.
+Dialogue: 0,0:08:06.56,0:08:09.90,Default,,0000,0000,0000,,What does it say? Tell me too.
+Dialogue: 0,0:08:09.90,0:08:11.65,Default,,0000,0000,0000,,What am I going to do with you guys?
+Dialogue: 0,0:08:11.65,0:08:14.03,Default,,0000,0000,0000,,All right, just a little.
+Dialogue: 0,0:08:14.20,0:08:17.16,Default,,0000,0000,0000,,{\an8}"It's Asahi"\N"I'm fine. Asahi"{\an}
+Dialogue: 0,0:08:18.62,0:08:20.12,Default,,0000,0000,0000,,That's it?
+Dialogue: 0,0:08:20.12,0:08:21.25,Default,,0000,0000,0000,,That's more like a telegram.
+Dialogue: 0,0:08:21.25,0:08:24.92,Default,,0000,0000,0000,,What an incredibly\Nsimple yet stirring phrase!
+Dialogue: 0,0:08:24.92,0:08:27.67,Default,,0000,0000,0000,,Bravo, Asahi!
+Dialogue: 0,0:08:27.67,0:08:30.76,Default,,0000,0000,0000,,But this isn't the kind\Nof email you send to a friend!
+Dialogue: 0,0:08:30.76,0:08:34.18,Default,,0000,0000,0000,,You have to write more,\Nor it's totally boring!
+Dialogue: 0,0:08:34.18,0:08:36.30,Default,,0000,0000,0000,,But since this is Asahi we're talking about,
+Dialogue: 0,0:08:36.30,0:08:40.18,Default,,0000,0000,0000,,I'm sure she put a lot of\Nthought into it before she wrote it.
+Dialogue: 0,0:08:40.18,0:08:42.64,Default,,0000,0000,0000,,But still...
+Dialogue: 0,0:08:43.27,0:08:45.02,Default,,0000,0000,0000,,{\an8}"It's Asahi"\N"I'm fine. Asahi"{\an}
+Dialogue: 0,0:08:46.27,0:08:48.23,Default,,0000,0000,0000,,Oh well...
+Dialogue: 0,0:08:48.77,0:08:50.94,Default,,0000,0000,0000,,Shopping?
+Dialogue: 0,0:08:50.94,0:08:52.03,Default,,0000,0000,0000,,Right!
+Dialogue: 0,0:08:52.03,0:08:54.11,Default,,0000,0000,0000,,After emailing, the next\Nstep is going shopping together!
+Dialogue: 0,0:08:54.11,0:08:56.32,Default,,0000,0000,0000,,Then we'll watch a movie,\Neat some hamburgers,
+Dialogue: 0,0:08:56.32,0:08:58.37,Default,,0000,0000,0000,,and last we'll go to the beach\Nand yell "You stupid jerk!" to each other.
+Dialogue: 0,0:08:58.37,0:09:00.58,Default,,0000,0000,0000,,That's how it always goes with friends!
+Dialogue: 0,0:09:00.58,0:09:04.00,Default,,0000,0000,0000,,"You stupid jerk"?\NThat doesn't seem right...
+Dialogue: 0,0:09:04.00,0:09:06.33,Default,,0000,0000,0000,,And besides, shopping is...
+Dialogue: 0,0:09:06.33,0:09:07.88,Default,,0000,0000,0000,,Come on, let's just do it!
+Dialogue: 0,0:09:07.88,0:09:10.59,Default,,0000,0000,0000,,Today, I'll be your stylist, Asahi!
+Dialogue: 0,0:09:10.59,0:09:13.72,Default,,0000,0000,0000,,I'll pick out some clothes\Nthat are perfect for you!
+Dialogue: 0,0:09:15.80,0:09:17.34,Default,,0000,0000,0000,,Come on, let's go!
+Dialogue: 0,0:09:17.34,0:09:19.80,Default,,0000,0000,0000,,"♪1 in France" "Jean-Paul Evan"\N"Making a comeback here at Comic Party"
+Dialogue: 0,0:09:20.68,0:09:22.35,Default,,0000,0000,0000,,Hurry up!
+Dialogue: 0,0:09:29.19,0:09:32.23,Default,,0000,0000,0000,,How about that? I think\Nit would look perfect on you!
+Dialogue: 0,0:09:32.23,0:09:35.57,Default,,0000,0000,0000,,You think so? Isn't it a little childish?
+Dialogue: 0,0:09:35.57,0:09:37.03,Default,,0000,0000,0000,,Not at all!
+Dialogue: 0,0:09:37.03,0:09:39.74,Default,,0000,0000,0000,,You look good in anything. You're so cute!
+Dialogue: 0,0:09:39.74,0:09:40.99,Default,,0000,0000,0000,,Oh, stop...
+Dialogue: 0,0:09:40.99,0:09:42.58,Default,,0000,0000,0000,,Sure you are, sure you are!
+Dialogue: 0,0:09:42.58,0:09:45.91,Default,,0000,0000,0000,,Well, I'd say you're {\i1}almost {\i0}as cute as me!
+Dialogue: 0,0:09:46.71,0:09:48.71,Default,,0000,0000,0000,,Excuse me...
+Dialogue: 0,0:09:52.00,0:09:58.59,Default,,0000,0000,0000,,Wow, the Great Eimi has fans\Neven here? It's so tough being an idol.
+Dialogue: 0,0:10:02.01,0:10:05.23,Default,,0000,0000,0000,,It really is Asahi Sakurai!
+Dialogue: 0,0:10:05.23,0:10:07.27,Default,,0000,0000,0000,,That last episode of "Peach" was great!
+Dialogue: 0,0:10:07.27,0:10:09.65,Default,,0000,0000,0000,,Are you filming today? Or are you off?
+Dialogue: 0,0:10:09.65,0:10:12.27,Default,,0000,0000,0000,,Oh yeah! Could you sign here?
+Dialogue: 0,0:10:12.27,0:10:14.11,Default,,0000,0000,0000,,Uh, well...
+Dialogue: 0,0:10:14.11,0:10:18.07,Default,,0000,0000,0000,,Hey, stop it you guys!\NYou're bothering my friend!
+Dialogue: 0,0:10:18.07,0:10:22.91,Default,,0000,0000,0000,,Friend? You're a friend? Of Asahi's?
+Dialogue: 0,0:10:22.91,0:10:25.29,Default,,0000,0000,0000,,Yeah, that's right!
+Dialogue: 0,0:10:26.16,0:10:27.29,Default,,0000,0000,0000,,You must be joking.
+Dialogue: 0,0:10:27.29,0:10:33.09,Default,,0000,0000,0000,,We're talking to the idol Asahi, right now,\Nso mundanes like you should keep quiet.
+Dialogue: 0,0:10:33.09,0:10:36.17,Default,,0000,0000,0000,,Mun... Mun... Mundane?
+Dialogue: 0,0:10:36.17,0:10:39.80,Default,,0000,0000,0000,,Who are you calling mundane?\NWho do you think I am?
+Dialogue: 0,0:10:39.80,0:10:41.01,Default,,0000,0000,0000,,Eimi...
+Dialogue: 0,0:10:41.01,0:10:42.43,Default,,0000,0000,0000,,Asahi?
+Dialogue: 0,0:10:42.43,0:10:44.47,Default,,0000,0000,0000,,I'm sorry!
+Dialogue: 0,0:10:44.47,0:10:45.97,Default,,0000,0000,0000,,You'll pay for this!
+Dialogue: 0,0:10:45.97,0:10:47.27,Default,,0000,0000,0000,,Asahi!
+Dialogue: 0,0:10:48.56,0:10:50.10,Default,,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:10:50.10,0:10:54.19,Default,,0000,0000,0000,,Our shopping trip\Nwas ruined because of me.
+Dialogue: 0,0:10:54.19,0:10:55.94,Default,,0000,0000,0000,,--Who...\N--Huh?
+Dialogue: 0,0:10:55.94,0:10:58.11,Default,,0000,0000,0000,,Who are they calling mundane?
+Dialogue: 0,0:10:58.11,0:11:01.03,Default,,0000,0000,0000,,Who do those otaku think I am?!
+Dialogue: 0,0:11:01.03,0:11:03.95,Default,,0000,0000,0000,,I'm the Super Idol of\NComipa, the Great Eimi!
+Dialogue: 0,0:11:03.95,0:11:05.45,Default,,0000,0000,0000,,They think that I, the Great Eimi,
+Dialogue: 0,0:11:05.45,0:11:10.42,Default,,0000,0000,0000,,am just a mundane who isn't fit to be\Nfriends with the super idol Asahi Sakurai?!
+Dialogue: 0,0:11:10.42,0:11:13.42,Default,,0000,0000,0000,,What are you saying, Eimi?
+Dialogue: 0,0:11:13.42,0:11:15.50,Default,,0000,0000,0000,,I'll show them!
+Dialogue: 0,0:11:15.50,0:11:20.51,Default,,0000,0000,0000,,I'll show them clear as night\Nthat even I'm an idol in this field!
+Dialogue: 0,0:11:20.51,0:11:22.01,Default,,0000,0000,0000,,Right, Asahi?
+Dialogue: 0,0:11:22.01,0:11:24.01,Default,,0000,0000,0000,,Ri... Right...
+Dialogue: 0,0:11:24.01,0:11:27.06,Default,,0000,0000,0000,,It's "clear as day" though.
+Dialogue: 0,0:11:29.31,0:11:31.69,Default,,0000,0000,0000,,{\i1}Comic Party Revolution!{\i0}
+Dialogue: 0,0:11:35.86,0:11:38.32,Default,,0000,0000,0000,,{\i1}Comic Party Revolution{\i0}
+Dialogue: 0,0:11:50.87,0:11:54.54,Default,,0000,0000,0000,,Hmm, looks like another long line again.
+Dialogue: 0,0:11:54.54,0:11:56.38,Default,,0000,0000,0000,,It's incredible.
+Dialogue: 0,0:11:56.38,0:12:00.72,Default,,0000,0000,0000,,And they're all holding onto\N200 yen just to buy my manga!
+Dialogue: 0,0:12:00.72,0:12:03.59,Default,,0000,0000,0000,,This is my true power! Incredible, isn't it?
+Dialogue: 0,0:12:03.59,0:12:06.35,Default,,0000,0000,0000,,Yes! I'm always lined up too.
+Dialogue: 0,0:12:06.35,0:12:11.89,Default,,0000,0000,0000,,But it was such a long,\Nhard proness to get this far!
+Dialogue: 0,0:12:11.89,0:12:13.56,Default,,0000,0000,0000,,Do you mean "process"?
+Dialogue: 0,0:12:13.56,0:12:14.23,Default,,0000,0000,0000,,{\an8}"Process" {\an}
+Dialogue: 0,0:12:14.90,0:12:17.40,Default,,0000,0000,0000,,After being sold-out again and again,
+Dialogue: 0,0:12:17.40,0:12:19.07,Default,,0000,0000,0000,,then being recognized\Nby the preparation committee,
+Dialogue: 0,0:12:19.07,0:12:25.78,Default,,0000,0000,0000,,I finally reached the coveted peak of every\Ndoujin circle, and was placed as a wall circle!
+Dialogue: 0,0:12:25.78,0:12:32.91,Default,,0000,0000,0000,,And beyond the peak, even\Ntougher challenges are waiting for me!
+Dialogue: 0,0:12:35.25,0:12:39.46,Default,,0000,0000,0000,,Catching on to the latest trends\Nto sell 10,000 copies every time!
+Dialogue: 0,0:12:40.76,0:12:43.93,Default,,0000,0000,0000,,Drawing the popular characters cutely!
+Dialogue: 0,0:12:43.93,0:12:46.76,Default,,0000,0000,0000,,Writing until my pen breaks!
+Dialogue: 0,0:12:50.89,0:12:55.02,Default,,0000,0000,0000,,I can kind of understand how you feel.
+Dialogue: 0,0:12:55.02,0:12:57.36,Default,,0000,0000,0000,,You understand?
+Dialogue: 0,0:12:57.36,0:13:00.82,Default,,0000,0000,0000,,I, too, wish that my\Nsong will reach out to people,
+Dialogue: 0,0:13:00.82,0:13:06.53,Default,,0000,0000,0000,,so that my voice can be\Nheard by as many fans as possible.
+Dialogue: 0,0:13:06.53,0:13:09.49,Default,,0000,0000,0000,,And you're working hard so that
+Dialogue: 0,0:13:09.49,0:13:12.79,Default,,0000,0000,0000,,your manga will be read by as\Nmany people as possible, right?
+Dialogue: 0,0:13:12.79,0:13:18.04,Default,,0000,0000,0000,,What are you saying? That's\Nnot enough! They have to buy it!
+Dialogue: 0,0:13:18.04,0:13:20.88,Default,,0000,0000,0000,,They can't just read it,\Nthey have to buy it too!
+Dialogue: 0,0:13:20.88,0:13:23.26,Default,,0000,0000,0000,,That's the part that feels the best!
+Dialogue: 0,0:13:24.88,0:13:30.64,Default,,0000,0000,0000,,The hall is about to open.\NAs always, good luck, everyone!
+Dialogue: 0,0:13:33.98,0:13:36.98,Default,,0000,0000,0000,,All right! I'm gonna\Nsell, sell, sell like always!
+Dialogue: 0,0:13:36.98,0:13:40.48,Default,,0000,0000,0000,,I {\i1}will {\i0}sell out of 10,000 copies!
+Dialogue: 0,0:13:43.78,0:13:48.16,Default,,0000,0000,0000,,Comic Party is now open.
+Dialogue: 0,0:14:00.38,0:14:03.17,Default,,0000,0000,0000,,Enter slowly, please.
+Dialogue: 0,0:14:13.01,0:14:15.52,Default,,0000,0000,0000,,Look how many people are in here already!
+Dialogue: 0,0:14:15.52,0:14:17.85,Default,,0000,0000,0000,,I'm kind of excited!
+Dialogue: 0,0:14:17.85,0:14:21.77,Default,,0000,0000,0000,,Oh come on, don't be so tense, Asahi!
+Dialogue: 0,0:14:21.77,0:14:24.61,Default,,0000,0000,0000,,What? Asahi?
+Dialogue: 0,0:14:24.61,0:14:26.70,Default,,0000,0000,0000,,Asahi? You mean {\i1}that {\i0}Asahi Sakurai?
+Dialogue: 0,0:14:26.70,0:14:27.74,Default,,0000,0000,0000,,You're joking, right?
+Dialogue: 0,0:14:27.74,0:14:29.49,Default,,0000,0000,0000,,Is that true?
+Dialogue: 0,0:14:32.58,0:14:34.74,Default,,0000,0000,0000,,It's really her!
+Dialogue: 0,0:14:34.74,0:14:38.42,Default,,0000,0000,0000,,Whoa! It really is Asahi\NSakurai! What is she doing here?
+Dialogue: 0,0:14:38.42,0:14:40.83,Default,,0000,0000,0000,,That's {\i1}lovely {\i0}Asahi in those glasses!
+Dialogue: 0,0:14:40.83,0:14:43.75,Default,,0000,0000,0000,,Could I get your autograph?
+Dialogue: 0,0:14:43.75,0:14:47.88,Default,,0000,0000,0000,,You're causing a disturbance,\Nso please form a line!
+Dialogue: 0,0:14:47.88,0:14:49.97,Default,,0000,0000,0000,,Stop, I can't buy a book!
+Dialogue: 0,0:14:49.97,0:14:52.22,Default,,0000,0000,0000,,--Shut up! Who cares about that?\N--Get in a line!
+Dialogue: 0,0:14:52.22,0:14:54.10,Default,,0000,0000,0000,,Eimi...
+Dialogue: 0,0:14:54.10,0:14:57.27,Default,,0000,0000,0000,,How did this happen? Boo hoo hoo...
+Dialogue: 0,0:14:57.27,0:14:58.48,Default,,0000,0000,0000,,Oww!
+Dialogue: 0,0:14:58.48,0:15:01.73,Default,,0000,0000,0000,,Where do you think you're pulling?!
+Dialogue: 0,0:15:02.98,0:15:07.61,Default,,0000,0000,0000,,So, your circle was forced to\Nshut down because of the commotion?
+Dialogue: 0,0:15:09.24,0:15:12.03,Default,,0000,0000,0000,,Minami's tough.
+Dialogue: 0,0:15:13.87,0:15:14.78,Default,,0000,0000,0000,,"KEEP OUT"
+Dialogue: 0,0:15:14.78,0:15:17.29,Default,,0000,0000,0000,,Okay, you're all being taken out.
+Dialogue: 0,0:15:19.41,0:15:24.09,Default,,0000,0000,0000,,I hadn't even started selling yet!
+Dialogue: 0,0:15:24.09,0:15:25.50,Default,,0000,0000,0000,,Oww...
+Dialogue: 0,0:15:25.50,0:15:27.71,Default,,0000,0000,0000,,Hey, don't move around so much.
+Dialogue: 0,0:15:27.71,0:15:29.59,Default,,0000,0000,0000,,This will teach you a lesson!
+Dialogue: 0,0:15:29.59,0:15:32.14,Default,,0000,0000,0000,,Not that an idiot can\Nactually learn anything from it!
+Dialogue: 0,0:15:32.14,0:15:34.43,Default,,0000,0000,0000,,What do you mean\Nby that, hot spring panda?
+Dialogue: 0,0:15:34.43,0:15:36.56,Default,,0000,0000,0000,,That's what you get for being so greedy!
+Dialogue: 0,0:15:36.56,0:15:39.14,Default,,0000,0000,0000,,I can't believe you\Nused Asahi as a sales girl.
+Dialogue: 0,0:15:39.14,0:15:41.19,Default,,0000,0000,0000,,Yeah, you may be her\Nfriend or whatever, but...
+Dialogue: 0,0:15:41.19,0:15:43.61,Default,,0000,0000,0000,,I didn't do anything wrong!
+Dialogue: 0,0:15:43.61,0:15:45.44,Default,,0000,0000,0000,,I...
+Dialogue: 0,0:15:45.44,0:15:48.03,Default,,0000,0000,0000,,By the way, where's Asahi?
+Dialogue: 0,0:15:48.03,0:15:49.78,Default,,0000,0000,0000,,I... I don't know.
+Dialogue: 0,0:15:49.78,0:15:52.82,Default,,0000,0000,0000,,It looks like we got\Nseparated in all that commotion!
+Dialogue: 0,0:15:52.82,0:15:54.12,Default,,0000,0000,0000,,Unbelievable!
+Dialogue: 0,0:15:54.12,0:15:56.99,Default,,0000,0000,0000,,Not only did you use Asahi's\Npopularity in a plot to increase your sales,
+Dialogue: 0,0:15:56.99,0:16:00.12,Default,,0000,0000,0000,,you neglected the heartbroken girl!
+Dialogue: 0,0:16:00.12,0:16:03.33,Default,,0000,0000,0000,,That is simply outrageous!
+Dialogue: 0,0:16:03.33,0:16:06.34,Default,,0000,0000,0000,,You've got it wrong! I wasn't using Asahi!
+Dialogue: 0,0:16:06.34,0:16:10.01,Default,,0000,0000,0000,,You probably got close to\NAsahi for your doujinshi, but...
+Dialogue: 0,0:16:10.01,0:16:11.76,Default,,0000,0000,0000,,The expression "The plotter\Nalways gets caught in his own plots"
+Dialogue: 0,0:16:11.76,0:16:13.84,Default,,0000,0000,0000,,fits this situation perfectly, I believe.
+Dialogue: 0,0:16:14.80,0:16:18.68,Default,,0000,0000,0000,,You couldn't stop our\Nworld conquest even if you tried!
+Dialogue: 0,0:16:18.68,0:16:20.31,Default,,0000,0000,0000,,Quiet, you!
+Dialogue: 0,0:16:25.31,0:16:26.98,Default,,0000,0000,0000,,Eimi...
+Dialogue: 0,0:16:29.36,0:16:31.15,Default,,0000,0000,0000,,I don't care.
+Dialogue: 0,0:16:31.15,0:16:32.78,Default,,0000,0000,0000,,I'm telling you, I don't care!
+Dialogue: 0,0:16:32.78,0:16:36.07,Default,,0000,0000,0000,,If it was going to turn out like this,\NI wish we'd never become friends!
+Dialogue: 0,0:16:36.07,0:16:38.16,Default,,0000,0000,0000,,Now look here, you!
+Dialogue: 0,0:17:00.68,0:17:02.81,Default,,0000,0000,0000,,I finally found you.
+Dialogue: 0,0:17:05.52,0:17:09.07,Default,,0000,0000,0000,,I heard what happened.\NIt must've been rough.
+Dialogue: 0,0:17:09.07,0:17:10.98,Default,,0000,0000,0000,,It wasn't your fault.
+Dialogue: 0,0:17:10.98,0:17:12.65,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:17:13.78,0:17:17.99,Default,,0000,0000,0000,,I completely ruined\NEimi's all-important Comipa.
+Dialogue: 0,0:17:17.99,0:17:19.24,Default,,0000,0000,0000,,Asahi...
+Dialogue: 0,0:17:19.24,0:17:24.54,Default,,0000,0000,0000,,I don't know how to apologize to Eimi.
+Dialogue: 0,0:17:24.54,0:17:27.21,Default,,0000,0000,0000,,I don't think it matters how.
+Dialogue: 0,0:17:27.21,0:17:31.38,Default,,0000,0000,0000,,I think that if you're friends,\Nit doesn't matter how you apologize.
+Dialogue: 0,0:17:31.38,0:17:34.26,Default,,0000,0000,0000,,How about you talk to her?
+Dialogue: 0,0:17:34.26,0:17:35.88,Default,,0000,0000,0000,,Kazuki...
+Dialogue: 0,0:17:35.88,0:17:39.93,Default,,0000,0000,0000,,Eimi was really happy that\Nshe became friends with you.
+Dialogue: 0,0:17:39.93,0:17:41.60,Default,,0000,0000,0000,,She was?
+Dialogue: 0,0:18:09.42,0:18:11.59,Default,,0000,0000,0000,,"It's Asahi"\N"I'm fine. Asahi"
+Dialogue: 0,0:18:11.59,0:18:12.50,Default,,0000,0000,0000,,"Mail"
+Dialogue: 0,0:18:12.50,0:18:13.92,Default,,0000,0000,0000,,"New Mail"
+Dialogue: 0,0:18:17.47,0:18:17.84,Default,,0000,0000,0000,,"Inbox"
+Dialogue: 0,0:18:17.84,0:18:18.18,Default,,0000,0000,0000,,"Delete Selected Item"
+Dialogue: 0,0:18:24.02,0:18:26.14,Default,,0000,0000,0000,,"Compose New Message"
+Dialogue: 0,0:18:46.12,0:18:47.62,Default,,0000,0000,0000,,"Sender: Asahi"\N"Receiving... Asahi"
+Dialogue: 0,0:18:50.63,0:18:52.21,Default,,0000,0000,0000,,What's with her?
+Dialogue: 0,0:18:52.21,0:18:56.17,Default,,0000,0000,0000,,I said this wasn't the kind\Nof email to send to a friend!
+Dialogue: 0,0:18:58.01,0:19:02.10,Default,,0000,0000,0000,,"Asahi"\N"I'm sorry. Asahi"
+Dialogue: 0,0:19:11.52,0:19:13.48,Default,,0000,0000,0000,,"Seaside Park Station"
+Dialogue: 0,0:19:17.65,0:19:21.66,Default,,0000,0000,0000,,You stupid jerk of an ocean!
+Dialogue: 0,0:19:21.66,0:19:24.08,Default,,0000,0000,0000,,Stop looking so big!
+Dialogue: 0,0:19:24.08,0:19:28.12,Default,,0000,0000,0000,,Who do you think I am?!
+Dialogue: 0,0:19:28.12,0:19:30.12,Default,,0000,0000,0000,,Eimi...
+Dialogue: 0,0:19:30.12,0:19:33.17,Default,,0000,0000,0000,,Come on, what are you all serious for?
+Dialogue: 0,0:19:33.17,0:19:36.34,Default,,0000,0000,0000,,But because of me...
+Dialogue: 0,0:19:36.34,0:19:38.17,Default,,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:19:38.17,0:19:41.55,Default,,0000,0000,0000,,You don't think I still have\Nsome books left unsold, do you?
+Dialogue: 0,0:19:41.55,0:19:43.47,Default,,0000,0000,0000,,Don't worry.
+Dialogue: 0,0:19:43.47,0:19:47.81,Default,,0000,0000,0000,,I consigned my books\Nto Brother 2, and sold out!
+Dialogue: 0,0:19:47.81,0:19:49.93,Default,,0000,0000,0000,,Really?
+Dialogue: 0,0:19:49.93,0:19:52.02,Default,,0000,0000,0000,,It doesn't matter where they get sold.
+Dialogue: 0,0:19:52.02,0:19:55.27,Default,,0000,0000,0000,,You're pretty naive if you think\Nyou can underestimate the Great Eimi!
+Dialogue: 0,0:19:58.19,0:19:59.57,Default,,0000,0000,0000,,Here!
+Dialogue: 0,0:19:59.57,0:20:00.70,Default,,0000,0000,0000,,This is...
+Dialogue: 0,0:20:00.70,0:20:02.78,Default,,0000,0000,0000,,It's for you!
+Dialogue: 0,0:20:02.78,0:20:03.91,Default,,0000,0000,0000,,Then I'll get you some money.
+Dialogue: 0,0:20:03.91,0:20:05.70,Default,,0000,0000,0000,,Nah...
+Dialogue: 0,0:20:05.70,0:20:10.33,Default,,0000,0000,0000,,Giving each other copies of the doujinshi\Nwe've made is a sign of friendship!
+Dialogue: 0,0:20:10.33,0:20:12.54,Default,,0000,0000,0000,,Eimi...
+Dialogue: 0,0:20:15.38,0:20:18.80,Default,,0000,0000,0000,,Um, but I don't have a book to give you.
+Dialogue: 0,0:20:18.80,0:20:19.92,Default,,0000,0000,0000,,That's all right.
+Dialogue: 0,0:20:19.92,0:20:22.80,Default,,0000,0000,0000,,I'll wait for you to give me one\Nif you ever do draw a doujinshi.
+Dialogue: 0,0:20:26.60,0:20:29.52,Default,,0000,0000,0000,,Huh? Did you buy something else?
+Dialogue: 0,0:20:29.52,0:20:31.18,Default,,0000,0000,0000,,Ah! Th... This is, well...
+Dialogue: 0,0:20:31.18,0:20:34.69,Default,,0000,0000,0000,,I was just wondering what\Nmanga that doesn't sell is like, and...
+Dialogue: 0,0:20:34.69,0:20:36.73,Default,,0000,0000,0000,,Oh, that's...
+Dialogue: 0,0:20:38.32,0:20:40.61,Default,,0000,0000,0000,,You bought it too?
+Dialogue: 0,0:20:42.07,0:20:45.87,Default,,0000,0000,0000,,By the way, do you\Nhave someone you like, Eimi?
+Dialogue: 0,0:20:45.87,0:20:48.99,Default,,0000,0000,0000,,What? What brought\Nthat on all of a sudden?
+Dialogue: 0,0:20:48.99,0:20:52.71,Default,,0000,0000,0000,,The script for the episode\Nof "Peach" I read the other day
+Dialogue: 0,0:20:52.71,0:20:55.88,Default,,0000,0000,0000,,said that friends start out\Nby talking about boyfriends.
+Dialogue: 0,0:20:55.88,0:20:57.09,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:20:57.09,0:20:59.09,Default,,0000,0000,0000,,Well? Do you?
+Dialogue: 0,0:21:01.09,0:21:04.34,Default,,0000,0000,0000,,Speaking of which, what about you, Asahi?
+Dialogue: 0,0:21:04.34,0:21:06.97,Default,,0000,0000,0000,,Me? That's a secret.
+Dialogue: 0,0:21:06.97,0:21:10.35,Default,,0000,0000,0000,,That's no fair!
+Dialogue: 0,0:21:14.02,0:21:18.15,Default,,0000,0000,0000,,{\i1}Ima sugu issho ni kurasou{\i0}
+Dialogue: 0,0:21:18.15,0:21:22.74,Default,,0000,0000,0000,,{\i1}Tarinai mono wa jikan dake{\i0}
+Dialogue: 0,0:21:22.74,0:21:26.78,Default,,0000,0000,0000,,{\i1}Egao mo namida mo hima mo{\i0}
+Dialogue: 0,0:21:26.78,0:21:31.24,Default,,0000,0000,0000,,{\i1}Wakeau basho ga hitsuyou deshou{\i0}
+Dialogue: 0,0:21:31.24,0:21:39.21,Default,,0000,0000,0000,,{\i1}Anata to nara itsu made mo{\i0}
+Dialogue: 0,0:21:40.50,0:21:44.92,Default,,0000,0000,0000,,{\i1}Mendou na koto ga kirai na{\i0}
+Dialogue: 0,0:21:44.92,0:21:49.22,Default,,0000,0000,0000,,{\i1}Anata no ude hiki nagara{\i0}
+Dialogue: 0,0:21:49.22,0:21:53.81,Default,,0000,0000,0000,,{\i1}Yatto mitsuketa 2LDK{\i0}
+Dialogue: 0,0:21:57.81,0:22:02.15,Default,,0000,0000,0000,,{\i1}Teeburu setto mo ii kedo{\i0}
+Dialogue: 0,0:22:02.15,0:22:06.40,Default,,0000,0000,0000,,{\i1}Kekkyoku wa kotatsu deshou{\i0}
+Dialogue: 0,0:22:06.40,0:22:10.24,Default,,0000,0000,0000,,{\i1}Futari nekorogaru dake{\i0}
+Dialogue: 0,0:22:10.24,0:22:15.16,Default,,0000,0000,0000,,{\i1}Igai ni daiji na jikan{\i0}
+Dialogue: 0,0:22:15.16,0:22:23.76,Default,,0000,0000,0000,,{\i1}Donna toki mo yurishiaeru hito{\i0}
+Dialogue: 0,0:22:23.76,0:22:27.30,Default,,0000,0000,0000,,{\i1}Kantan ni wa{\i0}
+Dialogue: 0,0:22:27.30,0:22:31.81,Default,,0000,0000,0000,,{\i1}Deanai anata dakara{\i0}
+Dialogue: 0,0:22:31.81,0:22:35.98,Default,,0000,0000,0000,,{\i1}Ima sugu issho ni kurasou{\i0}
+Dialogue: 0,0:22:35.98,0:22:40.61,Default,,0000,0000,0000,,{\i1}Tarinai mono wa jikan dake{\i0}
+Dialogue: 0,0:22:40.61,0:22:44.53,Default,,0000,0000,0000,,{\i1}Egao mo namida mo hima mo{\i0}
+Dialogue: 0,0:22:44.53,0:22:49.11,Default,,0000,0000,0000,,{\i1}Wakeau basho ga hitsuyou deshou {\i0}
+Dialogue: 0,0:22:49.11,0:22:58.37,Default,,0000,0000,0000,,{\i1}Anata to nara itsu made mo{\i0}
+Dialogue: 0,0:23:06.05,0:23:07.42,Default,,0000,0000,0000,,{\i1}Doujin...{\i0}
+Dialogue: 0,0:23:07.42,0:23:09.13,Default,,0000,0000,0000,,{\i1}The doujinshi of horror:\Nonce you turn the page,{\i0}
+Dialogue: 0,0:23:09.13,0:23:11.51,Default,,0000,0000,0000,,{\i1}- -you lose 100 days\Nof your doujin life span.{\i0}
+Dialogue: 0,0:23:11.51,0:23:13.14,Default,,0000,0000,0000,,{\i1}- -you lose 100 days of your doujin life span.\N--Doujin...{\i0}
+Dialogue: 0,0:23:13.14,0:23:17.06,Default,,0000,0000,0000,,{\i1}It's the demon manga,\Nwhich poisons the sensitivity{\i0}
+Dialogue: 0,0:23:17.06,0:23:18.06,Default,,0000,0000,0000,,{\i1}- -Doujin...\N--and destroys the mind of those who look at it.{\i0}
+Dialogue: 0,0:23:18.06,0:23:19.98,Default,,0000,0000,0000,,{\i1}- -Doujin...\N--It is a forbidden book which was burned{\i0}
+Dialogue: 0,0:23:19.98,0:23:20.90,Default,,0000,0000,0000,,{\i1}in a remote old college building.{\i0}
+Dialogue: 0,0:23:20.90,0:23:24.61,Default,,0000,0000,0000,,{\i1}- -Doujin...\N--Now, let us go, young people,{\i0}
+Dialogue: 0,0:23:24.61,0:23:26.78,Default,,0000,0000,0000,,{\i1}beyond that door of horror!{\i0}
+Dialogue: 0,0:23:26.78,0:23:29.65,Default,,0000,0000,0000,,{\i1}Next time: "The Poison Doujin of Horror."{\i0}
+Dialogue: 0,0:23:29.65,0:23:31.99,Default,,0000,0000,0000,,{\i1}Has my doujin arrived?{\i0}

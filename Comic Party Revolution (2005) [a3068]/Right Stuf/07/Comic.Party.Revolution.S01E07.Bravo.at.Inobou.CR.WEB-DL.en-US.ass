@@ -1,0 +1,448 @@
+[Script Info]
+Title: English (US)
+Original Script: TBS  [http://www.crunchyroll.com/user/TBS]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: On Top Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:15.09,0:00:21.85,Default,,0000,0000,0000,,{\i1}All of a sudden,\Nyou took my hand in yours{\i0}
+Dialogue: 0,0:00:21.85,0:00:27.02,Default,,0000,0000,0000,,{\i1}So that we wouldn't\Nget separated in the crowd{\i0}
+Dialogue: 0,0:00:28.57,0:00:35.36,Default,,0000,0000,0000,,{\i1}I was so happy I couldn't squeeze\Nyour hand very tightly in return{\i0}
+Dialogue: 0,0:00:35.36,0:00:40.74,Default,,0000,0000,0000,,{\i1}That day, I realized I was in love{\i0}
+Dialogue: 0,0:00:41.24,0:00:44.87,Default,,0000,0000,0000,,{\i1}We started out as just friends{\i0}
+Dialogue: 0,0:00:44.87,0:00:49.75,Default,,0000,0000,0000,,{\i1}But now let's cross that boundary line{\i0}
+Dialogue: 0,0:00:49.75,0:00:54.38,Default,,0000,0000,0000,,{\i1}And take off together{\i0}
+Dialogue: 0,0:00:55.55,0:01:02.39,Default,,0000,0000,0000,,{\i1}I can't hold my feelings back\Nanymore It hurts so much I could cry{\i0}
+Dialogue: 0,0:01:02.39,0:01:05.73,Default,,0000,0000,0000,,{\i1}I love you so much{\i0}
+Dialogue: 0,0:01:05.73,0:01:09.11,Default,,0000,0000,0000,,{\i1}Listen, I can't lie to myself{\i0}
+Dialogue: 0,0:01:09.11,0:01:15.74,Default,,0000,0000,0000,,{\i1}This is embarrassing to ask, but{\i0}
+Dialogue: 0,0:01:15.74,0:01:19.24,Default,,0000,0000,0000,,{\i1}Please accept everything about me{\i0}
+Dialogue: 0,0:01:19.24,0:01:25.46,Default,,0000,0000,0000,,{\i1}Yes, now and forever{\i0}
+Dialogue: 0,0:01:43.60,0:01:47.44,Default,,0000,0000,0000,,{\an8}"Bravo at Inobou!" {\an}
+Dialogue: 0,0:01:49.48,0:01:53.90,Default,,0000,0000,0000,,I just can't seem to get motivated\Nunless there's a deadline coming up.
+Dialogue: 0,0:01:57.61,0:01:58.78,Default,,0000,0000,0000,,Hot spring!
+Dialogue: 0,0:01:58.78,0:01:59.61,Default,,0000,0000,0000,,Yu!
+Dialogue: 0,0:01:59.61,0:02:01.41,Default,,0000,0000,0000,,Kazuki, let's go to a hot spring!
+Dialogue: 0,0:02:01.41,0:02:03.62,Default,,0000,0000,0000,,Hot spring?
+Dialogue: 0,0:02:04.83,0:02:06.62,Default,,0000,0000,0000,,The Kansai Comic Party!
+Dialogue: 0,0:02:06.62,0:02:10.17,Default,,0000,0000,0000,,It's held at the Osaka\NNational Culture Exhibition Hall.
+Dialogue: 0,0:02:10.17,0:02:11.92,Default,,0000,0000,0000,,Where writers and\Nreaders from Osaka and Kobe
+Dialogue: 0,0:02:11.92,0:02:14.96,Default,,0000,0000,0000,,polish their talents,\Nand overcome hardship.
+Dialogue: 0,0:02:14.96,0:02:16.67,Default,,0000,0000,0000,,It's our battleground!
+Dialogue: 0,0:02:16.67,0:02:22.60,Default,,0000,0000,0000,,It's like a field of guts for Kansai doujin!
+Dialogue: 0,0:02:22.60,0:02:24.47,Default,,0000,0000,0000,,Kansai Comipa, huh?
+Dialogue: 0,0:02:24.47,0:02:27.68,Default,,0000,0000,0000,,So what does that have\Nto do with the hot spring?
+Dialogue: 0,0:02:27.68,0:02:30.02,Default,,0000,0000,0000,,Well about that, Kazuki...
+Dialogue: 0,0:02:30.02,0:02:32.86,Default,,0000,0000,0000,,How's about helping out Karamitei?
+Dialogue: 0,0:02:32.86,0:02:35.19,Default,,0000,0000,0000,,Huh? You mean your circle?
+Dialogue: 0,0:02:35.19,0:02:38.24,Default,,0000,0000,0000,,This time I wanna go\Nall out and sell like crazy!
+Dialogue: 0,0:02:38.24,0:02:39.99,Default,,0000,0000,0000,,An' besides, the more staff the better!
+Dialogue: 0,0:02:39.99,0:02:41.49,Default,,0000,0000,0000,,Okay? I'm counting on you!
+Dialogue: 0,0:02:41.49,0:02:44.12,Default,,0000,0000,0000,,Oh, I've already arranged a place\Nfor you to stay, so don't worry 'bout that!
+Dialogue: 0,0:02:44.12,0:02:44.99,Default,,0000,0000,0000,,If ya stay at my place,
+Dialogue: 0,0:02:44.99,0:02:46.83,Default,,0000,0000,0000,,you can go in the hot\Nspring as much as ya want!
+Dialogue: 0,0:02:46.83,0:02:50.50,Default,,0000,0000,0000,,Oh yeah, that's right.\NYour family runs an inn in Kobe.
+Dialogue: 0,0:02:50.50,0:02:52.21,Default,,0000,0000,0000,,Just help me out a little bit,
+Dialogue: 0,0:02:52.21,0:02:54.25,Default,,0000,0000,0000,,and after that, you can\Nrelax and enjoy the hot spring!
+Dialogue: 0,0:02:54.25,0:02:56.55,Default,,0000,0000,0000,,Whaddya think? Sounds good, don't it?
+Dialogue: 0,0:02:56.55,0:02:58.55,Default,,0000,0000,0000,,A hot spring, huh?
+Dialogue: 0,0:02:58.55,0:03:00.88,Default,,0000,0000,0000,,I guess it wouldn't hurt to\Ntake it easy once in a while.
+Dialogue: 0,0:03:00.88,0:03:02.43,Default,,0000,0000,0000,,Really?
+Dialogue: 0,0:03:02.43,0:03:06.18,Default,,0000,0000,0000,,Thanks a bunch!\NI knew I could count on you!
+Dialogue: 0,0:03:09.89,0:03:10.98,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:03:10.98,0:03:13.77,Default,,0000,0000,0000,,Oh, nothing.
+Dialogue: 0,0:03:13.77,0:03:16.15,Default,,0000,0000,0000,,I've heard the whole story.
+Dialogue: 0,0:03:17.28,0:03:18.19,Default,,0000,0000,0000,,You again.
+Dialogue: 0,0:03:18.19,0:03:20.49,Default,,0000,0000,0000,,Very impressive, Comrade Kazuki.
+Dialogue: 0,0:03:20.49,0:03:22.03,Default,,0000,0000,0000,,To think that to gain\Na foothold on world conquest,
+Dialogue: 0,0:03:22.03,0:03:23.37,Default,,0000,0000,0000,,you are advancing toward Kansai!
+Dialogue: 0,0:03:23.37,0:03:25.37,Default,,0000,0000,0000,,--A hot spring, that's nice!\N--Since time immemorial, once every year,
+Dialogue: 0,0:03:25.37,0:03:26.74,Default,,0000,0000,0000,,--Don't you think, Kazuki?\N--special effects shows have tie-ins with local inns
+Dialogue: 0,0:03:26.74,0:03:27.79,Default,,0000,0000,0000,,--I guess there are some things\N--special effects shows have tie-ins with local inns
+Dialogue: 0,0:03:27.79,0:03:30.25,Default,,0000,0000,0000,,--only a hot spring panda can do.\N--and do large-scale shooting.
+Dialogue: 0,0:03:30.25,0:03:31.54,Default,,0000,0000,0000,,--Following that ancient and honorable custom
+Dialogue: 0,0:03:31.54,0:03:32.83,Default,,0000,0000,0000,,--Thank you so much for\N--Following that ancient and honorable custom
+Dialogue: 0,0:03:32.83,0:03:36.13,Default,,0000,0000,0000,,--inviting Subaru along too!\N--isn't a bad idea at all.
+Dialogue: 0,0:03:36.13,0:03:37.92,Default,,0000,0000,0000,,Chisa is grateful too!
+Dialogue: 0,0:03:37.92,0:03:40.88,Default,,0000,0000,0000,,I'll make a pleasure trip out of this!
+Dialogue: 0,0:03:42.76,0:03:45.89,Default,,0000,0000,0000,,Hot springs are good\Nfor your health, right?
+Dialogue: 0,0:03:45.89,0:03:47.60,Default,,0000,0000,0000,,Excuse me, I'll come too.
+Dialogue: 0,0:03:47.60,0:03:49.81,Default,,0000,0000,0000,,What a coincidence.
+Dialogue: 0,0:03:49.81,0:03:55.73,Default,,0000,0000,0000,,I was just chosen to observe\Noperations at the Kansai Comipa.
+Dialogue: 0,0:03:55.73,0:03:58.73,Default,,0000,0000,0000,,Hey, nice for all of you to come!
+Dialogue: 0,0:03:58.73,0:04:01.28,Default,,0000,0000,0000,,The more the merrier!\NThat's the best way to go!
+Dialogue: 0,0:04:01.28,0:04:03.36,Default,,0000,0000,0000,,Awright! There's going to be surprises!
+Dialogue: 0,0:04:03.36,0:04:07.16,Default,,0000,0000,0000,,There's going to be a little\Npeek-a-boo too! Hot spring, here we come!
+Dialogue: 0,0:04:07.16,0:04:08.99,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:04:08.99,0:04:10.41,Default,,0000,0000,0000,,Boo hoo hoo...
+Dialogue: 0,0:04:13.58,0:04:15.33,Default,,0000,0000,0000,,And so, we're all here!
+Dialogue: 0,0:04:15.33,0:04:17.17,Default,,0000,0000,0000,,{\an8}"Inobou Inn" {\an}
+Dialogue: 0,0:04:17.17,0:04:21.09,Default,,0000,0000,0000,,It's a so-called long standing inn\Nthat's been in my family for generations.
+Dialogue: 0,0:04:21.09,0:04:22.76,Default,,0000,0000,0000,,Whaddya think? Ain't it nice?
+Dialogue: 0,0:04:22.76,0:04:25.39,Default,,0000,0000,0000,,You can sure feel the history!
+Dialogue: 0,0:04:25.39,0:04:29.93,Default,,0000,0000,0000,,Yeah, I never expected it to be\Nso deep in the mountains though.
+Dialogue: 0,0:04:29.93,0:04:32.52,Default,,0000,0000,0000,,If it's been in your family for generations,
+Dialogue: 0,0:04:32.52,0:04:35.48,Default,,0000,0000,0000,,does that mean that you'll\Nbecome the innkeeper here one day?
+Dialogue: 0,0:04:35.48,0:04:37.44,Default,,0000,0000,0000,,Darn right!
+Dialogue: 0,0:04:37.44,0:04:41.03,Default,,0000,0000,0000,,That's been my dream since I was a kid!
+Dialogue: 0,0:04:41.03,0:04:45.07,Default,,0000,0000,0000,,Her dream since she was a child, huh?
+Dialogue: 0,0:04:45.07,0:04:50.99,Default,,0000,0000,0000,,I figure I'll marry a nice guy,\Nand we'll run the inn together.
+Dialogue: 0,0:04:52.95,0:04:53.79,Default,,0000,0000,0000,,Welcome!
+Dialogue: 0,0:04:53.79,0:04:55.83,Default,,0000,0000,0000,,Well, let's leave the\Ntedious chit-chat for later.
+Dialogue: 0,0:04:55.83,0:04:57.79,Default,,0000,0000,0000,,First up, let's get in the bath!
+Dialogue: 0,0:04:57.79,0:04:59.46,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:04:59.88,0:05:01.59,Default,,0000,0000,0000,,"Men's Bath"
+Dialogue: 0,0:05:01.59,0:05:02.46,Default,,0000,0000,0000,,"Women's Bath"
+Dialogue: 0,0:05:04.17,0:05:07.76,Default,,0000,0000,0000,,Aaah, this feels so nice.
+Dialogue: 0,0:05:07.76,0:05:13.64,Default,,0000,0000,0000,,So this is a hot spring! Chisa is impressed!
+Dialogue: 0,0:05:15.44,0:05:20.36,Default,,0000,0000,0000,,Big baths are the best!\NSubaru is going to swim!
+Dialogue: 0,0:05:21.32,0:05:25.82,Default,,0000,0000,0000,,No, Subaru, you have to follow the rules.
+Dialogue: 0,0:05:27.20,0:05:28.66,Default,,0000,0000,0000,,It doesn't matter.
+Dialogue: 0,0:05:28.66,0:05:30.91,Default,,0000,0000,0000,,We're the only customers here today,
+Dialogue: 0,0:05:30.91,0:05:35.33,Default,,0000,0000,0000,,so it's like we've got\Nthe whole place reserved.
+Dialogue: 0,0:05:35.33,0:05:38.67,Default,,0000,0000,0000,,Umm... Isn't there a lot of steam?
+Dialogue: 0,0:05:38.67,0:05:41.17,Default,,0000,0000,0000,,Oh, there's a few reasons for that.
+Dialogue: 0,0:05:41.17,0:05:42.67,Default,,0000,0000,0000,,Just bear with it.
+Dialogue: 0,0:05:42.67,0:05:45.17,Default,,0000,0000,0000,,Wow, Aya's skin is so smooth!
+Dialogue: 0,0:05:45.17,0:05:46.51,Default,,0000,0000,0000,,Where?
+Dialogue: 0,0:05:46.51,0:05:49.22,Default,,0000,0000,0000,,Umm... That tickles.
+Dialogue: 0,0:05:49.22,0:05:52.01,Default,,0000,0000,0000,,Hey everyone, notice my nice body!
+Dialogue: 0,0:05:52.01,0:05:54.27,Default,,0000,0000,0000,,Yeah, your scrawny "nice body."
+Dialogue: 0,0:05:54.27,0:05:56.60,Default,,0000,0000,0000,,You're the one who's as flat as a board!
+Dialogue: 0,0:05:56.60,0:05:59.06,Default,,0000,0000,0000,,What are they talking about?
+Dialogue: 0,0:06:05.07,0:06:06.40,Default,,0000,0000,0000,,Hi...
+Dialogue: 0,0:06:09.03,0:06:10.41,Default,,0000,0000,0000,,Oh! Ikumi!
+Dialogue: 0,0:06:10.41,0:06:11.87,Default,,0000,0000,0000,,I thought you were a kid,
+Dialogue: 0,0:06:11.87,0:06:14.37,Default,,0000,0000,0000,,but I see this part of you is\Ngrowing up pretty steadily there!
+Dialogue: 0,0:06:14.37,0:06:16.04,Default,,0000,0000,0000,,You think so?
+Dialogue: 0,0:06:16.04,0:06:19.42,Default,,0000,0000,0000,,Compared to the\Nrest of you, I'm just, well...
+Dialogue: 0,0:06:19.42,0:06:21.79,Default,,0000,0000,0000,,They're bigger than Chisa's!
+Dialogue: 0,0:06:21.79,0:06:23.84,Default,,0000,0000,0000,,Stop! That's embarrassing!
+Dialogue: 0,0:06:23.84,0:06:28.01,Default,,0000,0000,0000,,Ikumi, you've grown so\Nmuch before I even realized it.
+Dialogue: 0,0:06:30.68,0:06:31.93,Default,,0000,0000,0000,,Across all ages and lands,
+Dialogue: 0,0:06:31.93,0:06:33.93,Default,,0000,0000,0000,,one of the standard activities\Nat a hot spring is peeping!
+Dialogue: 0,0:06:33.93,0:06:36.64,Default,,0000,0000,0000,,What kind of hot spring story\Nwould this be without peeping?
+Dialogue: 0,0:06:36.64,0:06:38.39,Default,,0000,0000,0000,,Arise, Comrade Kazuki!
+Dialogue: 0,0:06:38.39,0:06:42.23,Default,,0000,0000,0000,,Now is the time to rouse\Nthat passionate blood within you!
+Dialogue: 0,0:06:42.23,0:06:44.40,Default,,0000,0000,0000,,By the way, I'm already roused.
+Dialogue: 0,0:06:44.40,0:06:46.99,Default,,0000,0000,0000,,But that's a crime!
+Dialogue: 0,0:06:46.99,0:06:48.74,Default,,0000,0000,0000,,You coward!
+Dialogue: 0,0:06:48.74,0:06:51.87,Default,,0000,0000,0000,,You should etch the long-cherished\Ndesire of men deep into your eyes!
+Dialogue: 0,0:06:51.87,0:06:52.57,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:06:52.57,0:06:55.04,Default,,0000,0000,0000,,Come on, knock it off, Taishi!
+Dialogue: 0,0:07:09.26,0:07:12.01,Default,,0000,0000,0000,,Oh my...
+Dialogue: 0,0:07:12.01,0:07:14.30,Default,,0000,0000,0000,,What do you think you're doing?
+Dialogue: 0,0:07:16.93,0:07:18.81,Default,,0000,0000,0000,,No!
+Dialogue: 0,0:07:18.81,0:07:24.56,Default,,0000,0000,0000,,Get out of here!
+Dialogue: 0,0:07:24.56,0:07:25.82,Default,,0000,0000,0000,,Bravo!
+Dialogue: 0,0:07:25.82,0:07:28.61,Default,,0000,0000,0000,,Ikumi's gotten bigger.
+Dialogue: 0,0:07:28.61,0:07:31.61,Default,,0000,0000,0000,,Then what exactly are you looking at?!
+Dialogue: 0,0:07:52.09,0:07:54.47,Default,,0000,0000,0000,,There's nothing like this after a bath!
+Dialogue: 0,0:07:56.01,0:08:01.10,Default,,0000,0000,0000,,Killer move! Peach Scramble!
+Dialogue: 0,0:08:01.10,0:08:02.02,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:08:02.02,0:08:06.52,Default,,0000,0000,0000,,Daiei Ryu ultimate technique!\NFierce Tiger, White Dragon Smash!
+Dialogue: 0,0:08:07.98,0:08:11.07,Default,,0000,0000,0000,,Hot spring ping pong sure is fierce.
+Dialogue: 0,0:08:11.07,0:08:12.65,Default,,0000,0000,0000,,Okay, here I go.
+Dialogue: 0,0:08:12.65,0:08:15.45,Default,,0000,0000,0000,,All right! Go ahead!
+Dialogue: 0,0:08:15.45,0:08:16.78,Default,,0000,0000,0000,,There!
+Dialogue: 0,0:08:36.97,0:08:38.93,Default,,0000,0000,0000,,It looks like I lost.
+Dialogue: 0,0:08:41.68,0:08:44.19,Default,,0000,0000,0000,,What's so relaxing about a hot spring?
+Dialogue: 0,0:08:44.19,0:08:46.73,Default,,0000,0000,0000,,I can't take it easy at all.
+Dialogue: 0,0:08:46.73,0:08:48.02,Default,,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:08:48.02,0:08:49.02,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:08:50.19,0:08:51.19,Default,,0000,0000,0000,,Yu...
+Dialogue: 0,0:08:51.19,0:08:52.57,Default,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:08:52.57,0:08:55.70,Default,,0000,0000,0000,,If you're tired, I can set up\Na futon in your room for you.
+Dialogue: 0,0:08:55.70,0:08:58.74,Default,,0000,0000,0000,,Oh, no, I'm totally fine.
+Dialogue: 0,0:08:58.74,0:09:00.70,Default,,0000,0000,0000,,Sorry to worry you.
+Dialogue: 0,0:09:00.70,0:09:02.54,Default,,0000,0000,0000,,Thank goodness you're all right.
+Dialogue: 0,0:09:02.54,0:09:05.71,Default,,0000,0000,0000,,I don't know what I would have\Ndone if anything had happened to you.
+Dialogue: 0,0:09:05.71,0:09:07.04,Default,,0000,0000,0000,,You're exaggerating.
+Dialogue: 0,0:09:07.04,0:09:09.21,Default,,0000,0000,0000,,No, I'm not!
+Dialogue: 0,0:09:09.21,0:09:11.96,Default,,0000,0000,0000,,I really...
+Dialogue: 0,0:09:17.39,0:09:21.56,Default,,0000,0000,0000,,Actually, I've got something\Nimportant to talk to you about.
+Dialogue: 0,0:09:21.56,0:09:23.18,Default,,0000,0000,0000,,Something important?
+Dialogue: 0,0:09:24.56,0:09:26.69,Default,,0000,0000,0000,,Kazuki!
+Dialogue: 0,0:09:26.69,0:09:28.90,Default,,0000,0000,0000,,Kazuki, I...
+Dialogue: 0,0:09:35.07,0:09:36.36,Default,,0000,0000,0000,,Are you okay?
+Dialogue: 0,0:09:36.36,0:09:38.45,Default,,0000,0000,0000,,Yeah...
+Dialogue: 0,0:09:38.45,0:09:41.08,Default,,0000,0000,0000,,Kazuki, I...
+Dialogue: 0,0:09:41.08,0:09:42.41,Default,,0000,0000,0000,,Yu...
+Dialogue: 0,0:09:43.91,0:09:45.08,Default,,0000,0000,0000,,Hold it!
+Dialogue: 0,0:09:45.08,0:09:47.46,Default,,0000,0000,0000,,What do you think you're\Ndoing to Kazuki, Hot Spring Panda?!
+Dialogue: 0,0:09:47.46,0:09:49.79,Default,,0000,0000,0000,,You were just off-handedly\Nhanging all over him!
+Dialogue: 0,0:09:49.79,0:09:51.42,Default,,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:09:51.42,0:09:54.09,Default,,0000,0000,0000,,Oh, there's lint.
+Dialogue: 0,0:09:54.09,0:09:56.76,Default,,0000,0000,0000,,That little act of yours won't work on me!
+Dialogue: 0,0:09:56.76,0:09:59.76,Default,,0000,0000,0000,,The Great Eimi's eyes\Naren't lined, you know!
+Dialogue: 0,0:09:59.76,0:10:02.01,Default,,0000,0000,0000,,I think you mean "blind".
+Dialogue: 0,0:10:02.01,0:10:06.02,Default,,0000,0000,0000,,Your brain's as tiny as ever.
+Dialogue: 0,0:10:06.02,0:10:09.27,Default,,0000,0000,0000,,What's with you?! Who do you think I am?!
+Dialogue: 0,0:10:09.27,0:10:11.19,Default,,0000,0000,0000,,I'm the King of\NQueens of the Comipa world!
+Dialogue: 0,0:10:11.19,0:10:13.48,Default,,0000,0000,0000,,The one who makes crying\Nkids laugh! The Great Eimi!
+Dialogue: 0,0:10:13.48,0:10:17.74,Default,,0000,0000,0000,,I don't even know where to\Nbegin making fun of you for that.
+Dialogue: 0,0:10:17.74,0:10:19.16,Default,,0000,0000,0000,,Yu...
+Dialogue: 0,0:10:19.16,0:10:22.12,Default,,0000,0000,0000,,"Inobou Inn"
+Dialogue: 0,0:10:22.12,0:10:23.45,Default,,0000,0000,0000,,{\an8}"Restroom" {\an}
+Dialogue: 0,0:10:23.45,0:10:26.37,Default,,0000,0000,0000,,I can't relax at all.
+Dialogue: 0,0:10:28.50,0:10:31.96,Default,,0000,0000,0000,,But Yu was acting kind of strange today.
+Dialogue: 0,0:10:31.96,0:10:34.67,Default,,0000,0000,0000,,He seems like a pretty nice boy.
+Dialogue: 0,0:10:34.67,0:10:39.93,Default,,0000,0000,0000,,No wonder you picked him.\NYou said his name is Sendo, right?
+Dialogue: 0,0:10:39.93,0:10:43.35,Default,,0000,0000,0000,,Have you come out and\Ntold him how you feel, Yu?
+Dialogue: 0,0:10:43.35,0:10:47.77,Default,,0000,0000,0000,,Not yet. I'm worried\Nabout if he turns me down.
+Dialogue: 0,0:10:47.77,0:10:49.27,Default,,0000,0000,0000,,That's not like me.
+Dialogue: 0,0:10:49.27,0:10:52.31,Default,,0000,0000,0000,,Then do you want me to tell him?
+Dialogue: 0,0:10:52.31,0:10:53.82,Default,,0000,0000,0000,,No, that's not a good idea!
+Dialogue: 0,0:10:53.82,0:10:56.36,Default,,0000,0000,0000,,This is my problem.
+Dialogue: 0,0:10:56.36,0:10:59.57,Default,,0000,0000,0000,,I'll find out how Kazuki feels myself.
+Dialogue: 0,0:10:59.57,0:11:01.66,Default,,0000,0000,0000,,It's for this inn.
+Dialogue: 0,0:11:01.66,0:11:04.37,Default,,0000,0000,0000,,Taking over this inn is my dream.
+Dialogue: 0,0:11:04.37,0:11:06.20,Default,,0000,0000,0000,,Yu's dream?
+Dialogue: 0,0:11:06.20,0:11:08.25,Default,,0000,0000,0000,,Darn right!
+Dialogue: 0,0:11:08.25,0:11:11.04,Default,,0000,0000,0000,,That's been my dream since I was a kid!
+Dialogue: 0,0:11:11.04,0:11:17.26,Default,,0000,0000,0000,,I figure I'll marry a nice guy,\Nand we'll run the inn together.
+Dialogue: 0,0:11:17.26,0:11:22.26,Default,,0000,0000,0000,,{\i1}Could she really be serious about me?{\i0}
+Dialogue: 0,0:11:25.89,0:11:28.10,Default,,0000,0000,0000,,{\i1}Comic Party Revolution!{\i0}
+Dialogue: 0,0:11:28.10,0:11:29.93,Default,,0000,0000,0000,,Je t'aime.
+Dialogue: 0,0:11:33.06,0:11:34.44,Default,,0000,0000,0000,,{\i1}Comic Party{\i0}
+Dialogue: 0,0:11:34.44,0:11:35.86,Default,,0000,0000,0000,,{\i1}Revolution!{\i0}
+Dialogue: 0,0:11:39.15,0:11:41.95,Default,,0000,0000,0000,,Hup! Hup! Hup! Hup! Hup! Hup!
+Dialogue: 0,0:11:43.37,0:11:45.37,Default,,0000,0000,0000,,Hup, two, three, four...
+Dialogue: 0,0:11:52.00,0:11:54.54,Default,,0000,0000,0000,,That was close.
+Dialogue: 0,0:11:54.54,0:11:56.54,Default,,0000,0000,0000,,Thanks, Kazuki!
+Dialogue: 0,0:11:56.54,0:11:58.00,Default,,0000,0000,0000,,Are you all right?
+Dialogue: 0,0:11:58.00,0:12:01.38,Default,,0000,0000,0000,,Actually, I'm sorry, I was spaced out.
+Dialogue: 0,0:12:01.38,0:12:03.13,Default,,0000,0000,0000,,Oh, don't worry 'bout it!
+Dialogue: 0,0:12:03.13,0:12:05.89,Default,,0000,0000,0000,,Things are almost ready for\Nthe party, so look forward to it!
+Dialogue: 0,0:12:05.89,0:12:08.72,Default,,0000,0000,0000,,Did you make all the\Npreparations yourself?
+Dialogue: 0,0:12:08.72,0:12:09.97,Default,,0000,0000,0000,,Well, yeah.
+Dialogue: 0,0:12:09.97,0:12:13.73,Default,,0000,0000,0000,,It might be "long standing,"\Nbut in the end it's just a small inn.
+Dialogue: 0,0:12:13.73,0:12:16.27,Default,,0000,0000,0000,,The situation behind the\Nscene's lookin' pretty bad.
+Dialogue: 0,0:12:16.27,0:12:17.90,Default,,0000,0000,0000,,Yu...
+Dialogue: 0,0:12:17.90,0:12:21.07,Default,,0000,0000,0000,,Sorry, I shouldn't be\Ncomplainin' to a customer.
+Dialogue: 0,0:12:21.07,0:12:22.78,Default,,0000,0000,0000,,I'll just finish this up real quick.
+Dialogue: 0,0:12:23.86,0:12:25.07,Default,,0000,0000,0000,,Kazuki?
+Dialogue: 0,0:12:25.07,0:12:26.91,Default,,0000,0000,0000,,It's all right for me to carry this, right?
+Dialogue: 0,0:12:26.91,0:12:28.99,Default,,0000,0000,0000,,And if we get everyone else\Nto help, it will be done real fast!
+Dialogue: 0,0:12:28.99,0:12:31.25,Default,,0000,0000,0000,,But I couldn't ask customers to do that...
+Dialogue: 0,0:12:31.25,0:12:33.92,Default,,0000,0000,0000,,Don't call us customers, that's too formal.
+Dialogue: 0,0:12:33.92,0:12:36.17,Default,,0000,0000,0000,,We're friends, aren't we?
+Dialogue: 0,0:12:36.17,0:12:37.59,Default,,0000,0000,0000,,Kazuki...
+Dialogue: 0,0:12:37.59,0:12:39.25,Default,,0000,0000,0000,,See ya.
+Dialogue: 0,0:12:41.30,0:12:45.55,Default,,0000,0000,0000,,Wait a minute.
+Dialogue: 0,0:12:45.55,0:12:46.80,Default,,0000,0000,0000,,Yu...
+Dialogue: 0,0:12:46.80,0:12:48.64,Default,,0000,0000,0000,,Don't move.
+Dialogue: 0,0:12:48.64,0:12:50.47,Default,,0000,0000,0000,,Stay just like this, for just a little bit...
+Dialogue: 0,0:12:50.47,0:12:53.06,Default,,0000,0000,0000,,Uh, sure...
+Dialogue: 0,0:12:57.27,0:12:59.23,Default,,0000,0000,0000,,Thanks, Kazuki.
+Dialogue: 0,0:12:59.23,0:13:02.07,Default,,0000,0000,0000,,Sure...
+Dialogue: 0,0:13:02.07,0:13:04.95,Default,,0000,0000,0000,,Um, hey, listen...
+Dialogue: 0,0:13:10.79,0:13:12.62,Default,,0000,0000,0000,,Cheers!
+Dialogue: 0,0:13:15.33,0:13:17.46,Default,,0000,0000,0000,,Delicious!
+Dialogue: 0,0:13:17.46,0:13:20.00,Default,,0000,0000,0000,,This is the best!
+Dialogue: 0,0:13:20.00,0:13:22.80,Default,,0000,0000,0000,,Getting in the hot spring,\Nplaying ping pong,
+Dialogue: 0,0:13:22.80,0:13:25.22,Default,,0000,0000,0000,,and even eating all this delicious food...
+Dialogue: 0,0:13:25.22,0:13:27.39,Default,,0000,0000,0000,,Hot springs are the best!
+Dialogue: 0,0:13:27.39,0:13:29.93,Default,,0000,0000,0000,,Oh, Chisa...
+Dialogue: 0,0:13:29.93,0:13:33.77,Default,,0000,0000,0000,,What are you sitting there,\Neating so purposelessly for, Comrades?
+Dialogue: 0,0:13:33.77,0:13:35.14,Default,,0000,0000,0000,,When at a hot spring,\Nyou must have a party!
+Dialogue: 0,0:13:35.14,0:13:36.77,Default,,0000,0000,0000,,And there's no party\Nwithout a special party stunt!
+Dialogue: 0,0:13:36.77,0:13:38.36,Default,,0000,0000,0000,,It's a law of the great universe!
+Dialogue: 0,0:13:38.36,0:13:43.32,Default,,0000,0000,0000,,I shall lead the way!
+Dialogue: 0,0:13:43.32,0:13:46.99,Default,,0000,0000,0000,,Have a real good look, oh, my sisters!
+Dialogue: 0,0:13:47.66,0:13:49.45,Default,,0000,0000,0000,,I saw something good.
+Dialogue: 0,0:13:50.66,0:13:52.87,Default,,0000,0000,0000,,Physical beauty, huh?
+Dialogue: 0,0:13:52.87,0:13:55.08,Default,,0000,0000,0000,,In that case, I will...
+Dialogue: 0,0:13:55.08,0:13:57.04,Default,,0000,0000,0000,,Big Brother, no!
+Dialogue: 0,0:13:57.04,0:14:01.09,Default,,0000,0000,0000,,Right... Fine, I understand.
+Dialogue: 0,0:14:02.55,0:14:04.13,Default,,0000,0000,0000,,Hey, this is pretty good food.
+Dialogue: 0,0:14:04.13,0:14:07.80,Default,,0000,0000,0000,,I guess there are some things\Nonly a hot spring panda can do.
+Dialogue: 0,0:14:07.80,0:14:11.35,Default,,0000,0000,0000,,You're the only one\Nwho calls me that, you know.
+Dialogue: 0,0:14:11.35,0:14:15.02,Default,,0000,0000,0000,,How dare you talk to me like\Nthat?! I was giving you a compliment!
+Dialogue: 0,0:14:15.02,0:14:16.85,Default,,0000,0000,0000,,Darn right!
+Dialogue: 0,0:14:16.85,0:14:20.06,Default,,0000,0000,0000,,That's been my dream since I was a kid!
+Dialogue: 0,0:14:20.06,0:14:21.40,Default,,0000,0000,0000,,Kazuki...
+Dialogue: 0,0:14:21.40,0:14:22.98,Default,,0000,0000,0000,,Kazuki, I...
+Dialogue: 0,0:14:22.98,0:14:25.44,Default,,0000,0000,0000,,Stay just like this, for just a little bit...
+Dialogue: 0,0:14:25.44,0:14:27.45,Default,,0000,0000,0000,,{\i1}What am I thinking?{\i0}
+Dialogue: 0,0:14:27.45,0:14:30.03,Default,,0000,0000,0000,,{\i1}Yu's the last one who\Nwould do something like that.{\i0}
+Dialogue: 0,0:14:30.03,0:14:32.37,Default,,0000,0000,0000,,{\i1}What is "something like that"?{\i0}
+Dialogue: 0,0:14:32.37,0:14:35.37,Default,,0000,0000,0000,,{\i1}What am I thinking?{\i0}
+Dialogue: 0,0:14:35.37,0:14:36.71,Default,,0000,0000,0000,,Delicious!
+Dialogue: 0,0:14:44.38,0:14:46.46,Default,,0000,0000,0000,,Big Brother, wake up!
+Dialogue: 0,0:14:46.46,0:14:48.22,Default,,0000,0000,0000,,Where's Kazuki?
+Dialogue: 0,0:14:57.10,0:14:59.06,Default,,0000,0000,0000,,This is my problem.
+Dialogue: 0,0:14:59.06,0:15:02.73,Default,,0000,0000,0000,,I'll find out how Kazuki feels myself.
+Dialogue: 0,0:15:02.73,0:15:06.11,Default,,0000,0000,0000,,Does she really have feelings for me?
+Dialogue: 0,0:15:12.49,0:15:13.87,Default,,0000,0000,0000,,Feels nice, huh?
+Dialogue: 0,0:15:13.87,0:15:15.62,Default,,0000,0000,0000,,Yu!
+Dialogue: 0,0:15:15.62,0:15:17.20,Default,,0000,0000,0000,,It's so nice, isn't it?
+Dialogue: 0,0:15:17.20,0:15:20.25,Default,,0000,0000,0000,,Soaking in a hot spring\Nand looking up at the moon?
+Dialogue: 0,0:15:20.25,0:15:22.42,Default,,0000,0000,0000,,Good evening, Moon!
+Dialogue: 0,0:15:27.59,0:15:30.72,Default,,0000,0000,0000,,Umm, well...
+Dialogue: 0,0:15:30.72,0:15:34.55,Default,,0000,0000,0000,,Why did you come in here,\NYu? This is the guy's bath!
+Dialogue: 0,0:15:34.55,0:15:37.56,Default,,0000,0000,0000,,At this time of night,\Nthe open air bath is mixed bathing.
+Dialogue: 0,0:15:37.56,0:15:39.39,Default,,0000,0000,0000,,It's posted out on the door.
+Dialogue: 0,0:15:39.39,0:15:41.90,Default,,0000,0000,0000,,It is?
+Dialogue: 0,0:15:41.90,0:15:42.77,Default,,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:15:42.77,0:15:44.65,Default,,0000,0000,0000,,You don't gotta apologize.
+Dialogue: 0,0:15:44.65,0:15:47.57,Default,,0000,0000,0000,,Since it's mixed bathing,\Nit doesn't matter who comes in.
+Dialogue: 0,0:15:47.57,0:15:50.24,Default,,0000,0000,0000,,So we can both get in\Nwithout bein' embarrassed.
+Dialogue: 0,0:15:50.24,0:15:54.87,Default,,0000,0000,0000,,I guess you're right. Yeah...
+Dialogue: 0,0:15:54.87,0:15:56.45,Default,,0000,0000,0000,,So, isn't this nice?
+Dialogue: 0,0:15:56.45,0:15:57.45,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:15:57.45,0:15:59.08,Default,,0000,0000,0000,,Isn't this a nice bath?
+Dialogue: 0,0:15:59.08,0:15:59.91,Default,,0000,0000,0000,,Even 'round here,
+Dialogue: 0,0:15:59.91,0:16:01.71,Default,,0000,0000,0000,,there aren't any other\Nhot springs where you can
+Dialogue: 0,0:16:01.71,0:16:03.21,Default,,0000,0000,0000,,take it easy as much as you can here.
+Dialogue: 0,0:16:03.21,0:16:04.63,Default,,0000,0000,0000,,It's our business's pride and joy!
+Dialogue: 0,0:16:04.63,0:16:05.88,Default,,0000,0000,0000,,Yeah, you're right.
+Dialogue: 0,0:16:05.88,0:16:07.80,Default,,0000,0000,0000,,Well, there's been a lot of commotion,
+Dialogue: 0,0:16:07.80,0:16:10.09,Default,,0000,0000,0000,,but you let me relax\Nfor the first time in a while.
+Dialogue: 0,0:16:10.09,0:16:12.30,Default,,0000,0000,0000,,Really? Thanks.
+Dialogue: 0,0:16:12.30,0:16:13.97,Default,,0000,0000,0000,,No, thank you!
+Dialogue: 0,0:16:17.10,0:16:21.48,Default,,0000,0000,0000,,But once I take it over,\NI'm going to make this inn even better.
+Dialogue: 0,0:16:23.73,0:16:27.98,Default,,0000,0000,0000,,I'd be happy if you get\Nto like it even more too.
+Dialogue: 0,0:16:30.65,0:16:33.66,Default,,0000,0000,0000,,Kazuki, there's something\NI need to talk to you about.
+Dialogue: 0,0:16:33.66,0:16:35.12,Default,,0000,0000,0000,,Sorry.
+Dialogue: 0,0:16:35.12,0:16:37.12,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:16:37.12,0:16:41.58,Default,,0000,0000,0000,,I didn't notice your feelings at all.
+Dialogue: 0,0:16:41.58,0:16:43.21,Default,,0000,0000,0000,,Kazuki?
+Dialogue: 0,0:16:43.21,0:16:46.42,Default,,0000,0000,0000,,I can't believe you see so much in me.
+Dialogue: 0,0:16:46.42,0:16:51.13,Default,,0000,0000,0000,,I don't really know if I\Nshould say thank you or what.
+Dialogue: 0,0:16:51.13,0:16:53.68,Default,,0000,0000,0000,,Oh, so you noticed?
+Dialogue: 0,0:16:53.68,0:16:56.34,Default,,0000,0000,0000,,Oh, yeah, I should apologize to you.
+Dialogue: 0,0:16:56.34,0:16:59.51,Default,,0000,0000,0000,,Asking you to help with the\NKansai Comipa was just an excuse.
+Dialogue: 0,0:16:59.51,0:17:00.85,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:17:00.85,0:17:06.02,Default,,0000,0000,0000,,To tell ya the truth, I wanted you\Nto see my family's inn and hot spring.
+Dialogue: 0,0:17:06.02,0:17:07.36,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:17:07.36,0:17:08.65,Default,,0000,0000,0000,,Yu...
+Dialogue: 0,0:17:08.65,0:17:12.53,Default,,0000,0000,0000,,But in that case, it makes\Nthings simpler! Right, Kazuki?
+Dialogue: 0,0:17:12.53,0:17:13.86,Default,,0000,0000,0000,,Yu...
+Dialogue: 0,0:17:15.95,0:17:17.20,Default,,0000,0000,0000,,Here we are!
+Dialogue: 0,0:17:17.20,0:17:20.66,Default,,0000,0000,0000,,Greetings! Welcome to Inobou Inn!
+Dialogue: 0,0:17:20.66,0:17:26.04,Default,,0000,0000,0000,,Wow, what a nice looking couple!
+Dialogue: 0,0:17:26.04,0:17:29.63,Default,,0000,0000,0000,,Oh, you kid. Right, dear?
+Dialogue: 0,0:17:30.46,0:17:34.72,Default,,0000,0000,0000,,But that's kinda... It's not\Nlike I hate you or anything, but...
+Dialogue: 0,0:17:34.72,0:17:37.05,Default,,0000,0000,0000,,Well, I think it's too soon.
+Dialogue: 0,0:17:37.05,0:17:39.76,Default,,0000,0000,0000,,It's not too soon at all!
+Dialogue: 0,0:17:39.76,0:17:41.26,Default,,0000,0000,0000,,The chance is now!
+Dialogue: 0,0:17:41.26,0:17:43.81,Default,,0000,0000,0000,,Take the plunge and leap into my chest!
+Dialogue: 0,0:17:43.81,0:17:45.14,Default,,0000,0000,0000,,Chest?
+Dialogue: 0,0:17:48.65,0:17:52.23,Default,,0000,0000,0000,,But I can't decide about\Nthe future yet right now.
+Dialogue: 0,0:17:52.23,0:17:53.23,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:17:53.23,0:17:55.78,Default,,0000,0000,0000,,There's still a lot\NI want to do with doujinshi.
+Dialogue: 0,0:17:55.78,0:17:57.49,Default,,0000,0000,0000,,There's a lot I still want to write.
+Dialogue: 0,0:17:57.49,0:18:02.37,Default,,0000,0000,0000,,And is taking over this\Ninn even right for me at all?
+Dialogue: 0,0:18:02.37,0:18:05.58,Default,,0000,0000,0000,,Hold it, Kazuki.\NWhat are you talking about?
+Dialogue: 0,0:18:05.58,0:18:06.58,Default,,0000,0000,0000,,What do you mean?
+Dialogue: 0,0:18:06.58,0:18:10.84,Default,,0000,0000,0000,,I'm talking about whether I should\Nmarry you and take over this inn or not.
+Dialogue: 0,0:18:10.84,0:18:12.13,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:12.13,0:18:15.01,Default,,0000,0000,0000,,You and me?
+Dialogue: 0,0:18:16.76,0:18:20.18,Default,,0000,0000,0000,,I see...
+Dialogue: 0,0:18:20.18,0:18:22.64,Default,,0000,0000,0000,,So that's what you thought, huh, Kazuki?
+Dialogue: 0,0:18:22.64,0:18:24.14,Default,,0000,0000,0000,,Yu...
+Dialogue: 0,0:18:24.14,0:18:27.31,Default,,0000,0000,0000,,So you're not gonna listen\Nto my request, no matter what?
+Dialogue: 0,0:18:30.61,0:18:32.48,Default,,0000,0000,0000,,Ah, no, you see, umm...
+Dialogue: 0,0:18:32.48,0:18:34.73,Default,,0000,0000,0000,,It's not like I won't do it no matter what...
+Dialogue: 0,0:18:34.73,0:18:36.57,Default,,0000,0000,0000,,I don't know what to do.
+Dialogue: 0,0:18:36.57,0:18:37.74,Default,,0000,0000,0000,,In that case...
+Dialogue: 0,0:18:37.74,0:18:38.45,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:38.45,0:18:41.41,Default,,0000,0000,0000,,Would you do just one favor for me?
+Dialogue: 0,0:18:41.41,0:18:43.24,Default,,0000,0000,0000,,Uh, sure.
+Dialogue: 0,0:19:04.31,0:19:05.89,Default,,0000,0000,0000,,I'm sleepy.
+Dialogue: 0,0:19:05.89,0:19:08.69,Default,,0000,0000,0000,,We ended up carrying on until morning.
+Dialogue: 0,0:19:08.69,0:19:13.02,Default,,0000,0000,0000,,Jeez! That hot spring\Npanda gets too carried away!
+Dialogue: 0,0:19:13.02,0:19:15.48,Default,,0000,0000,0000,,To think that I would be hindered\Nby one of the three great desires,
+Dialogue: 0,0:19:15.48,0:19:17.15,Default,,0000,0000,0000,,the desire for sleep...
+Dialogue: 0,0:19:17.15,0:19:18.95,Default,,0000,0000,0000,,Could this be the plot of a secret society,
+Dialogue: 0,0:19:18.95,0:19:21.49,Default,,0000,0000,0000,,bent on preventing us\Nfrom conquering the world?
+Dialogue: 0,0:19:21.49,0:19:23.49,Default,,0000,0000,0000,,Or could it be...
+Dialogue: 0,0:19:24.03,0:19:24.83,Default,,0000,0000,0000,,{\an8}"Karamitei" {\an}
+Dialogue: 0,0:19:24.83,0:19:27.66,Default,,0000,0000,0000,,Hey! What are you all\Njust standin' there for?
+Dialogue: 0,0:19:27.66,0:19:31.50,Default,,0000,0000,0000,,To us, this is a battlefield!\NYa gotta go all out!
+Dialogue: 0,0:19:31.50,0:19:34.71,Default,,0000,0000,0000,,Listen up! Our goal for today is to sell out!
+Dialogue: 0,0:19:34.71,0:19:37.34,Default,,0000,0000,0000,,Sell and sell and sell some more!
+Dialogue: 0,0:19:37.34,0:19:38.72,Default,,0000,0000,0000,,Speaking of which...
+Dialogue: 0,0:19:38.72,0:19:42.22,Default,,0000,0000,0000,,You got that, Mr. Boar?
+Dialogue: 0,0:19:42.22,0:19:43.51,Default,,0000,0000,0000,,Squeal, squeal...
+Dialogue: 0,0:19:43.51,0:19:45.64,Default,,0000,0000,0000,,Kazuki?!
+Dialogue: 0,0:19:45.64,0:19:47.52,Default,,0000,0000,0000,,You're wrong there!
+Dialogue: 0,0:19:47.52,0:19:51.19,Default,,0000,0000,0000,,It's Inobou Inn's cute mascot, Mr. Boar!
+Dialogue: 0,0:19:51.19,0:19:55.23,Default,,0000,0000,0000,,At any rate, you fit in\Nour costume perfectly!
+Dialogue: 0,0:19:55.23,0:19:58.11,Default,,0000,0000,0000,,I was right about picking you!
+Dialogue: 0,0:19:58.11,0:19:59.94,Default,,0000,0000,0000,,I made sure to take measurements too.
+Dialogue: 0,0:19:59.94,0:20:05.16,Default,,0000,0000,0000,,No wonder you picked him.\NYou said his name is Sendo, right?
+Dialogue: 0,0:20:07.12,0:20:10.79,Default,,0000,0000,0000,,In other words, this is\Nwhat that was all about, Yu?
+Dialogue: 0,0:20:10.79,0:20:11.62,Default,,0000,0000,0000,,Don't be that way,
+Dialogue: 0,0:20:11.62,0:20:13.29,Default,,0000,0000,0000,,you wouldn't have said yes if I asked ya
+Dialogue: 0,0:20:13.29,0:20:14.38,Default,,0000,0000,0000,,to do this right from\Nthe start, now would ya?
+Dialogue: 0,0:20:14.38,0:20:17.67,Default,,0000,0000,0000,,--I've been tricked.\N--Wow! How cute!
+Dialogue: 0,0:20:19.51,0:20:21.84,Default,,0000,0000,0000,,It looks rather good on you, Kazuki.
+Dialogue: 0,0:20:21.84,0:20:23.97,Default,,0000,0000,0000,,First a girl, now an animal?
+Dialogue: 0,0:20:23.97,0:20:26.72,Default,,0000,0000,0000,,Even Haga would have\Ntrouble keeping up with that.
+Dialogue: 0,0:20:26.72,0:20:29.31,Default,,0000,0000,0000,,Well, that's just how Spot is, you know?
+Dialogue: 0,0:20:29.89,0:20:31.89,Default,,0000,0000,0000,,It's an animal hero of justice!
+Dialogue: 0,0:20:31.89,0:20:33.14,Default,,0000,0000,0000,,Awright!
+Dialogue: 0,0:20:33.14,0:20:38.73,Default,,0000,0000,0000,,We're gonna publicize both Karamitei\Nand Inobou Inn for all we're worth!
+Dialogue: 0,0:20:38.73,0:20:41.07,Default,,0000,0000,0000,,I'm countin' on all of you to go all out!
+Dialogue: 0,0:20:41.07,0:20:42.90,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:20:42.90,0:20:45.28,Default,,0000,0000,0000,,What was that nervous thrill all about?
+Dialogue: 0,0:20:45.28,0:20:47.28,Default,,0000,0000,0000,,Give me back my innocent emotions!
+Dialogue: 0,0:20:47.28,0:20:49.08,Default,,0000,0000,0000,,I could say the same thing.
+Dialogue: 0,0:20:49.08,0:20:51.83,Default,,0000,0000,0000,,I was pretty nervous too, ya know.
+Dialogue: 0,0:20:55.75,0:20:58.55,Default,,0000,0000,0000,,What were you nervous about, Yu?
+Dialogue: 0,0:20:58.55,0:21:01.09,Default,,0000,0000,0000,,It... It doesn't matter!
+Dialogue: 0,0:21:01.09,0:21:03.59,Default,,0000,0000,0000,,Come on, it's gonna be opening soon!
+Dialogue: 0,0:21:04.93,0:21:09.01,Default,,0000,0000,0000,,If you're ever in Kobe,\Nbe sure to stop by the Inobou Inn!
+Dialogue: 0,0:21:14.02,0:21:18.15,Default,,0000,0000,0000,,{\i1}Let's start living together right now{\i0}
+Dialogue: 0,0:21:18.15,0:21:22.74,Default,,0000,0000,0000,,{\i1}All that's missing is time{\i0}
+Dialogue: 0,0:21:22.74,0:21:26.78,Default,,0000,0000,0000,,{\i1}Don't you think we need a place{\i0}
+Dialogue: 0,0:21:26.78,0:21:31.24,Default,,0000,0000,0000,,{\i1}Where we can share our smiles,\Nour tears{\i0}, {\i1}and our free time?{\i0}
+Dialogue: 0,0:21:31.24,0:21:39.21,Default,,0000,0000,0000,,{\i1}If I was with you,\NI could stay there forever{\i0}
+Dialogue: 0,0:21:40.50,0:21:44.92,Default,,0000,0000,0000,,{\i1}I know you don't\Nlike anything complicated{\i0}
+Dialogue: 0,0:21:44.92,0:21:49.22,Default,,0000,0000,0000,,{\i1}But I still keep on pulling your arms{\i0}
+Dialogue: 0,0:21:49.22,0:21:53.81,Default,,0000,0000,0000,,{\i1}I finally found this 2LDK{\i0}
+Dialogue: 0,0:21:57.81,0:22:02.15,Default,,0000,0000,0000,,{\i1}A table set would be fine too{\i0}
+Dialogue: 0,0:22:02.15,0:22:06.40,Default,,0000,0000,0000,,{\i1}But I think a kotatsu\Nwould be better after all{\i0}
+Dialogue: 0,0:22:06.40,0:22:10.24,Default,,0000,0000,0000,,{\i1}The time we spend\Njust lying around together{\i0}
+Dialogue: 0,0:22:10.24,0:22:15.16,Default,,0000,0000,0000,,{\i1}Is more important than it sounds{\i0}
+Dialogue: 0,0:22:15.16,0:22:23.76,Default,,0000,0000,0000,,{\i1}It's not easy to find someone\Nyou can always accept{\i0}
+Dialogue: 0,0:22:23.76,0:22:27.30,Default,,0000,0000,0000,,{\i1}And who will always accept you{\i0}
+Dialogue: 0,0:22:27.30,0:22:31.81,Default,,0000,0000,0000,,{\i1}But you are that person for me, so{\i0}
+Dialogue: 0,0:22:31.81,0:22:35.98,Default,,0000,0000,0000,,{\i1}Let's start living together right now{\i0}
+Dialogue: 0,0:22:35.98,0:22:40.61,Default,,0000,0000,0000,,{\i1}All that's missing is time{\i0}
+Dialogue: 0,0:22:40.61,0:22:44.53,Default,,0000,0000,0000,,{\i1}Don't you think we need a place{\i0}
+Dialogue: 0,0:22:44.53,0:22:49.11,Default,,0000,0000,0000,,{\i1}Where we can share smiles,\Nour tears, and our free time?{\i0}
+Dialogue: 0,0:22:49.11,0:22:58.37,Default,,0000,0000,0000,,{\i1}If I was with you,\NI could stay there forever{\i0}
+Dialogue: 0,0:23:05.88,0:23:07.88,Default,,0000,0000,0000,,{\i1}This day has finally come.{\i0}
+Dialogue: 0,0:23:07.88,0:23:10.39,Default,,0000,0000,0000,,{\i1}Thank you so much for\Neverything you've done for me.{\i0}
+Dialogue: 0,0:23:10.39,0:23:13.01,Default,,0000,0000,0000,,{\i1}There's nothing left for me to teach you.{\i0}
+Dialogue: 0,0:23:13.01,0:23:15.02,Default,,0000,0000,0000,,{\i1}You've worked hard, Ikumi.{\i0}
+Dialogue: 0,0:23:15.02,0:23:17.06,Default,,0000,0000,0000,,{\i1}Big Sister Mizuki!{\i0}
+Dialogue: 0,0:23:17.06,0:23:19.52,Default,,0000,0000,0000,,{\i1}I... I...{\i0}
+Dialogue: 0,0:23:19.52,0:23:23.19,Default,,0000,0000,0000,,{\i1}Leave your tears for\Nlater, until after we win!{\i0}
+Dialogue: 0,0:23:23.19,0:23:24.07,Default,,0000,0000,0000,,{\i1}Right!{\i0}
+Dialogue: 0,0:23:24.07,0:23:28.03,Default,,0000,0000,0000,,{\i1}Okay, let's go! To our court!{\i0}
+Dialogue: 0,0:23:28.03,0:23:31.16,Default,,0000,0000,0000,,{\i1}Next time: "Princess of Tennis (tentative)."{\i0}
+Dialogue: 0,0:23:31.16,0:23:32.99,Default,,0000,0000,0000,,{\i1}Not quite there yet, huh?{\i0}

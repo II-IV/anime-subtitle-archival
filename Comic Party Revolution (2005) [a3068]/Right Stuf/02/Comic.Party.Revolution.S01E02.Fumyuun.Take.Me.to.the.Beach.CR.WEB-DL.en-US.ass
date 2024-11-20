@@ -1,0 +1,338 @@
+[Script Info]
+Title: English (US)
+Original Script: TBS  [http://www.crunchyroll.com/user/TBS]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: On Top Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:15.01,0:00:21.81,Default,,0000,0000,0000,,{\i1}Fui ni anata wa watashi\Nno te o tsunaide kureta{\i0}
+Dialogue: 0,0:00:21.81,0:00:26.98,Default,,0000,0000,0000,,{\i1}Hitogomi no naka hagurenai you ni{\i0}
+Dialogue: 0,0:00:28.52,0:00:35.28,Default,,0000,0000,0000,,{\i1}Sugoku ureshikute\Numaku nigirikaesenakute{\i0}
+Dialogue: 0,0:00:35.28,0:00:40.70,Default,,0000,0000,0000,,{\i1}Koi o shiteru tte kizuita ano hi{\i0}
+Dialogue: 0,0:00:41.20,0:00:44.83,Default,,0000,0000,0000,,{\i1}Hajimari wa tomodachi{\i0}
+Dialogue: 0,0:00:44.83,0:00:49.71,Default,,0000,0000,0000,,{\i1}Sono kyoukaisen koete{\i0}
+Dialogue: 0,0:00:49.71,0:00:54.34,Default,,0000,0000,0000,,{\i1}Futari hashiridasou{\i0}
+Dialogue: 0,0:00:55.47,0:01:02.31,Default,,0000,0000,0000,,{\i1}Mou osaekirenai nakechau hodo ni{\i0}
+Dialogue: 0,0:01:02.31,0:01:05.69,Default,,0000,0000,0000,,{\i1}Anata no koto ga daisuki{\i0}
+Dialogue: 0,0:01:05.69,0:01:09.06,Default,,0000,0000,0000,,{\i1}Nee, uso wa tsukenai{\i0}
+Dialogue: 0,0:01:09.06,0:01:15.70,Default,,0000,0000,0000,,{\i1}Mou tomenakute ii terechau keredo{\i0}
+Dialogue: 0,0:01:15.70,0:01:19.16,Default,,0000,0000,0000,,{\i1}Watashi zenbu uketomete{\i0}
+Dialogue: 0,0:01:19.16,0:01:25.41,Default,,0000,0000,0000,,{\i1}Sou, kore kara mo zutto{\i0}
+Dialogue: 0,0:01:45.93,0:01:49.60,Default,,0000,0000,0000,,{\an8}"Fumyuun! Take Me to the Beach!" {\an}
+Dialogue: 0,0:01:49.60,0:01:51.36,Default,,0000,0000,0000,,{\an8}Are you going anywhere\Nduring summer break?{\an}
+Dialogue: 0,0:01:51.36,0:01:52.77,Default,,0000,0000,0000,,To the beach with my boyfriend!
+Dialogue: 0,0:01:52.77,0:01:54.61,Default,,0000,0000,0000,,What? Seriously?
+Dialogue: 0,0:01:58.70,0:02:02.66,Default,,0000,0000,0000,,{\an8}"Summer Remedial Classes"\N"Class 2-B Eimi Ohba"{\an}
+Dialogue: 0,0:02:19.05,0:02:21.14,Default,,0000,0000,0000,,{\an8}"Live it up!"\N"4 days ~ 39,800; 6 days ~ 79,800"{\an}
+Dialogue: 0,0:02:21.14,0:02:22.01,Default,,0000,0000,0000,,{\an8}"The Island Where Summer Never Ends." {\an}
+Dialogue: 0,0:02:33.02,0:02:35.03,Default,,0000,0000,0000,,{\i1}Eimi Ohba...{\i0}
+Dialogue: 0,0:02:35.03,0:02:39.15,Default,,0000,0000,0000,,{\i1}What are you staring at so intensely?{\i0}
+Dialogue: 0,0:02:39.15,0:02:40.82,Default,,0000,0000,0000,,{\i1}That's...{\i0}
+Dialogue: 0,0:02:40.91,0:02:43.16,Default,,0000,0000,0000,,{\an8}"Live it up!" {\an}
+Dialogue: 0,0:02:43.16,0:02:44.33,Default,,0000,0000,0000,,{\an8}"Better Tours: China" {\an}
+Dialogue: 0,0:02:44.33,0:02:45.83,Default,,0000,0000,0000,,{\an8}"4 days ~ 93,800 yen"\N"5 days ~ 178,000 yen"{\an}
+Dialogue: 0,0:02:47.95,0:02:51.50,Default,,0000,0000,0000,,{\i1}She wants to go to New York?!{\i0}
+Dialogue: 0,0:02:51.50,0:02:52.42,Default,,0000,0000,0000,,{\i1}Finally...{\i0}
+Dialogue: 0,0:02:52.42,0:02:54.84,Default,,0000,0000,0000,,{\i1}You're finally moving\Nforward with your plan, Eimi Ohba?{\i0}
+Dialogue: 0,0:02:54.84,0:02:57.96,Default,,0000,0000,0000,,{\i1}Taking your first step toward\Ntaking over the entire world?{\i0}
+Dialogue: 0,0:03:00.47,0:03:04.01,Default,,0000,0000,0000,,However! It's not going to be that easy.
+Dialogue: 0,0:03:04.01,0:03:06.51,Default,,0000,0000,0000,,Did you actually think\Nwe'd let you get away with it?
+Dialogue: 0,0:03:06.51,0:03:10.98,Default,,0000,0000,0000,,"Watch out for Eimi Ohba!!"\NThe world belongs to us, Brother 2!
+Dialogue: 0,0:03:16.90,0:03:18.90,Default,,0000,0000,0000,,I really wanted to go...
+Dialogue: 0,0:03:20.49,0:03:21.82,Default,,0000,0000,0000,,to the beach.
+Dialogue: 0,0:03:23.03,0:03:27.37,Default,,0000,0000,0000,,Let's see... Next,\NI multiply by X squared...
+Dialogue: 0,0:03:27.37,0:03:29.33,Default,,0000,0000,0000,,Stare.
+Dialogue: 0,0:03:29.33,0:03:31.83,Default,,0000,0000,0000,,Hey, why have you been staring at me?
+Dialogue: 0,0:03:31.83,0:03:34.54,Default,,0000,0000,0000,,Is there something on my face?
+Dialogue: 0,0:03:34.54,0:03:37.50,Default,,0000,0000,0000,,You want to go to the beach, don't you?
+Dialogue: 0,0:03:37.50,0:03:38.63,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:03:38.63,0:03:42.55,Default,,0000,0000,0000,,Like I said, you want\Nto go to the beach, right?
+Dialogue: 0,0:03:42.55,0:03:44.22,Default,,0000,0000,0000,,Not really.
+Dialogue: 0,0:03:45.01,0:03:48.89,Default,,0000,0000,0000,,You want to go!\NYou want to go to the beach!
+Dialogue: 0,0:03:49.72,0:03:51.35,Default,,0000,0000,0000,,What are you talking about?
+Dialogue: 0,0:03:51.35,0:03:53.02,Default,,0000,0000,0000,,Like I said!
+Dialogue: 0,0:03:55.98,0:03:57.57,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:03:57.57,0:04:01.70,Default,,0000,0000,0000,,I'm so busy during the summer.
+Dialogue: 0,0:04:01.70,0:04:03.99,Default,,0000,0000,0000,,And I have a part time job too.
+Dialogue: 0,0:04:03.99,0:04:06.41,Default,,0000,0000,0000,,And then there's the summer Comipa.
+Dialogue: 0,0:04:06.41,0:04:09.79,Default,,0000,0000,0000,,I'd better get to work\Nand draw my manuscript.
+Dialogue: 0,0:04:09.79,0:04:12.87,Default,,0000,0000,0000,,But you still want to go to the beach!
+Dialogue: 0,0:04:22.47,0:04:26.43,Default,,0000,0000,0000,,Fine, I want to go to the beach.
+Dialogue: 0,0:04:27.89,0:04:29.76,Default,,0000,0000,0000,,Then I guess I have no choice.
+Dialogue: 0,0:04:29.76,0:04:34.73,Default,,0000,0000,0000,,If you want to go that badly,\NI, the great Eimi, will go with you!
+Dialogue: 0,0:04:35.77,0:04:41.99,Default,,0000,0000,0000,,Wow, I'm so happy. I get to go\Nto the beach with the great Eimi.
+Dialogue: 0,0:04:41.99,0:04:44.53,Default,,0000,0000,0000,,That's right! Be grateful!
+Dialogue: 0,0:04:44.53,0:04:46.95,Default,,0000,0000,0000,,Oh, but you know...
+Dialogue: 0,0:04:46.95,0:04:50.37,Default,,0000,0000,0000,,I'll be fine, but will you be okay?
+Dialogue: 0,0:04:50.37,0:04:53.29,Default,,0000,0000,0000,,What about remedial classes?
+Dialogue: 0,0:04:53.29,0:04:56.50,Default,,0000,0000,0000,,As... As if I'd ever have to take those!
+Dialogue: 0,0:04:56.50,0:04:57.79,Default,,0000,0000,0000,,That's good.
+Dialogue: 0,0:04:57.79,0:04:59.46,Default,,0000,0000,0000,,Because I'm not gonna\Ndrag you to the beach
+Dialogue: 0,0:04:59.46,0:05:01.05,Default,,0000,0000,0000,,while you have remedial classes to take.
+Dialogue: 0,0:05:01.05,0:05:05.43,Default,,0000,0000,0000,,I'm not going to have\Na single remedial class!
+Dialogue: 0,0:05:05.43,0:05:07.89,Default,,0000,0000,0000,,--Are you sure about that?\N--Positive!
+Dialogue: 0,0:05:12.02,0:05:15.48,Default,,0000,0000,0000,,What's wrong, kid?\NWhat's with the long face?
+Dialogue: 0,0:05:15.48,0:05:17.60,Default,,0000,0000,0000,,Because, because, because...
+Dialogue: 0,0:05:17.60,0:05:22.23,Default,,0000,0000,0000,,He finally promised to go to the\Nbeach, but I have remedial classes!
+Dialogue: 0,0:05:22.23,0:05:24.15,Default,,0000,0000,0000,,Because of those stupid classes,
+Dialogue: 0,0:05:24.15,0:05:27.82,Default,,0000,0000,0000,,my trip to the beach,\Nmy midsummer sun, are all gone!
+Dialogue: 0,0:05:27.82,0:05:30.24,Default,,0000,0000,0000,,You really are lacking in the\Nbrains department, aren't you?
+Dialogue: 0,0:05:30.24,0:05:33.50,Default,,0000,0000,0000,,What was that?\NWhat's that supposed to mean?
+Dialogue: 0,0:05:33.50,0:05:35.46,Default,,0000,0000,0000,,Exactly what I said.
+Dialogue: 0,0:05:35.46,0:05:39.17,Default,,0000,0000,0000,,Can't you understand that much? Hmm?
+Dialogue: 0,0:05:39.17,0:05:42.42,Default,,0000,0000,0000,,What was that?! How\Ndare you make fun of me?!
+Dialogue: 0,0:05:42.42,0:05:43.51,Default,,0000,0000,0000,,That pisses me off!\NPisses me off! Pisses me off!
+Dialogue: 0,0:05:43.51,0:05:46.88,Default,,0000,0000,0000,,There are plenty of\Nways you can go to the beach.
+Dialogue: 0,0:05:46.88,0:05:48.68,Default,,0000,0000,0000,,Really?
+Dialogue: 0,0:05:48.68,0:05:50.18,Default,,0000,0000,0000,,Maybe...
+Dialogue: 0,0:05:50.18,0:05:52.51,Default,,0000,0000,0000,,What's with you?! Tell me! Right now!
+Dialogue: 0,0:05:52.51,0:05:58.02,Default,,0000,0000,0000,,Hey kid, is that any way to\Nask someone for a favor? Hmm?
+Dialogue: 0,0:05:59.02,0:06:01.19,Default,,0000,0000,0000,,You really piss me off, you know that?
+Dialogue: 0,0:06:01.19,0:06:06.53,Default,,0000,0000,0000,,Well, it doesn't matter to\Nme if you go to the beach or not.
+Dialogue: 0,0:06:07.36,0:06:09.03,Default,,0000,0000,0000,,Hold it!
+Dialogue: 0,0:06:09.03,0:06:10.28,Default,,0000,0000,0000,,Hmm?
+Dialogue: 0,0:06:10.28,0:06:17.25,Default,,0000,0000,0000,,Please wait. Please\Ntell me. I'm begging you.
+Dialogue: 0,0:06:17.25,0:06:19.37,Default,,0000,0000,0000,,Then I'll tell you.
+Dialogue: 0,0:06:19.37,0:06:20.92,Default,,0000,0000,0000,,All you have to do,
+Dialogue: 0,0:06:20.92,0:06:24.05,Default,,0000,0000,0000,,is make sure no one finds out\Nyou have to take remedial classes.
+Dialogue: 0,0:06:28.80,0:06:30.55,Default,,0000,0000,0000,,Oh yeah, that's right.
+Dialogue: 0,0:06:30.55,0:06:32.30,Default,,0000,0000,0000,,I just have to make sure no one finds out.
+Dialogue: 0,0:06:32.30,0:06:36.10,Default,,0000,0000,0000,,Wow, that's super simple!
+Dialogue: 0,0:06:52.78,0:06:54.91,Default,,0000,0000,0000,,Oh no!
+Dialogue: 0,0:06:54.91,0:06:57.12,Default,,0000,0000,0000,,I heard, Eimi.
+Dialogue: 0,0:06:57.12,0:06:59.87,Default,,0000,0000,0000,,So, you have remedial classes.
+Dialogue: 0,0:06:59.87,0:07:03.04,Default,,0000,0000,0000,,That means you can\Nforget about the beach.
+Dialogue: 0,0:07:10.55,0:07:15.01,Default,,0000,0000,0000,,{\i1}Don't come this way. Don't\Ncome this way. Don't come this way.{\i0}
+Dialogue: 0,0:07:26.94,0:07:31.24,Default,,0000,0000,0000,,Subaru didn't see Eimi.
+Dialogue: 0,0:07:37.29,0:07:40.08,Default,,0000,0000,0000,,Looks like she didn't notice me.
+Dialogue: 0,0:07:49.46,0:07:50.80,Default,,0000,0000,0000,,Ow!
+Dialogue: 0,0:07:57.81,0:07:59.47,Default,,0000,0000,0000,,I'm pooped...
+Dialogue: 0,0:08:03.35,0:08:05.36,Default,,0000,0000,0000,,Oh no, that's...
+Dialogue: 0,0:08:05.36,0:08:08.02,Default,,0000,0000,0000,,What will... What will... What will...
+Dialogue: 0,0:08:14.32,0:08:16.83,Default,,0000,0000,0000,,I wonder if I bought a little too much?
+Dialogue: 0,0:08:20.79,0:08:23.21,Default,,0000,0000,0000,,Hey, watch where you're going!
+Dialogue: 0,0:08:23.21,0:08:26.21,Default,,0000,0000,0000,,Jeez...
+Dialogue: 0,0:08:26.21,0:08:30.71,Default,,0000,0000,0000,,{\i1}What are you doing?\NJust hurry up and go!{\i0}
+Dialogue: 0,0:08:47.52,0:08:51.69,Default,,0000,0000,0000,,Signboards are so realistic these days!
+Dialogue: 0,0:08:54.57,0:08:56.87,Default,,0000,0000,0000,,Looks like I managed\Nto trick her somehow.
+Dialogue: 0,0:08:58.53,0:09:02.20,Default,,0000,0000,0000,,{\i1}I'm seeing a lot of people\NI know. I need to be careful.{\i0}
+Dialogue: 0,0:09:05.04,0:09:08.13,Default,,0000,0000,0000,,{\i1}With these on,\Nit won't matter who I run into!{\i0}
+Dialogue: 0,0:09:13.63,0:09:15.30,Default,,0000,0000,0000,,Not again!
+Dialogue: 0,0:09:26.06,0:09:28.44,Default,,0000,0000,0000,,{\i1}It's okay. There's no\Nway she'll realize who I am.{\i0}
+Dialogue: 0,0:09:33.28,0:09:35.40,Default,,0000,0000,0000,,{\i1}What is she looking at?{\i0}
+Dialogue: 0,0:09:35.40,0:09:39.07,Default,,0000,0000,0000,,{\i1}She looks kind of frozen stiff,\Nbut it's not because of me.{\i0}
+Dialogue: 0,0:09:39.07,0:09:41.49,Default,,0000,0000,0000,,{\i1}It's okay! Hang in there, me!{\i0}
+Dialogue: 0,0:09:42.58,0:09:45.29,Default,,0000,0000,0000,,Big sis Eimi...
+Dialogue: 0,0:09:46.08,0:09:48.42,Default,,0000,0000,0000,,Please overlook this!
+Dialogue: 0,0:09:50.96,0:09:53.42,Default,,0000,0000,0000,,{\i1}Huh? What?{\i0}
+Dialogue: 0,0:10:01.60,0:10:05.31,Default,,0000,0000,0000,,It seems my plan proved to be effective.
+Dialogue: 0,0:10:05.31,0:10:09.77,Default,,0000,0000,0000,,What do you think?\NIs it not just like I said?
+Dialogue: 0,0:10:09.77,0:10:12.11,Default,,0000,0000,0000,,What's she doing?
+Dialogue: 0,0:10:16.11,0:10:18.28,Default,,0000,0000,0000,,{\i1}What was that all about?{\i0}
+Dialogue: 0,0:10:19.95,0:10:23.12,Default,,0000,0000,0000,,{\i1}They were all acting kind of strange.{\i0}
+Dialogue: 0,0:10:29.62,0:10:32.71,Default,,0000,0000,0000,,Yeah! That looks like\Nit'd look super good on me!
+Dialogue: 0,0:10:33.80,0:10:36.34,Default,,0000,0000,0000,,Thank you very much!
+Dialogue: 0,0:10:43.14,0:10:47.14,Default,,0000,0000,0000,,{\i1}Hurry up and leave! Hurry up\Nand leave! Hurry up and leave!{\i0}
+Dialogue: 0,0:10:51.23,0:10:52.90,Default,,0000,0000,0000,,Eimi!
+Dialogue: 0,0:11:02.20,0:11:06.49,Default,,0000,0000,0000,,Uh, well, just because I'm dressed like\Nthis doesn't mean I just came from school.
+Dialogue: 0,0:11:06.49,0:11:07.83,Default,,0000,0000,0000,,Eimi...
+Dialogue: 0,0:11:07.83,0:11:08.66,Default,,0000,0000,0000,,Yes?
+Dialogue: 0,0:11:08.66,0:11:12.88,Default,,0000,0000,0000,,You shouldn't worry everyone.
+Dialogue: 0,0:11:12.88,0:11:15.80,Default,,0000,0000,0000,,It's great that there\Nare things you want to do,
+Dialogue: 0,0:11:15.80,0:11:19.09,Default,,0000,0000,0000,,but you're still a student,\Nso studying is important too.
+Dialogue: 0,0:11:19.09,0:11:22.59,Default,,0000,0000,0000,,{\i1}She isn't talking about\Ngoing to the beach, is she?{\i0}
+Dialogue: 0,0:11:22.59,0:11:25.22,Default,,0000,0000,0000,,Besides, you have a lot of fans,
+Dialogue: 0,0:11:25.22,0:11:28.64,Default,,0000,0000,0000,,and I think you're a fine doujinshi author.
+Dialogue: 0,0:11:28.64,0:11:32.10,Default,,0000,0000,0000,,But you know, if you always\Nkeep saying selfish things,
+Dialogue: 0,0:11:32.10,0:11:34.86,Default,,0000,0000,0000,,I think it will worry Kazuki too.
+Dialogue: 0,0:11:34.86,0:11:36.82,Default,,0000,0000,0000,,--{\i1}I knew it...{\i0}\N--When I was a student...
+Dialogue: 0,0:11:36.82,0:11:37.23,Default,,0000,0000,0000,,--When I was a student...
+Dialogue: 0,0:11:37.23,0:11:39.90,Default,,0000,0000,0000,,Well, that was a long time ago, but...
+Dialogue: 0,0:11:39.90,0:11:42.20,Default,,0000,0000,0000,,They're definitely harassing you.
+Dialogue: 0,0:11:43.45,0:11:46.49,Default,,0000,0000,0000,,Think about the\Npeople you've run into lately.
+Dialogue: 0,0:11:46.49,0:11:48.66,Default,,0000,0000,0000,,Remember anything 'bout 'em?
+Dialogue: 0,0:11:54.54,0:11:57.75,Default,,0000,0000,0000,,Didn't they all seem like\Nthey're goin' to the beach?
+Dialogue: 0,0:11:57.75,0:12:02.38,Default,,0000,0000,0000,,So, looks like you're the only\None not goin' to the beach after all!
+Dialogue: 0,0:12:04.22,0:12:06.22,Default,,0000,0000,0000,,They've been makin' a fool outta ya.
+Dialogue: 0,0:12:08.22,0:12:10.60,Default,,0000,0000,0000,,I get it.
+Dialogue: 0,0:12:10.60,0:12:12.89,Default,,0000,0000,0000,,They were all my enemies.
+Dialogue: 0,0:12:12.89,0:12:17.90,Default,,0000,0000,0000,,Now I'm definitely going to make them\Ntake me to the beach, no matter what!
+Dialogue: 0,0:12:18.98,0:12:21.57,Default,,0000,0000,0000,,Good luck with that.
+Dialogue: 0,0:12:21.57,0:12:22.90,Default,,0000,0000,0000,,What do you mean by that?
+Dialogue: 0,0:12:22.90,0:12:26.95,Default,,0000,0000,0000,,You really sure they don't know\Nabout the remedial classes? Hmm?
+Dialogue: 0,0:12:26.95,0:12:30.16,Default,,0000,0000,0000,,It's... It's okay. I'm sure.
+Dialogue: 0,0:12:30.16,0:12:31.33,Default,,0000,0000,0000,,Probably...
+Dialogue: 0,0:12:31.33,0:12:33.29,Default,,0000,0000,0000,,Are you sure?
+Dialogue: 0,0:12:33.29,0:12:36.79,Default,,0000,0000,0000,,Couldn't they be leaking the info?
+Dialogue: 0,0:12:46.47,0:12:47.72,Default,,0000,0000,0000,,Jeez!
+Dialogue: 0,0:12:47.72,0:12:50.02,Default,,0000,0000,0000,,Jeez, why doesn't anyone answer?
+Dialogue: 0,0:12:50.02,0:12:53.64,Default,,0000,0000,0000,,If that's how they're going\Nto be, I'll go see them in person!
+Dialogue: 0,0:12:57.44,0:13:01.65,Default,,0000,0000,0000,,You seem cornered, Eimi Ohba.
+Dialogue: 0,0:13:01.65,0:13:05.45,Default,,0000,0000,0000,,I shall crush your ambition!
+Dialogue: 0,0:13:06.61,0:13:08.28,Default,,0000,0000,0000,,Complete moron...
+Dialogue: 0,0:13:16.46,0:13:19.54,Default,,0000,0000,0000,,Destination: Kazuki's apartment!
+Dialogue: 0,0:13:28.30,0:13:30.35,Default,,0000,0000,0000,,Bloodthirst?
+Dialogue: 0,0:13:38.81,0:13:41.48,Default,,0000,0000,0000,,That was terror...
+Dialogue: 0,0:13:44.99,0:13:47.82,Default,,0000,0000,0000,,Huh? Eimi!
+Dialogue: 0,0:13:53.87,0:13:56.41,Default,,0000,0000,0000,,My glasses... My glasses...
+Dialogue: 0,0:14:11.47,0:14:16.10,Default,,0000,0000,0000,,Big brother is out. He's not here!
+Dialogue: 0,0:14:16.10,0:14:18.73,Default,,0000,0000,0000,,Is that true?
+Dialogue: 0,0:14:18.73,0:14:20.86,Default,,0000,0000,0000,,So he's at his job...
+Dialogue: 0,0:14:41.67,0:14:44.88,Default,,0000,0000,0000,,They're going to the beach!\NThey're going to the beach, aren't they?!
+Dialogue: 0,0:14:48.47,0:14:49.97,Default,,0000,0000,0000,,I knew it!
+Dialogue: 0,0:14:49.97,0:14:53.05,Default,,0000,0000,0000,,They're planning on leaving\Nme behind and going to the beach!
+Dialogue: 0,0:14:55.72,0:14:59.94,Default,,0000,0000,0000,,And I've never even been there once!
+Dialogue: 0,0:14:59.94,0:15:01.73,Default,,0000,0000,0000,,This is unforgivable!
+Dialogue: 0,0:15:01.73,0:15:05.48,Default,,0000,0000,0000,,How dare he leave me behind\Nand go to the beach with other girls?!
+Dialogue: 0,0:15:07.49,0:15:08.70,Default,,0000,0000,0000,,Oh no...
+Dialogue: 0,0:15:08.70,0:15:11.95,Default,,0000,0000,0000,,If they see me like this,\Nthey'll know I just came from school.
+Dialogue: 0,0:15:14.37,0:15:15.37,Default,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:15:15.37,0:15:18.33,Default,,0000,0000,0000,,Nothing, never mind.
+Dialogue: 0,0:15:23.00,0:15:25.63,Default,,0000,0000,0000,,Why do I have to run away?
+Dialogue: 0,0:15:25.63,0:15:28.55,Default,,0000,0000,0000,,I'm the one who hasn't\Nbeen to the beach even once!
+Dialogue: 0,0:15:28.55,0:15:30.76,Default,,0000,0000,0000,,This... This is all because\Nof those remedial classes!
+Dialogue: 0,0:15:30.76,0:15:32.89,Default,,0000,0000,0000,,Because of the teacher who\Nmade me take remedial classes!
+Dialogue: 0,0:15:32.89,0:15:37.10,Default,,0000,0000,0000,,Because of that nobody\Nwho gave me remedial classes!
+Dialogue: 0,0:15:41.10,0:15:44.98,Default,,0000,0000,0000,,I wonder if they know about\Nthe remedial classes after all?
+Dialogue: 0,0:15:49.15,0:15:51.28,Default,,0000,0000,0000,,I want to go to the beach.
+Dialogue: 0,0:16:05.13,0:16:06.80,Default,,0000,0000,0000,,Eimi?
+Dialogue: 0,0:16:11.80,0:16:14.80,Default,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:16:14.80,0:16:17.26,Default,,0000,0000,0000,,Why are you crying all of a sudden?
+Dialogue: 0,0:16:17.26,0:16:20.93,Default,,0000,0000,0000,,Because... Because...
+Dialogue: 0,0:16:21.64,0:16:22.98,Default,,0000,0000,0000,,Eimi...
+Dialogue: 0,0:16:25.61,0:16:27.94,Default,,0000,0000,0000,,Hold it right there!
+Dialogue: 0,0:16:29.32,0:16:31.86,Default,,0000,0000,0000,,Yu!
+Dialogue: 0,0:16:31.86,0:16:32.99,Default,,0000,0000,0000,,Panda!
+Dialogue: 0,0:16:32.99,0:16:34.32,Default,,0000,0000,0000,,And everyone else!
+Dialogue: 0,0:16:34.32,0:16:36.99,Default,,0000,0000,0000,,What in the world is going on here?
+Dialogue: 0,0:16:36.99,0:16:40.70,Default,,0000,0000,0000,,My comrade, this was a close call.
+Dialogue: 0,0:16:40.70,0:16:45.71,Default,,0000,0000,0000,,Just a little longer and you\Nwould have fallen for Eimi Ohba's trick!
+Dialogue: 0,0:16:45.71,0:16:46.67,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:16:46.67,0:16:49.92,Default,,0000,0000,0000,,Eimi, tell us exactly what you're up to!
+Dialogue: 0,0:16:49.92,0:16:51.88,Default,,0000,0000,0000,,What in the world are you talking about?
+Dialogue: 0,0:16:51.88,0:16:53.51,Default,,0000,0000,0000,,Don't make me laugh!
+Dialogue: 0,0:16:53.51,0:16:56.01,Default,,0000,0000,0000,,Do you still intend to persist\Nin putting up this charade?
+Dialogue: 0,0:16:56.01,0:17:00.77,Default,,0000,0000,0000,,I am already well aware that\Nyou are plotting to conquer the world!
+Dialogue: 0,0:17:00.77,0:17:01.81,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:17:01.81,0:17:04.14,Default,,0000,0000,0000,,That's enough outta you!
+Dialogue: 0,0:17:04.14,0:17:06.02,Default,,0000,0000,0000,,What are you doing, Comrade?
+Dialogue: 0,0:17:06.02,0:17:07.86,Default,,0000,0000,0000,,Every time you ramble on\Nwith that big mouth of yours,
+Dialogue: 0,0:17:07.86,0:17:09.11,Default,,0000,0000,0000,,it only complicates things more!
+Dialogue: 0,0:17:09.11,0:17:11.07,Default,,0000,0000,0000,,Does she really look\Nlike the kind who could
+Dialogue: 0,0:17:11.07,0:17:13.24,Default,,0000,0000,0000,,cook up some kind\Nof grand scheme to you?
+Dialogue: 0,0:17:13.24,0:17:16.36,Default,,0000,0000,0000,,There's no way she could possibly\Nthink up a way to conquer the world
+Dialogue: 0,0:17:16.36,0:17:17.74,Default,,0000,0000,0000,,with this empty head of hers!
+Dialogue: 0,0:17:17.74,0:17:19.66,Default,,0000,0000,0000,,What do you think you're\Ndoing, you hot spring panda?!
+Dialogue: 0,0:17:19.66,0:17:22.62,Default,,0000,0000,0000,,That's my line, ya big dummy Eimi!
+Dialogue: 0,0:17:22.62,0:17:27.50,Default,,0000,0000,0000,,It's because you've been actin'\Nweird that we got into this mess!
+Dialogue: 0,0:17:27.50,0:17:31.34,Default,,0000,0000,0000,,I... I...
+Dialogue: 0,0:17:33.97,0:17:36.22,Default,,0000,0000,0000,,All right, how's about comin' clean?
+Dialogue: 0,0:17:36.22,0:17:38.09,Default,,0000,0000,0000,,Confess!
+Dialogue: 0,0:17:38.09,0:17:41.72,Default,,0000,0000,0000,,Now, now. At a time like this,\Nyou should have some katsudon!
+Dialogue: 0,0:17:41.72,0:17:42.93,Default,,0000,0000,0000,,I don't want it.
+Dialogue: 0,0:17:42.93,0:17:44.23,Default,,0000,0000,0000,,Then Chisa will take it.
+Dialogue: 0,0:17:44.23,0:17:46.27,Default,,0000,0000,0000,,Thanks for the food!
+Dialogue: 0,0:17:47.35,0:17:49.98,Default,,0000,0000,0000,,I've got evidence!
+Dialogue: 0,0:17:50.94,0:17:55.57,Default,,0000,0000,0000,,These are records of your recent activity.
+Dialogue: 0,0:17:55.57,0:17:58.07,Default,,0000,0000,0000,,So, how's about comin' clean?
+Dialogue: 0,0:17:59.57,0:18:01.20,Default,,0000,0000,0000,,I...
+Dialogue: 0,0:18:01.20,0:18:04.54,Default,,0000,0000,0000,,I was just going to\Nremedial classes, that's all.
+Dialogue: 0,0:18:04.54,0:18:05.54,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:05.54,0:18:09.75,Default,,0000,0000,0000,,Like I said, I was\Ngoing to remedial classes!
+Dialogue: 0,0:18:09.75,0:18:12.21,Default,,0000,0000,0000,,Remedial classes?
+Dialogue: 0,0:18:12.21,0:18:13.92,Default,,0000,0000,0000,,Oh?
+Dialogue: 0,0:18:13.92,0:18:16.01,Default,,0000,0000,0000,,Remedial classes, huh?
+Dialogue: 0,0:18:16.01,0:18:19.09,Default,,0000,0000,0000,,No, well, uh, uh...
+Dialogue: 0,0:18:19.09,0:18:21.89,Default,,0000,0000,0000,,Thought it was somethin' like that.
+Dialogue: 0,0:18:21.89,0:18:24.31,Default,,0000,0000,0000,,In which case...
+Dialogue: 0,0:18:24.31,0:18:26.69,Default,,0000,0000,0000,,You'd better explain yourself,
+Dialogue: 0,0:18:26.69,0:18:29.27,Default,,0000,0000,0000,,Taishi.
+Dialogue: 0,0:18:29.27,0:18:34.61,Default,,0000,0000,0000,,I was... well, I was just\Nthinking of my friend Kazuki!
+Dialogue: 0,0:18:38.86,0:18:41.78,Default,,0000,0000,0000,,Wait... Everyone?
+Dialogue: 0,0:18:46.12,0:18:47.62,Default,,0000,0000,0000,,I see.
+Dialogue: 0,0:18:47.62,0:18:52.71,Default,,0000,0000,0000,,Since you made that promise\Nto me, you ran away and hid...
+Dialogue: 0,0:18:52.71,0:18:56.13,Default,,0000,0000,0000,,I just wanted to go to the beach!
+Dialogue: 0,0:18:56.13,0:18:58.34,Default,,0000,0000,0000,,Oh, so that's all it was.
+Dialogue: 0,0:18:58.34,0:19:03.85,Default,,0000,0000,0000,,Oh dear, but I'm glad to know\Nthat you didn't turn evil or anything.
+Dialogue: 0,0:19:03.85,0:19:06.81,Default,,0000,0000,0000,,Chisa is relieved.
+Dialogue: 0,0:19:06.81,0:19:11.15,Default,,0000,0000,0000,,But it's super strange\Nthat I, the great Eimi Ohba,
+Dialogue: 0,0:19:11.15,0:19:12.31,Default,,0000,0000,0000,,the Queen of Queens of Comipa,
+Dialogue: 0,0:19:12.31,0:19:14.77,Default,,0000,0000,0000,,hasn't gone to the beach\Nwhen everyone else has!
+Dialogue: 0,0:19:14.77,0:19:18.74,Default,,0000,0000,0000,,My, Eimi, you really want\Nto go to the beach, don't you?
+Dialogue: 0,0:19:18.74,0:19:21.45,Default,,0000,0000,0000,,I-want-to-go!
+Dialogue: 0,0:19:21.45,0:19:22.99,Default,,0000,0000,0000,,Of course I do!
+Dialogue: 0,0:19:22.99,0:19:25.33,Default,,0000,0000,0000,,A pool's good enough for you.
+Dialogue: 0,0:19:25.33,0:19:28.96,Default,,0000,0000,0000,,Yay! I'll give you a\Nticket for the kiddy pool!
+Dialogue: 0,0:19:28.96,0:19:30.42,Default,,0000,0000,0000,,I don't want it!
+Dialogue: 0,0:19:30.42,0:19:35.17,Default,,0000,0000,0000,,I want to go to the beach!\NEveryone else is going, aren't you?
+Dialogue: 0,0:19:37.21,0:19:39.26,Default,,0000,0000,0000,,Man, that's some snotty attitude.
+Dialogue: 0,0:19:39.26,0:19:41.97,Default,,0000,0000,0000,,Are you saying I can't go to the beach?
+Dialogue: 0,0:19:41.97,0:19:43.64,Default,,0000,0000,0000,,You really are just\Na spoiled little brat, aren't ya?
+Dialogue: 0,0:19:43.64,0:19:47.18,Default,,0000,0000,0000,,Maybe ya should take that\Nkiddy pool ticket from Chisa after all.
+Dialogue: 0,0:19:47.18,0:19:49.35,Default,,0000,0000,0000,,Now you've said it, hot spring panda!
+Dialogue: 0,0:19:49.35,0:19:51.48,Default,,0000,0000,0000,,It wouldn't have\Nturned into such a big fuss
+Dialogue: 0,0:19:51.48,0:19:54.77,Default,,0000,0000,0000,,if you woulda just said ya wanted\Nto go to the beach in the first place!
+Dialogue: 0,0:19:54.77,0:19:59.86,Default,,0000,0000,0000,,What's with you?! I just wanted\Na nice little summer vacation!
+Dialogue: 0,0:20:30.48,0:20:34.35,Default,,0000,0000,0000,,That's the kind of\Nsummer fit for the great Eimi!
+Dialogue: 0,0:20:37.36,0:20:39.32,Default,,0000,0000,0000,,Who cares about the beach?
+Dialogue: 0,0:20:39.32,0:20:41.53,Default,,0000,0000,0000,,What are you talkin'\Nbout wimpy stuff like that for?
+Dialogue: 0,0:20:43.91,0:20:45.74,Default,,0000,0000,0000,,"Passion"
+Dialogue: 0,0:20:45.74,0:20:49.66,Default,,0000,0000,0000,,Listen up! We stake\Nour lives on doujinshi!
+Dialogue: 0,0:20:49.66,0:20:51.91,Default,,0000,0000,0000,,If you go around talkin' bout\Nnamby-pamby stuff like that,
+Dialogue: 0,0:20:51.91,0:20:53.62,Default,,0000,0000,0000,,ya got no right to call\Nyourself the Queen of Comipa!
+Dialogue: 0,0:20:53.62,0:20:56.04,Default,,0000,0000,0000,,Who cares about the beach?
+Dialogue: 0,0:20:56.04,0:20:59.30,Default,,0000,0000,0000,,Besides, there are\Nother guys who haven't gone.
+Dialogue: 0,0:20:59.30,0:21:02.92,Default,,0000,0000,0000,,You haven't gone either. Right, Kazuki?
+Dialogue: 0,0:21:02.92,0:21:05.01,Default,,0000,0000,0000,,Uh, well, you see...
+Dialogue: 0,0:21:05.01,0:21:10.35,Default,,0000,0000,0000,,Jeez! Take me to the beach!
+Dialogue: 0,0:21:14.06,0:21:18.19,Default,,0000,0000,0000,,{\i1}Ima sugu issho ni kurasou{\i0}
+Dialogue: 0,0:21:18.19,0:21:22.78,Default,,0000,0000,0000,,{\i1}Tarinai mono wa jikan dake{\i0}
+Dialogue: 0,0:21:22.78,0:21:26.78,Default,,0000,0000,0000,,{\i1}Egao mo namida mo hima mo{\i0}
+Dialogue: 0,0:21:26.78,0:21:31.29,Default,,0000,0000,0000,,{\i1}Wakeau basho ga hitsuyou deshou{\i0}
+Dialogue: 0,0:21:31.29,0:21:39.25,Default,,0000,0000,0000,,{\i1}Anata to nara itsu made mo{\i0}
+Dialogue: 0,0:21:40.55,0:21:44.97,Default,,0000,0000,0000,,{\i1}Mendou na koto ga kirai na{\i0}
+Dialogue: 0,0:21:44.97,0:21:49.26,Default,,0000,0000,0000,,{\i1}Anata no ude hiki nagara{\i0}
+Dialogue: 0,0:21:49.26,0:21:53.85,Default,,0000,0000,0000,,{\i1}Yatto mitsuketa 2LDK{\i0}
+Dialogue: 0,0:21:57.85,0:22:02.19,Default,,0000,0000,0000,,{\i1}Teeburu setto mo ii kedo{\i0}
+Dialogue: 0,0:22:02.19,0:22:06.45,Default,,0000,0000,0000,,{\i1}Kekkyoku wa kotatsu deshou{\i0}
+Dialogue: 0,0:22:06.45,0:22:10.28,Default,,0000,0000,0000,,{\i1}Futari nekorogaru dake{\i0}
+Dialogue: 0,0:22:10.28,0:22:15.21,Default,,0000,0000,0000,,{\i1}Igai ni daiji na jikan{\i0}
+Dialogue: 0,0:22:15.21,0:22:23.80,Default,,0000,0000,0000,,{\i1}Donna toki mo yurishiaeru hito{\i0}
+Dialogue: 0,0:22:23.80,0:22:27.34,Default,,0000,0000,0000,,{\i1}Kantan ni wa{\i0}
+Dialogue: 0,0:22:27.34,0:22:31.85,Default,,0000,0000,0000,,{\i1}Deanai anata dakara{\i0}
+Dialogue: 0,0:22:31.85,0:22:35.98,Default,,0000,0000,0000,,{\i1}Ima sugu issho ni kurasou{\i0}
+Dialogue: 0,0:22:35.98,0:22:40.65,Default,,0000,0000,0000,,{\i1}Tarinai mono wa jikan dake{\i0}
+Dialogue: 0,0:22:40.65,0:22:44.57,Default,,0000,0000,0000,,{\i1}Egao mo namida mo hima mo{\i0}
+Dialogue: 0,0:22:44.57,0:22:49.16,Default,,0000,0000,0000,,{\i1}Wakeau basho ga hitsuyou deshou {\i0}
+Dialogue: 0,0:22:49.16,0:22:58.37,Default,,0000,0000,0000,,{\i1}Anata to nara itsu made mo{\i0}
+Dialogue: 0,0:23:05.67,0:23:08.47,Default,,0000,0000,0000,,{\i1}I'm not gonna let you have\Nit this time, hot spring panda!{\i0}
+Dialogue: 0,0:23:08.47,0:23:10.76,Default,,0000,0000,0000,,{\i1}That's my line, big dummy Eimi!{\i0}
+Dialogue: 0,0:23:10.76,0:23:14.01,Default,,0000,0000,0000,,{\i1}Don't go adding things to my name!{\i0}
+Dialogue: 0,0:23:14.01,0:23:16.98,Default,,0000,0000,0000,,{\i1}Ha! "Big dummy" is\Ngood enough for you then!{\i0}
+Dialogue: 0,0:23:16.98,0:23:18.56,Default,,0000,0000,0000,,{\i1}You called me "big dummy" again!{\i0}
+Dialogue: 0,0:23:18.56,0:23:19.94,Default,,0000,0000,0000,,{\i1}I'll say it as many times as I want!{\i0}
+Dialogue: 0,0:23:19.94,0:23:20.94,Default,,0000,0000,0000,,{\i1}Big dummy! Big dummy!{\i0}
+Dialogue: 0,0:23:20.94,0:23:24.27,Default,,0000,0000,0000,,{\i1}- -You panda! You panda! You panda!\N--Big dummy! Big dummy! Big dummy!{\i0}
+Dialogue: 0,0:23:24.27,0:23:28.45,Default,,0000,0000,0000,,{\i1}Next time: "What We're\NAfter is Superhuman Baseball!"{\i0}
+Dialogue: 0,0:23:28.45,0:23:30.86,Default,,0000,0000,0000,,{\i1}Okay, let's play ball!{\i0}
+Dialogue: 0,0:23:30.86,0:23:32.20,Default,,0000,0000,0000,,{\i1}Huh?{\i0}

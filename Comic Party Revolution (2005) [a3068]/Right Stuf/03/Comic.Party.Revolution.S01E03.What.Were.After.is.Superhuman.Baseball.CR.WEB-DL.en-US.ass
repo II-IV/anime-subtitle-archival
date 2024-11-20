@@ -1,0 +1,416 @@
+[Script Info]
+Title: English (US)
+Original Script: TBS  [http://www.crunchyroll.com/user/TBS]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: OS,Arial,18,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0001,0001,0015,0
+Style: Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,2,0020,0020,0022,0
+Style: On Top,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+Style: DefaultLow,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,0,0,0,100,100,0,0,1,2,1,2,0020,0020,0010,0
+Style: On Top Italics,Arial,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H7F404040,-1,-1,0,0,100,100,0,0,1,2,1,8,0020,0020,0022,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:15.05,0:00:21.85,Default,,0000,0000,0000,,{\i1}All of a sudden,\Nyou took my hand in yours{\i0}
+Dialogue: 0,0:00:21.85,0:00:27.02,Default,,0000,0000,0000,,{\i1}So that we wouldn't\Nget separated in the crowd{\i0}
+Dialogue: 0,0:00:28.52,0:00:35.32,Default,,0000,0000,0000,,{\i1}I was so happy I couldn't squeeze\Nyour hand very tightly in return{\i0}
+Dialogue: 0,0:00:35.32,0:00:40.70,Default,,0000,0000,0000,,{\i1}That day, I realized I was in love{\i0}
+Dialogue: 0,0:00:41.20,0:00:44.87,Default,,0000,0000,0000,,{\i1}We started out as just friends{\i0}
+Dialogue: 0,0:00:44.87,0:00:49.71,Default,,0000,0000,0000,,{\i1}But now let's cross that boundary line{\i0}
+Dialogue: 0,0:00:49.71,0:00:54.38,Default,,0000,0000,0000,,{\i1}And take off together{\i0}
+Dialogue: 0,0:00:55.51,0:01:02.35,Default,,0000,0000,0000,,{\i1}I can't hold my feelings back\Nanymore It hurts so much I could cry{\i0}
+Dialogue: 0,0:01:02.35,0:01:05.73,Default,,0000,0000,0000,,{\i1}I love you so much{\i0}
+Dialogue: 0,0:01:05.73,0:01:09.06,Default,,0000,0000,0000,,{\i1}Listen, I can't lie to myself{\i0}
+Dialogue: 0,0:01:09.06,0:01:15.74,Default,,0000,0000,0000,,{\i1}This is embarrassing to ask, but{\i0}
+Dialogue: 0,0:01:15.74,0:01:19.20,Default,,0000,0000,0000,,{\i1}Please accept everything about me{\i0}
+Dialogue: 0,0:01:19.20,0:01:25.41,Default,,0000,0000,0000,,{\i1}Yes, now and forever{\i0}
+Dialogue: 0,0:01:39.97,0:01:43.93,Default,,0000,0000,0000,,{\an8}"What We're After is\NSuperhuman Baseball!"{\an}
+Dialogue: 0,0:01:46.64,0:01:50.40,Default,,0000,0000,0000,,Take Minami to Koshien...
+Dialogue: 0,0:01:50.40,0:01:51.23,Default,,0000,0000,0000,,Maki!
+Dialogue: 0,0:01:51.23,0:01:53.15,Default,,0000,0000,0000,,Minami!
+Dialogue: 0,0:01:53.15,0:01:56.11,Default,,0000,0000,0000,,My, my, this is unusual.\NWhat's the matter, you two?
+Dialogue: 0,0:01:56.11,0:01:57.45,Default,,0000,0000,0000,,What's going on here?
+Dialogue: 0,0:01:57.45,0:01:58.66,Default,,0000,0000,0000,,"Ohba, Eimi"\N"Comic Party Exhibitor Pass"
+Dialogue: 0,0:01:58.66,0:02:00.37,Default,,0000,0000,0000,,"Inagawa, Yu"\N"Comic Party Exhibitor Pass"
+Dialogue: 0,0:02:00.66,0:02:03.16,Default,,0000,0000,0000,,Oh dear, they're the same number?
+Dialogue: 0,0:02:03.16,0:02:05.75,Default,,0000,0000,0000,,You'd better have a\Ngood explanation for this!
+Dialogue: 0,0:02:05.75,0:02:08.16,Default,,0000,0000,0000,,This is a double booing!
+Dialogue: 0,0:02:08.16,0:02:10.79,Default,,0000,0000,0000,,You mean double booking.
+Dialogue: 0,0:02:10.79,0:02:13.34,Default,,0000,0000,0000,,Actually, I guess you're right, in a way.
+Dialogue: 0,0:02:13.34,0:02:16.63,Default,,0000,0000,0000,,There must have been\Nsome mistake. I'm sorry.
+Dialogue: 0,0:02:16.63,0:02:20.97,Default,,0000,0000,0000,,But this is going to be a problem.\NThere aren't any empty spaces left.
+Dialogue: 0,0:02:20.97,0:02:23.93,Default,,0000,0000,0000,,Then just reject Karamitei.
+Dialogue: 0,0:02:23.93,0:02:26.31,Default,,0000,0000,0000,,How about you drop out?
+Dialogue: 0,0:02:26.31,0:02:30.06,Default,,0000,0000,0000,,Why don't the two\Nof you share the space?
+Dialogue: 0,0:02:30.06,0:02:32.81,Default,,0000,0000,0000,,Well, I'm okay with that.
+Dialogue: 0,0:02:32.81,0:02:36.03,Default,,0000,0000,0000,,I'd be worried 'bout this moron\Ninterfering with business though.
+Dialogue: 0,0:02:36.03,0:02:38.07,Default,,0000,0000,0000,,That's my line!
+Dialogue: 0,0:02:38.07,0:02:41.99,Default,,0000,0000,0000,,If I get stuck with some panda,\Nmy sales are going to drop!
+Dialogue: 0,0:02:42.87,0:02:45.16,Default,,0000,0000,0000,,What'd you say?
+Dialogue: 0,0:02:45.16,0:02:47.66,Default,,0000,0000,0000,,What, you want to fight?
+Dialogue: 0,0:02:47.66,0:02:50.04,Default,,0000,0000,0000,,Now, now, calm down, you two.
+Dialogue: 0,0:02:50.04,0:02:53.84,Default,,0000,0000,0000,,Just a moment, ladies!
+Dialogue: 0,0:02:53.84,0:02:58.05,Default,,0000,0000,0000,,Why don't we settle\Nthis pleasantly with sports?
+Dialogue: 0,0:02:58.05,0:03:00.84,Default,,0000,0000,0000,,Man, you really like to\Nhide all over the place, don't ya?
+Dialogue: 0,0:03:00.84,0:03:03.01,Default,,0000,0000,0000,,I think that's a wonderful suggestion!
+Dialogue: 0,0:03:03.01,0:03:05.64,Default,,0000,0000,0000,,Wait! I'm not good at sports!
+Dialogue: 0,0:03:05.64,0:03:07.43,Default,,0000,0000,0000,,I'm okay with it.
+Dialogue: 0,0:03:07.43,0:03:11.19,Default,,0000,0000,0000,,If we settle this with a contest,\Nthere won't be any hard feelings!
+Dialogue: 0,0:03:11.19,0:03:15.52,Default,,0000,0000,0000,,'Course, if ya don't wanna do it,\Nyou could always just give up now.
+Dialogue: 0,0:03:16.19,0:03:19.32,Default,,0000,0000,0000,,Fine then! We'll go with sports!
+Dialogue: 0,0:03:19.32,0:03:21.57,Default,,0000,0000,0000,,Then we need to\Ndecide what kind of sport.
+Dialogue: 0,0:03:21.57,0:03:25.74,Default,,0000,0000,0000,,Since it's two people,\Nyou could do boxing or judo.
+Dialogue: 0,0:03:25.74,0:03:27.54,Default,,0000,0000,0000,,Or perhaps wrestling.
+Dialogue: 0,0:03:27.54,0:03:30.75,Default,,0000,0000,0000,,Watching young ladies intertwining\Nwith each other is also very exciting.
+Dialogue: 0,0:03:30.75,0:03:32.08,Default,,0000,0000,0000,,Excuse me...
+Dialogue: 0,0:03:33.88,0:03:36.42,Default,,0000,0000,0000,,Why don't you settle it with baseball?
+Dialogue: 0,0:03:36.42,0:03:38.38,Default,,0000,0000,0000,,Kazuki! Baseball time!
+Dialogue: 0,0:03:38.38,0:03:40.97,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:03:40.97,0:03:44.34,Default,,0000,0000,0000,,Starting today, you're one of my team!
+Dialogue: 0,0:03:44.34,0:03:46.64,Default,,0000,0000,0000,,Now let's get lookin' for\Nthe rest of the team members!
+Dialogue: 0,0:03:46.64,0:03:48.14,Default,,0000,0000,0000,,I have no idea what you're talking about.
+Dialogue: 0,0:03:48.14,0:03:50.23,Default,,0000,0000,0000,,This's no time for complainin', dummy!
+Dialogue: 0,0:03:50.23,0:03:53.27,Default,,0000,0000,0000,,Kazuki, are you here?
+Dialogue: 0,0:03:53.27,0:03:55.23,Default,,0000,0000,0000,,You're too late, Eimi.
+Dialogue: 0,0:03:55.23,0:03:58.02,Default,,0000,0000,0000,,I already got Kazuki on my team.
+Dialogue: 0,0:03:59.53,0:04:01.57,Default,,0000,0000,0000,,I got beaten to the punch by a panda!
+Dialogue: 0,0:04:01.57,0:04:02.32,Default,,0000,0000,0000,,Then I have no choice!
+Dialogue: 0,0:04:02.32,0:04:03.78,Default,,0000,0000,0000,,--I'll try other people!\N--Bye!
+Dialogue: 0,0:04:03.78,0:04:06.24,Default,,0000,0000,0000,,Jeez, what's going on?
+Dialogue: 0,0:04:06.95,0:04:09.54,Default,,0000,0000,0000,,So there you have it, Comrade Kazuki.
+Dialogue: 0,0:04:09.54,0:04:12.91,Default,,0000,0000,0000,,Will you chase the white ball with us?
+Dialogue: 0,0:04:12.91,0:04:15.08,Default,,0000,0000,0000,,You're on Yu's team too?
+Dialogue: 0,0:04:15.08,0:04:18.13,Default,,0000,0000,0000,,But why are we playing baseball\Nall of a sudden? I just don't get it.
+Dialogue: 0,0:04:18.13,0:04:20.96,Default,,0000,0000,0000,,This is no time to be\Nsittin' around sippin' tea!
+Dialogue: 0,0:04:20.96,0:04:23.47,Default,,0000,0000,0000,,We gotta get nine players together, fast!
+Dialogue: 0,0:04:24.80,0:04:26.22,Default,,0000,0000,0000,,Coming.
+Dialogue: 0,0:04:26.22,0:04:27.76,Default,,0000,0000,0000,,Who is it?
+Dialogue: 0,0:04:29.26,0:04:31.06,Default,,0000,0000,0000,,Hiya!
+Dialogue: 0,0:04:31.06,0:04:32.93,Default,,0000,0000,0000,,What are you slammin' the door shut for?
+Dialogue: 0,0:04:32.93,0:04:35.15,Default,,0000,0000,0000,,Because, I've got a really,\Nreally bad feeling about this.
+Dialogue: 0,0:04:35.15,0:04:37.44,Default,,0000,0000,0000,,Don't be so cold, Mizuki!
+Dialogue: 0,0:04:37.44,0:04:39.86,Default,,0000,0000,0000,,We just came to ask if ya\Nwanna play some baseball!
+Dialogue: 0,0:04:39.86,0:04:40.94,Default,,0000,0000,0000,,Baseball?
+Dialogue: 0,0:04:40.94,0:04:45.86,Default,,0000,0000,0000,,So, since we assumed that you're\Na good athlete, we came to scout ya.
+Dialogue: 0,0:04:47.62,0:04:50.29,Default,,0000,0000,0000,,But why do I get the feeling\Nyou have some ulterior motive?
+Dialogue: 0,0:04:50.95,0:04:54.87,Default,,0000,0000,0000,,C'mon, please? We need your help!
+Dialogue: 0,0:04:54.87,0:04:57.46,Default,,0000,0000,0000,,It's so sudden though.
+Dialogue: 0,0:04:57.46,0:05:01.13,Default,,0000,0000,0000,,I can play softball, but\NI'm not sure about baseball.
+Dialogue: 0,0:05:01.80,0:05:03.09,Default,,0000,0000,0000,,Such a shame.
+Dialogue: 0,0:05:03.09,0:05:05.22,Default,,0000,0000,0000,,With someone as\Ngood as you on our team,
+Dialogue: 0,0:05:05.22,0:05:08.85,Default,,0000,0000,0000,,going to Koshien\Nwouldn't be just a dream!
+Dialogue: 0,0:05:08.85,0:05:10.51,Default,,0000,0000,0000,,Koshien?!
+Dialogue: 0,0:05:10.93,0:05:12.14,Default,,0000,0000,0000,,"Tsukamoto Printing"
+Dialogue: 0,0:05:12.14,0:05:14.10,Default,,0000,0000,0000,,Baseball?
+Dialogue: 0,0:05:14.10,0:05:19.06,Default,,0000,0000,0000,,Darn right! Kids should be outside,\Nin the fresh air! Let's baseball!
+Dialogue: 0,0:05:19.73,0:05:24.99,Default,,0000,0000,0000,,I'm happy that you asked me,\Nbut Chisa isn't very good at sports.
+Dialogue: 0,0:05:24.99,0:05:30.66,Default,,0000,0000,0000,,Besides, I have to help out here,\Nso I don't have any free time.
+Dialogue: 0,0:05:30.66,0:05:32.91,Default,,0000,0000,0000,,Three thousand.
+Dialogue: 0,0:05:32.91,0:05:37.17,Default,,0000,0000,0000,,Tsukamoto Printing will get an order for\Nthree thousand copies of the next book.
+Dialogue: 0,0:05:37.17,0:05:38.83,Default,,0000,0000,0000,,Really?
+Dialogue: 0,0:05:38.83,0:05:39.92,Default,,0000,0000,0000,,From Kazuki, that is.
+Dialogue: 0,0:05:39.92,0:05:41.25,Default,,0000,0000,0000,,Me?
+Dialogue: 0,0:05:41.25,0:05:43.59,Default,,0000,0000,0000,,I'm so happy, big brother!
+Dialogue: 0,0:05:43.59,0:05:45.84,Default,,0000,0000,0000,,Um, well...
+Dialogue: 0,0:05:45.84,0:05:47.05,Default,,0000,0000,0000,,Thank you very much!
+Dialogue: 0,0:05:47.05,0:05:49.51,Default,,0000,0000,0000,,Chisa will try her best at baseball!
+Dialogue: 0,0:05:49.51,0:05:52.06,Default,,0000,0000,0000,,All right! We got a team member!
+Dialogue: 0,0:05:53.31,0:05:55.18,Default,,0000,0000,0000,,Baseball?
+Dialogue: 0,0:05:55.18,0:05:58.10,Default,,0000,0000,0000,,You got it! We're gonna\Nsave Comipa with baseball!
+Dialogue: 0,0:05:58.10,0:06:03.48,Default,,0000,0000,0000,,Eimi Ohba has begun her plot to invade\NComipa with an evil baseball army!
+Dialogue: 0,0:06:03.48,0:06:07.20,Default,,0000,0000,0000,,I've heard something like that before.
+Dialogue: 0,0:06:07.20,0:06:09.70,Default,,0000,0000,0000,,You ain't so naïve\Nany more, are ya, Subie?
+Dialogue: 0,0:06:09.70,0:06:12.08,Default,,0000,0000,0000,,Even Subaru grows up.
+Dialogue: 0,0:06:12.08,0:06:14.29,Default,,0000,0000,0000,,Anyway, we're going to play baseball.
+Dialogue: 0,0:06:14.29,0:06:19.00,Default,,0000,0000,0000,,And we need your help.\NJust think of it as doing us a favor.
+Dialogue: 0,0:06:19.00,0:06:20.50,Default,,0000,0000,0000,,I understand!
+Dialogue: 0,0:06:20.50,0:06:24.21,Default,,0000,0000,0000,,Since you're the one asking,\NKazuki, I would love to help you!
+Dialogue: 0,0:06:24.21,0:06:27.22,Default,,0000,0000,0000,,Awright! Here's a symbol\Nthat you're one of us!
+Dialogue: 0,0:06:27.22,0:06:29.59,Default,,0000,0000,0000,,What? Baseball? Sure, sure!
+Dialogue: 0,0:06:29.59,0:06:30.55,Default,,0000,0000,0000,,There!
+Dialogue: 0,0:06:30.55,0:06:31.39,Default,,0000,0000,0000,,That was fast.
+Dialogue: 0,0:06:31.39,0:06:33.89,Default,,0000,0000,0000,,Leave the uniforms to me!
+Dialogue: 0,0:06:33.89,0:06:36.98,Default,,0000,0000,0000,,I'll make them kind of cute!
+Dialogue: 0,0:06:38.44,0:06:41.15,Default,,0000,0000,0000,,How's it going, Kazuki?
+Dialogue: 0,0:06:41.15,0:06:45.40,Default,,0000,0000,0000,,I can't get a hold of Aya, and\NAsahi said she's busy with work.
+Dialogue: 0,0:06:45.40,0:06:47.07,Default,,0000,0000,0000,,Bummer...
+Dialogue: 0,0:06:48.11,0:06:50.07,Default,,0000,0000,0000,,I wonder if that's Reiko?
+Dialogue: 0,0:06:51.24,0:06:52.12,Default,,0000,0000,0000,,Hi!
+Dialogue: 0,0:06:52.12,0:06:53.24,Default,,0000,0000,0000,,Hello!
+Dialogue: 0,0:06:53.24,0:06:54.41,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:06:54.41,0:06:56.08,Default,,0000,0000,0000,,Hello!
+Dialogue: 0,0:06:56.08,0:07:00.08,Default,,0000,0000,0000,,I called them over. They're\Ngoing to help me make the uniforms.
+Dialogue: 0,0:07:00.08,0:07:01.58,Default,,0000,0000,0000,,Awright!
+Dialogue: 0,0:07:01.58,0:07:03.38,Default,,0000,0000,0000,,Now we have ten people!
+Dialogue: 0,0:07:03.38,0:07:05.59,Default,,0000,0000,0000,,Hey, Yu, you can't\Ndecide that without asking.
+Dialogue: 0,0:07:05.59,0:07:08.80,Default,,0000,0000,0000,,They've already come this far, so now\Nthey're gonna be in the same boat as us.
+Dialogue: 0,0:07:08.80,0:07:09.80,Default,,0000,0000,0000,,Got that?
+Dialogue: 0,0:07:09.80,0:07:11.47,Default,,0000,0000,0000,,Yes...
+Dialogue: 0,0:07:12.97,0:07:14.89,Default,,0000,0000,0000,,They're late!
+Dialogue: 0,0:07:14.89,0:07:17.27,Default,,0000,0000,0000,,They're late! They're late! They're late!
+Dialogue: 0,0:07:17.27,0:07:20.27,Default,,0000,0000,0000,,What in the world are they doing?
+Dialogue: 0,0:07:22.90,0:07:24.81,Default,,0000,0000,0000,,Sorry to keep you waiting.
+Dialogue: 0,0:07:28.53,0:07:31.15,Default,,0000,0000,0000,,I'm amazed you didn't\Nrun away, hot spring panda.
+Dialogue: 0,0:07:31.15,0:07:33.62,Default,,0000,0000,0000,,I'll give you credit for that much.
+Dialogue: 0,0:07:33.62,0:07:35.53,Default,,0000,0000,0000,,That's my line!
+Dialogue: 0,0:07:35.53,0:07:38.79,Default,,0000,0000,0000,,We'll show ya the\Nresults of our special training!
+Dialogue: 0,0:07:38.79,0:07:40.91,Default,,0000,0000,0000,,I don't know what kind\Nof special training you had,
+Dialogue: 0,0:07:40.91,0:07:43.96,Default,,0000,0000,0000,,but there's no way you can beat my team.
+Dialogue: 0,0:07:52.72,0:07:54.30,Default,,0000,0000,0000,,Chisa!
+Dialogue: 0,0:07:54.30,0:07:56.14,Default,,0000,0000,0000,,Aya!
+Dialogue: 0,0:07:56.14,0:07:58.14,Default,,0000,0000,0000,,You too, Taishi?
+Dialogue: 0,0:07:58.14,0:08:00.23,Default,,0000,0000,0000,,What's goin' on here, Chisa?
+Dialogue: 0,0:08:00.23,0:08:02.19,Default,,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:08:02.19,0:08:07.52,Default,,0000,0000,0000,,But big sister Eimi said she'd\Ngive us an order for five thousand.
+Dialogue: 0,0:08:08.94,0:08:10.49,Default,,0000,0000,0000,,That's playin' dirty!
+Dialogue: 0,0:08:10.49,0:08:12.40,Default,,0000,0000,0000,,Why are you on that team, Aya?
+Dialogue: 0,0:08:12.40,0:08:16.95,Default,,0000,0000,0000,,Eimi asked me first.
+Dialogue: 0,0:08:16.95,0:08:18.87,Default,,0000,0000,0000,,That's sure a simple reason.
+Dialogue: 0,0:08:18.87,0:08:22.66,Default,,0000,0000,0000,,I can kind of imagine,\Nbut what's your excuse, Taishi?
+Dialogue: 0,0:08:22.66,0:08:26.71,Default,,0000,0000,0000,,I am a free agent!
+Dialogue: 0,0:08:26.71,0:08:31.42,Default,,0000,0000,0000,,The signing bonus was a purchase\Nticket for Cat or Fish's new issue.
+Dialogue: 0,0:08:31.42,0:08:33.30,Default,,0000,0000,0000,,Yup, I thought it was something like that.
+Dialogue: 0,0:08:33.30,0:08:36.05,Default,,0000,0000,0000,,Forget about the traitors.\NLet's get to the game.
+Dialogue: 0,0:08:37.89,0:08:40.52,Default,,0000,0000,0000,,Now then, we will now begin the game
+Dialogue: 0,0:08:40.52,0:08:43.73,Default,,0000,0000,0000,,between the Inobou Rockers\Nand the Pretty Penguins.
+Dialogue: 0,0:08:43.73,0:08:45.69,Default,,0000,0000,0000,,We will start with the opening ceremony.
+Dialogue: 0,0:08:45.69,0:08:48.44,Default,,0000,0000,0000,,Opening ceremony?
+Dialogue: 0,0:08:48.44,0:08:51.69,Default,,0000,0000,0000,,Hello! I'm Asahi Sakurai!
+Dialogue: 0,0:08:51.69,0:08:53.99,Default,,0000,0000,0000,,Ooh! Asahi!
+Dialogue: 0,0:08:53.99,0:08:56.11,Default,,0000,0000,0000,,What is Asahi doing here?
+Dialogue: 0,0:08:56.11,0:09:00.62,Default,,0000,0000,0000,,Why, opening ceremonies are\Na part of an idol's job, of course!
+Dialogue: 0,0:09:03.58,0:09:08.38,Default,,0000,0000,0000,,Here I go!
+Dialogue: 0,0:09:08.38,0:09:10.30,Default,,0000,0000,0000,,That was a good throw!
+Dialogue: 0,0:09:10.30,0:09:13.88,Default,,0000,0000,0000,,I practiced in order to play the\Nmain character of a baseball anime.
+Dialogue: 0,0:09:13.88,0:09:16.05,Default,,0000,0000,0000,,Now we got all the players we need!
+Dialogue: 0,0:09:16.05,0:09:17.97,Default,,0000,0000,0000,,Hold it! What was that?!
+Dialogue: 0,0:09:17.97,0:09:21.56,Default,,0000,0000,0000,,I would like to be traded\Nto the Inobou Rockers.
+Dialogue: 0,0:09:21.56,0:09:22.31,Default,,0000,0000,0000,,Me too.
+Dialogue: 0,0:09:22.31,0:09:24.02,Default,,0000,0000,0000,,--Me too.\N--Me too.
+Dialogue: 0,0:09:24.02,0:09:26.35,Default,,0000,0000,0000,,Denied! Denied! Denied!
+Dialogue: 0,0:09:26.35,0:09:28.65,Default,,0000,0000,0000,,First up, Pretty Penguins.
+Dialogue: 0,0:09:28.65,0:09:30.94,Default,,0000,0000,0000,,Okay, play ball!
+Dialogue: 0,0:09:33.40,0:09:37.36,Default,,0000,0000,0000,,Swing with all you've got, got it?
+Dialogue: 0,0:09:37.36,0:09:39.49,Default,,0000,0000,0000,,You can count on me!
+Dialogue: 0,0:09:48.04,0:09:49.58,Default,,0000,0000,0000,,Strike!
+Dialogue: 0,0:09:49.58,0:09:52.46,Default,,0000,0000,0000,,How could you let a\Ngopher ball like that slide by?
+Dialogue: 0,0:09:58.01,0:10:00.51,Default,,0000,0000,0000,,Strike!
+Dialogue: 0,0:10:00.51,0:10:03.60,Default,,0000,0000,0000,,After those two pitches,\NI have all the data I need.
+Dialogue: 0,0:10:05.35,0:10:09.44,Default,,0000,0000,0000,,Here I go!
+Dialogue: 0,0:10:09.44,0:10:12.15,Default,,0000,0000,0000,,Strike! Batter out!
+Dialogue: 0,0:10:13.11,0:10:15.19,Default,,0000,0000,0000,,Tate!
+Dialogue: 0,0:10:15.19,0:10:18.03,Default,,0000,0000,0000,,Tate! Get up, Tate!
+Dialogue: 0,0:10:18.03,0:10:20.66,Default,,0000,0000,0000,,It got my hip.
+Dialogue: 0,0:10:22.03,0:10:25.29,Default,,0000,0000,0000,,Please go easy on me.
+Dialogue: 0,0:10:30.71,0:10:34.17,Default,,0000,0000,0000,,What are you doing?! {\i1}Run{\i0}!
+Dialogue: 0,0:10:34.17,0:10:35.96,Default,,0000,0000,0000,,Not this way, stupid!
+Dialogue: 0,0:10:37.13,0:10:38.80,Default,,0000,0000,0000,,Out!
+Dialogue: 0,0:10:39.18,0:10:41.80,Default,,0000,0000,0000,,That was a perfect chance!
+Dialogue: 0,0:10:47.64,0:10:49.31,Default,,0000,0000,0000,,Be careful, Mizuki.
+Dialogue: 0,0:10:49.31,0:10:51.81,Default,,0000,0000,0000,,You don't have to tell me that.
+Dialogue: 0,0:10:58.24,0:11:00.32,Default,,0000,0000,0000,,What incredible pressure...
+Dialogue: 0,0:11:20.51,0:11:23.97,Default,,0000,0000,0000,,Looks like it's finally my turn.
+Dialogue: 0,0:11:23.97,0:11:26.85,Default,,0000,0000,0000,,I'm gonna hit a beautiful home run!
+Dialogue: 0,0:11:28.89,0:11:31.60,Default,,0000,0000,0000,,Strike! Batter out!
+Dialogue: 0,0:11:32.52,0:11:34.52,Default,,0000,0000,0000,,"Pretty Penguins"\N"Inobou Rockers"
+Dialogue: 0,0:11:37.40,0:11:40.70,Default,,0000,0000,0000,,Hey Eimi, ya sure you\Ncan throw that thing right?
+Dialogue: 0,0:11:40.70,0:11:43.57,Default,,0000,0000,0000,,What's with you? I practiced!
+Dialogue: 0,0:11:44.70,0:11:45.70,Default,,0000,0000,0000,,Play ball!
+Dialogue: 0,0:11:45.70,0:11:50.21,Default,,0000,0000,0000,,Just watch the great\NEimi's gorgeous pitching!
+Dialogue: 0,0:11:53.50,0:11:54.79,Default,,0000,0000,0000,,Interesting placement!
+Dialogue: 0,0:11:54.79,0:11:56.46,Default,,0000,0000,0000,,Leave it to me!
+Dialogue: 0,0:11:58.21,0:11:59.46,Default,,0000,0000,0000,,Out!
+Dialogue: 0,0:11:59.46,0:12:01.22,Default,,0000,0000,0000,,So close!
+Dialogue: 0,0:12:01.22,0:12:03.55,Default,,0000,0000,0000,,Why didn't ya slide?
+Dialogue: 0,0:12:03.55,0:12:06.14,Default,,0000,0000,0000,,If you had slid,\Nya woulda made it in time!
+Dialogue: 0,0:12:06.14,0:12:10.18,Default,,0000,0000,0000,,But that would get the uniform all dirty.
+Dialogue: 0,0:12:10.18,0:12:12.64,Default,,0000,0000,0000,,What're you talkin' about?
+Dialogue: 0,0:12:12.64,0:12:14.90,Default,,0000,0000,0000,,Ow, ow!
+Dialogue: 0,0:12:16.40,0:12:18.73,Default,,0000,0000,0000,,My comrade...
+Dialogue: 0,0:12:18.73,0:12:20.53,Default,,0000,0000,0000,,Hit for the moon!
+Dialogue: 0,0:12:20.53,0:12:22.53,Default,,0000,0000,0000,,Oh c'mon, it's daytime!
+Dialogue: 0,0:12:22.53,0:12:24.78,Default,,0000,0000,0000,,It doesn't matter if it's day or night!
+Dialogue: 0,0:12:24.78,0:12:26.16,Default,,0000,0000,0000,,What's that supposed to mean?
+Dialogue: 0,0:12:26.16,0:12:29.70,Default,,0000,0000,0000,,What's with the blabbering? Here I go!
+Dialogue: 0,0:12:33.37,0:12:35.75,Default,,0000,0000,0000,,Awright! It's outta here!
+Dialogue: 0,0:12:39.42,0:12:41.30,Default,,0000,0000,0000,,Out!
+Dialogue: 0,0:12:41.30,0:12:44.05,Default,,0000,0000,0000,,Number three Subaru! Ready to go!
+Dialogue: 0,0:12:51.93,0:12:53.35,Default,,0000,0000,0000,,Out!
+Dialogue: 0,0:12:53.35,0:12:55.44,Default,,0000,0000,0000,,A left grounder?
+Dialogue: 0,0:12:55.44,0:12:57.36,Default,,0000,0000,0000,,Ya gotta be kiddin'...
+Dialogue: 0,0:13:00.23,0:13:01.28,Default,,0000,0000,0000,,Safe!
+Dialogue: 0,0:13:01.28,0:13:02.11,Default,,0000,0000,0000,,Awright!
+Dialogue: 0,0:13:02.11,0:13:03.65,Default,,0000,0000,0000,,We've got a runner on base!
+Dialogue: 0,0:13:03.65,0:13:07.28,Default,,0000,0000,0000,,This is actually turning out to\Nbe a decent game of baseball.
+Dialogue: 0,0:13:07.28,0:13:12.58,Default,,0000,0000,0000,,This is no time to relax!\NAt this rate, we're gonna lose!
+Dialogue: 0,0:13:12.58,0:13:16.25,Default,,0000,0000,0000,,Leave it to me. I'll bring\Nthat runner home, count on it.
+Dialogue: 0,0:13:18.38,0:13:20.80,Default,,0000,0000,0000,,Sheesh, I'm pooped.
+Dialogue: 0,0:13:20.80,0:13:24.22,Default,,0000,0000,0000,,Hey, someone switch with me!
+Dialogue: 0,0:13:26.22,0:13:29.14,Default,,0000,0000,0000,,I could do it for a little while.
+Dialogue: 0,0:13:29.14,0:13:31.64,Default,,0000,0000,0000,,Then it's all yours.
+Dialogue: 0,0:13:34.10,0:13:37.44,Default,,0000,0000,0000,,What the heck? A relief pitcher?
+Dialogue: 0,0:13:42.11,0:13:44.19,Default,,0000,0000,0000,,What was with that throw?
+Dialogue: 0,0:13:44.19,0:13:46.15,Default,,0000,0000,0000,,It was so slow!
+Dialogue: 0,0:13:47.07,0:13:49.99,Default,,0000,0000,0000,,This is great! We can\Ndefinitely hit a pitch like that!
+Dialogue: 0,0:13:49.99,0:13:52.83,Default,,0000,0000,0000,,We're gonna turn this\Ngame around in one shot!
+Dialogue: 0,0:13:53.50,0:13:56.54,Default,,0000,0000,0000,,She has no speed on her\Npitches, and the control is weak.
+Dialogue: 0,0:13:59.42,0:14:01.09,Default,,0000,0000,0000,,Got it!
+Dialogue: 0,0:14:03.84,0:14:06.51,Default,,0000,0000,0000,,Strike!
+Dialogue: 0,0:14:06.51,0:14:08.84,Default,,0000,0000,0000,,This time for sure!
+Dialogue: 0,0:14:08.84,0:14:10.85,Default,,0000,0000,0000,,Strike two!
+Dialogue: 0,0:14:13.56,0:14:16.60,Default,,0000,0000,0000,,Strike! Batter out!
+Dialogue: 0,0:14:16.60,0:14:19.65,Default,,0000,0000,0000,,Good going, Aya! Keep it up!
+Dialogue: 0,0:14:19.65,0:14:22.52,Default,,0000,0000,0000,,Jeez, what kind of pitch do you call that?
+Dialogue: 0,0:14:22.52,0:14:26.32,Default,,0000,0000,0000,,What the heck are you doin'?\NHow'd you miss a pitch like that?
+Dialogue: 0,0:14:29.91,0:14:32.28,Default,,0000,0000,0000,,Strike! Batter out!
+Dialogue: 0,0:14:32.28,0:14:37.96,Default,,0000,0000,0000,,It's... It's a magic ball.\NIt's that magic ball they talk about.
+Dialogue: 0,0:14:39.42,0:14:42.04,Default,,0000,0000,0000,,Strike! Batter out!
+Dialogue: 0,0:14:42.04,0:14:43.55,Default,,0000,0000,0000,,She couldn't hit it either?
+Dialogue: 0,0:14:43.55,0:14:46.59,Default,,0000,0000,0000,,What the? What's going on here?
+Dialogue: 0,0:14:49.01,0:14:53.01,Default,,0000,0000,0000,,Ball four! Batter takes first base.
+Dialogue: 0,0:15:03.77,0:15:05.82,Default,,0000,0000,0000,,Time!
+Dialogue: 0,0:15:05.82,0:15:07.61,Default,,0000,0000,0000,,Are you okay, Mizuki?
+Dialogue: 0,0:15:07.61,0:15:10.28,Default,,0000,0000,0000,,You've been doing all\Nthe pitching by yourself.
+Dialogue: 0,0:15:10.28,0:15:13.45,Default,,0000,0000,0000,,If they get a hit now,\Nthe game's all but over.
+Dialogue: 0,0:15:13.45,0:15:15.08,Default,,0000,0000,0000,,Want me to take over?
+Dialogue: 0,0:15:15.08,0:15:17.75,Default,,0000,0000,0000,,No, I'm fine. I can keep going.
+Dialogue: 0,0:15:17.75,0:15:18.58,Default,,0000,0000,0000,,But...
+Dialogue: 0,0:15:18.58,0:15:22.50,Default,,0000,0000,0000,,I'm going to keep going!\NI promised Coach!
+Dialogue: 0,0:15:22.50,0:15:23.59,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:15:23.59,0:15:26.92,Default,,0000,0000,0000,,I promised Coach I'd never give up!
+Dialogue: 0,0:15:29.09,0:15:32.26,Default,,0000,0000,0000,,Takase! We're not done yet!
+Dialogue: 0,0:15:32.26,0:15:35.43,Default,,0000,0000,0000,,Coach, I can't go on.
+Dialogue: 0,0:15:35.43,0:15:38.39,Default,,0000,0000,0000,,Don't give up! If you give up, you lose!
+Dialogue: 0,0:15:38.39,0:15:40.73,Default,,0000,0000,0000,,To put in English,\Nthat would be "makeinu!"
+Dialogue: 0,0:15:40.73,0:15:43.77,Default,,0000,0000,0000,,Coach, that's not English.
+Dialogue: 0,0:15:43.77,0:15:47.11,Default,,0000,0000,0000,,Weren't you trying to get to Koshien?
+Dialogue: 0,0:15:48.78,0:15:50.61,Default,,0000,0000,0000,,Coach...
+Dialogue: 0,0:15:50.61,0:15:53.78,Default,,0000,0000,0000,,Look, Takase! Isn't\Nthat a gorgeous sunset?
+Dialogue: 0,0:15:53.78,0:15:57.29,Default,,0000,0000,0000,,Yes! I won't give up!
+Dialogue: 0,0:15:57.29,0:16:00.37,Default,,0000,0000,0000,,So I will keep on pitching!
+Dialogue: 0,0:16:00.37,0:16:02.83,Default,,0000,0000,0000,,Who in the heck is this "Coach"?
+Dialogue: 0,0:16:06.00,0:16:07.96,Default,,0000,0000,0000,,{\i1}I will not lose.{\i0}
+Dialogue: 0,0:16:09.67,0:16:13.39,Default,,0000,0000,0000,,Takase Tornado!
+Dialogue: 0,0:16:28.40,0:16:32.32,Default,,0000,0000,0000,,Batter out! Change!
+Dialogue: 0,0:16:32.32,0:16:34.32,Default,,0000,0000,0000,,Impossible...
+Dialogue: 0,0:16:34.32,0:16:36.07,Default,,0000,0000,0000,,All right, ninth inning!
+Dialogue: 0,0:16:36.07,0:16:38.54,Default,,0000,0000,0000,,We're gonna turn this\Naround no matter what!
+Dialogue: 0,0:16:41.91,0:16:44.79,Default,,0000,0000,0000,,Strike! Batter out!
+Dialogue: 0,0:16:46.00,0:16:47.34,Default,,0000,0000,0000,,There.
+Dialogue: 0,0:16:48.17,0:16:51.26,Default,,0000,0000,0000,,Strike! Batter out!
+Dialogue: 0,0:16:55.64,0:16:58.51,Default,,0000,0000,0000,,One more left. This game is ours!
+Dialogue: 0,0:16:59.93,0:17:03.39,Default,,0000,0000,0000,,I can't hit such a slow ball.
+Dialogue: 0,0:17:03.39,0:17:05.94,Default,,0000,0000,0000,,She didn't make it in time?
+Dialogue: 0,0:17:07.44,0:17:10.36,Default,,0000,0000,0000,,Time! Time! We got a pinch hitter!
+Dialogue: 0,0:17:16.91,0:17:19.58,Default,,0000,0000,0000,,Did I make it in time?
+Dialogue: 0,0:17:20.87,0:17:22.29,Default,,0000,0000,0000,,Ikumi...
+Dialogue: 0,0:17:22.29,0:17:24.21,Default,,0000,0000,0000,,What is Ikumi doing here?
+Dialogue: 0,0:17:24.21,0:17:26.46,Default,,0000,0000,0000,,I called her over. She's our secret weapon!
+Dialogue: 0,0:17:26.46,0:17:27.67,Default,,0000,0000,0000,,Secret weapon?
+Dialogue: 0,0:17:27.67,0:17:28.59,Default,,0000,0000,0000,,That's right!
+Dialogue: 0,0:17:28.59,0:17:32.46,Default,,0000,0000,0000,,To hit such a slow ball,\Nthe batter's gotta be slow too.
+Dialogue: 0,0:17:32.46,0:17:35.09,Default,,0000,0000,0000,,It says so in a book!
+Dialogue: 0,0:17:35.09,0:17:37.05,Default,,0000,0000,0000,,And the one who can pull it off is...
+Dialogue: 0,0:17:37.05,0:17:40.06,Default,,0000,0000,0000,,You, Ikumi Tachikawa!\NYou're the only one!
+Dialogue: 0,0:17:40.06,0:17:42.43,Default,,0000,0000,0000,,I'll do my best!
+Dialogue: 0,0:17:48.02,0:17:50.02,Default,,0000,0000,0000,,Ikumi is...
+Dialogue: 0,0:17:50.02,0:17:53.99,Default,,0000,0000,0000,,Even though she's sickly,\NIkumi is playing baseball.
+Dialogue: 0,0:17:55.03,0:17:57.49,Default,,0000,0000,0000,,I'm...
+Dialogue: 0,0:17:57.49,0:18:01.41,Default,,0000,0000,0000,,I'm so incredibly moved right now.
+Dialogue: 0,0:18:06.58,0:18:07.37,Default,,0000,0000,0000,,She hit it!
+Dialogue: 0,0:18:07.37,0:18:09.29,Default,,0000,0000,0000,,Awright! Just like I planned!
+Dialogue: 0,0:18:09.29,0:18:11.34,Default,,0000,0000,0000,,But it's an outside fly.
+Dialogue: 0,0:18:11.34,0:18:13.00,Default,,0000,0000,0000,,We won!
+Dialogue: 0,0:18:16.09,0:18:20.30,Default,,0000,0000,0000,,Big brother! I hit the ball! Big brother!
+Dialogue: 0,0:18:20.30,0:18:21.97,Default,,0000,0000,0000,,Ikumi...
+Dialogue: 0,0:18:24.81,0:18:28.35,Default,,0000,0000,0000,,What are you doing?!\NGet a hold of yourself and catch it!
+Dialogue: 0,0:18:28.35,0:18:30.02,Default,,0000,0000,0000,,I can't.
+Dialogue: 0,0:18:30.02,0:18:34.65,Default,,0000,0000,0000,,I... I can't catch Ikumi's ball.
+Dialogue: 0,0:18:35.90,0:18:37.95,Default,,0000,0000,0000,,I am super pissed off!
+Dialogue: 0,0:18:37.95,0:18:41.74,Default,,0000,0000,0000,,If you'd caught it like you\Nshould have, we would've won!
+Dialogue: 0,0:18:42.91,0:18:46.79,Default,,0000,0000,0000,,My life span as a pitcher has ended.
+Dialogue: 0,0:18:46.79,0:18:47.71,Default,,0000,0000,0000,,Huh?
+Dialogue: 0,0:18:47.71,0:18:51.75,Default,,0000,0000,0000,,If I pitch any more,\NI won't be able to hold a pen.
+Dialogue: 0,0:18:51.75,0:18:53.42,Default,,0000,0000,0000,,Eimi!
+Dialogue: 0,0:18:55.38,0:18:58.63,Default,,0000,0000,0000,,Let's finish this! We'll go one on one!
+Dialogue: 0,0:18:58.63,0:19:01.14,Default,,0000,0000,0000,,Fine! I'll do it!
+Dialogue: 0,0:19:21.36,0:19:23.58,Default,,0000,0000,0000,,Strike!
+Dialogue: 0,0:19:23.58,0:19:25.41,Default,,0000,0000,0000,,Not bad at all.
+Dialogue: 0,0:19:32.00,0:19:33.67,Default,,0000,0000,0000,,Foul!
+Dialogue: 0,0:19:35.84,0:19:38.47,Default,,0000,0000,0000,,I am definitely going to win!
+Dialogue: 0,0:19:40.51,0:19:43.05,Default,,0000,0000,0000,,I'm not gonna lose!
+Dialogue: 0,0:19:44.80,0:19:45.85,Default,,0000,0000,0000,,It got past him!
+Dialogue: 0,0:19:45.85,0:19:48.06,Default,,0000,0000,0000,,But he's in the outfield.
+Dialogue: 0,0:19:54.15,0:19:55.44,Default,,0000,0000,0000,,Ikumi!
+Dialogue: 0,0:19:55.44,0:20:02.11,Default,,0000,0000,0000,,Ikumi is running so... so desperately.
+Dialogue: 0,0:20:02.11,0:20:06.45,Default,,0000,0000,0000,,What are you doing? Throw it back home!
+Dialogue: 0,0:20:06.45,0:20:10.83,Default,,0000,0000,0000,,My... My sight's blurry.
+Dialogue: 0,0:20:10.83,0:20:12.96,Default,,0000,0000,0000,,Uh huh?
+Dialogue: 0,0:20:12.96,0:20:14.08,Default,,0000,0000,0000,,Uh huh...
+Dialogue: 0,0:20:14.08,0:20:15.00,Default,,0000,0000,0000,,Safe!
+Dialogue: 0,0:20:15.00,0:20:17.25,Default,,0000,0000,0000,,I'm turnin' this around in one shot!
+Dialogue: 0,0:20:17.25,0:20:20.09,Default,,0000,0000,0000,,Uh huh, uh huh...
+Dialogue: 0,0:20:20.09,0:20:22.22,Default,,0000,0000,0000,,Uh huh!
+Dialogue: 0,0:20:22.22,0:20:31.18,Default,,0000,0000,0000,,Oh, no you don't!
+Dialogue: 0,0:20:31.18,0:20:32.89,Default,,0000,0000,0000,,This is...
+Dialogue: 0,0:20:32.89,0:20:35.40,Default,,0000,0000,0000,,Out!
+Dialogue: 0,0:20:35.40,0:20:38.11,Default,,0000,0000,0000,,Which means...
+Dialogue: 0,0:20:38.11,0:20:42.40,Default,,0000,0000,0000,,The Inobou Rockers have\Nscored one run, bringing it to a 4-4 tie.
+Dialogue: 0,0:20:42.40,0:20:44.20,Default,,0000,0000,0000,,What do you mean, tie?
+Dialogue: 0,0:20:44.20,0:20:46.24,Default,,0000,0000,0000,,Let's have extra innings! Extra innings!
+Dialogue: 0,0:20:46.24,0:20:50.16,Default,,0000,0000,0000,,But look, everyone's already going home.
+Dialogue: 0,0:20:52.87,0:20:54.37,Default,,0000,0000,0000,,Hey, don't go home yet!
+Dialogue: 0,0:20:54.37,0:20:57.04,Default,,0000,0000,0000,,It's not over yet!
+Dialogue: 0,0:20:57.04,0:20:59.67,Default,,0000,0000,0000,,Yeah! Maki, call for extra innings...
+Dialogue: 0,0:20:59.67,0:21:02.30,Default,,0000,0000,0000,,Uh, she's gone.
+Dialogue: 0,0:21:02.30,0:21:05.72,Default,,0000,0000,0000,,Now I don't know why we bothered\Nto play the game in the first place!
+Dialogue: 0,0:21:05.72,0:21:07.89,Default,,0000,0000,0000,,That's what I'm saying!
+Dialogue: 0,0:21:07.89,0:21:11.27,Default,,0000,0000,0000,,--I ain't happy with this!\N--I'm not happy with this!
+Dialogue: 0,0:21:14.02,0:21:18.15,Default,,0000,0000,0000,,{\i1}Let's start living together right now{\i0}
+Dialogue: 0,0:21:18.15,0:21:22.74,Default,,0000,0000,0000,,{\i1}All that's missing is time{\i0}
+Dialogue: 0,0:21:22.74,0:21:26.78,Default,,0000,0000,0000,,{\i1}Don't you think we need a place{\i0}
+Dialogue: 0,0:21:26.78,0:21:31.24,Default,,0000,0000,0000,,{\i1}Where we can share our smiles,\Nour tears{\i0}, {\i1}and our free time?{\i0}
+Dialogue: 0,0:21:31.24,0:21:39.21,Default,,0000,0000,0000,,{\i1}If I was with you,\NI could stay there forever{\i0}
+Dialogue: 0,0:21:40.50,0:21:44.92,Default,,0000,0000,0000,,{\i1}I know you don't\Nlike anything complicated{\i0}
+Dialogue: 0,0:21:44.92,0:21:49.22,Default,,0000,0000,0000,,{\i1}But I still keep on pulling your arms{\i0}
+Dialogue: 0,0:21:49.22,0:21:53.81,Default,,0000,0000,0000,,{\i1}I finally found this 2LDK{\i0}
+Dialogue: 0,0:21:57.81,0:22:02.15,Default,,0000,0000,0000,,{\i1}A table set would be fine too{\i0}
+Dialogue: 0,0:22:02.15,0:22:06.40,Default,,0000,0000,0000,,{\i1}But I think a kotatsu\Nwould be better after all{\i0}
+Dialogue: 0,0:22:06.40,0:22:10.24,Default,,0000,0000,0000,,{\i1}The time we spend\Njust lying around together{\i0}
+Dialogue: 0,0:22:10.24,0:22:15.16,Default,,0000,0000,0000,,{\i1}Is more important than it sounds{\i0}
+Dialogue: 0,0:22:15.16,0:22:23.76,Default,,0000,0000,0000,,{\i1}It's not easy to find someone\Nyou can always accept{\i0}
+Dialogue: 0,0:22:23.76,0:22:27.30,Default,,0000,0000,0000,,{\i1}And who will always accept you{\i0}
+Dialogue: 0,0:22:27.30,0:22:31.81,Default,,0000,0000,0000,,{\i1}But you are that person for me, so{\i0}
+Dialogue: 0,0:22:31.81,0:22:35.98,Default,,0000,0000,0000,,{\i1}Let's start living together right now{\i0}
+Dialogue: 0,0:22:35.98,0:22:40.61,Default,,0000,0000,0000,,{\i1}All that's missing is time{\i0}
+Dialogue: 0,0:22:40.61,0:22:44.53,Default,,0000,0000,0000,,{\i1}Don't you think we need a place{\i0}
+Dialogue: 0,0:22:44.53,0:22:49.11,Default,,0000,0000,0000,,{\i1}Where we can share smiles,\Nour tears, and our free time?{\i0}
+Dialogue: 0,0:22:49.11,0:22:58.37,Default,,0000,0000,0000,,{\i1}If I was with you,\NI could stay there forever{\i0}
+Dialogue: 0,0:23:05.21,0:23:07.76,Default,,0000,0000,0000,,{\i1}Oh my, you draw doujinshi too?{\i0}
+Dialogue: 0,0:23:07.76,0:23:09.80,Default,,0000,0000,0000,,{\i1}Huh? Um, well...{\i0}
+Dialogue: 0,0:23:09.80,0:23:11.64,Default,,0000,0000,0000,,{\i1}And what kind of story is it?{\i0}
+Dialogue: 0,0:23:11.64,0:23:13.68,Default,,0000,0000,0000,,{\i1}It's basically about love.{\i0}
+Dialogue: 0,0:23:13.68,0:23:15.10,Default,,0000,0000,0000,,{\i1}Don't tell me it's going\Nto be a "boys love" story?{\i0}
+Dialogue: 0,0:23:15.10,0:23:16.27,Default,,0000,0000,0000,,{\i1}Um, no...{\i0}
+Dialogue: 0,0:23:16.27,0:23:17.06,Default,,0000,0000,0000,,{\i1}Is it yaoi?{\i0}
+Dialogue: 0,0:23:17.06,0:23:17.77,Default,,0000,0000,0000,,{\i1}Umm...{\i0}
+Dialogue: 0,0:23:17.77,0:23:19.35,Default,,0000,0000,0000,,{\i1}Could it be something\Nlike you'd see in "June"?{\i0}
+Dialogue: 0,0:23:19.35,0:23:21.23,Default,,0000,0000,0000,,{\i1}Aren't those all the same?{\i0}
+Dialogue: 0,0:23:21.23,0:23:23.23,Default,,0000,0000,0000,,{\i1}No, I mean, I...{\i0}
+Dialogue: 0,0:23:23.23,0:23:25.23,Default,,0000,0000,0000,,{\i1}Oh look, we've run out of time.{\i0}
+Dialogue: 0,0:23:25.23,0:23:29.82,Default,,0000,0000,0000,,{\i1}Huh? Um, next time:\N"Please Listen to My Feelings!"{\i0}
+Dialogue: 0,0:23:29.82,0:23:32.66,Default,,0000,0000,0000,,{\i1}Please listen to what I'm saying too!{\i0}
