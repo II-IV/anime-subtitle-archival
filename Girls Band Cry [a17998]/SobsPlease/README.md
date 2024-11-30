@@ -10,13 +10,13 @@
 | Timing            | petzku                              |
 | Encoding          | Zewia                               |
 | K-Timing          | arctan, Period                      |
-| Quality Control   | rcombs, Period, Akemi (01-02)          |
+| Quality Control   | rcombs, Period, Akemi (01-02)       |
 
 ## Release Info
 
 |              |           |
 |--------------|-----------|
 | Status       | Complete  |
-| Batch Status | -         |
+| Batch Status | Complete  |
 | Source       | WEBRip    |
 | Resolution   | 1920x1080 |
