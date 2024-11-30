@@ -10,7 +10,7 @@
 | Timing            | petzku                              |
 | Encoding          | Zewia                               |
 | K-Timing          | arctan, Period                      |
-| Quality Control   | rcombs, Period, Akemi (01)          |
+| Quality Control   | rcombs, Period, Akemi (01-02)          |
 
 ## Release Info
 
